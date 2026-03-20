@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-20",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Complaint About Israeli Strike on Gas Field Exposes Divergent Strategies",
+        "Trump Says He Won’t Send Troops to Iran But Leaves Wiggle Room",
+        "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
+        "F.C.C. Approves Nexstar’s Acquisition of a Local TV Rival",
+        "Trump’s Handpicked Arts Commission Approves Gold Coin With His Face on It"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Woman charged with murder after allegedly taking abortion pills, going to hospital",
+        "Cities race to confront César Chavez’s legacy after assault claims",
+        "After barista’s tips were stolen, strangers showed up with $900",
+        "To Catholic thinkers, Pentagon’s AI demands violate ‘human dignity’",
+        "Advocacy groups get trans athlete bans on ballots in Maine, Colorado"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Super Micro co-founder engaged in backdoor scheme to divert Nvidia chips to China, U.S. government says",
+        "This is Jeff Bezos’s plan to rival Elon Musk in the race for space-based data centers",
+        "The Trump administration just greenlit the TV megamerger at the center of Jimmy Kimmel’s suspension. It still may not be legal.",
+        "Planet Labs’ stock soars as the satellite company says AI will unlock more business",
+        "FedEx is upbeat about shipping demand despite surging fuel costs — and the stock is rallying"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Trump cracks a joke about Pearl Harbor, with Japanese PM sitting nearby",
+        "U.S. faces growing concern about war escalating as Iran attacks oil and gas facilities",
+        "Schools left wondering how to proceed after Supreme Court ruling on transitioning students",
+        "Deported 6-year-old deaf boy could die in Colombia without medical attention, his attorney says",
+        "Israel kills Iran's spy chief; Gabbard says government is 'intact but largely degraded'"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Federal student loans will move to Treasury, further shrinking Education Department",
+        "Planned Parenthood chapter settles with EEOC over treatment of white employees",
+        "FDA backs off stricter tanning bed rules with RFK Jr.'s support",
+        "Trump's mediators offer Hamas formal proposal to give up its weapons in Gaza",
+        "Afroman prevails in cops' music video defamation suit after a brief but viral trial"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump administration probes states that mandate health insurance coverage for abortion",
+        "DHS secretary nominee Mullin presents a different vision for FEMA than predecessor Noem",
+        "Trump commemorative gold coin approved for U.S. Mint to produce for America's 250th",
+        "Many Americans plan to cut food to afford ACA health insurance, new poll shows",
+        "Pentagon poised to ask Congress for up to $200 billion to fund Iran war"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+/* ===== Reset & Base ===== */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  background: #0a0a0a;
+  color: #e8e4df;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ===== Navigation ===== */
+.site-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.25rem 2rem;
+  background: linear-gradient(to bottom, rgba(10, 10, 10, 0.85), transparent);
+  pointer-events: none;
+}
+
+.site-nav a {
+  pointer-events: auto;
+  color: #e8e4df;
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+}
+
+.site-nav a:hover {
+  opacity: 0.7;
+}
+
+.nav-title {
+  font-size: 1.1rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+
+.nav-link.active {
+  opacity: 1;
+  border-bottom: 1px solid #e8e4df;
+  padding-bottom: 2px;
+}
+
+/* ===== Gallery ===== */
+.gallery {
+  width: 100%;
+}
+
+.gallery-panel {
+  width: 100%;
+  height: 100vh;
+  scroll-snap-align: start;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.panel-inner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.panel-inner img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* Gallery wall label — like a museum tag */
+.panel-label {
+  position: absolute;
+  bottom: 2.5rem;
+  right: 2.5rem;
+  text-align: right;
+}
+
+.label-date {
+  display: block;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(232, 228, 223, 0.6);
+}
+
+.label-number {
+  display: block;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  color: rgba(232, 228, 223, 0.35);
+  margin-top: 0.25rem;
+}
+
+/* Placeholder state */
+.placeholder-panel {
+  background: #0a0a0a;
+}
+
+.placeholder-message {
+  text-align: center;
+  color: rgba(232, 228, 223, 0.4);
+}
+
+.placeholder-message p {
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+.placeholder-sub {
+  margin-top: 0.5rem;
+  font-size: 0.85rem !important;
+}
+
+/* ===== About / Plaque Page ===== */
+.about-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6rem 2rem 4rem;
+}
+
+.plaque {
+  max-width: 560px;
+  width: 100%;
+  border: 1px solid rgba(232, 228, 223, 0.15);
+  padding: 3rem 2.5rem;
+  background: rgba(232, 228, 223, 0.03);
+}
+
+.plaque-title {
+  font-size: 1.6rem;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.25rem;
+}
+
+.plaque-subtitle {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: rgba(232, 228, 223, 0.5);
+  margin-bottom: 2.5rem;
+}
+
+.plaque-details {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.plaque-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.plaque-row dt {
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(232, 228, 223, 0.45);
+}
+
+.plaque-row dd {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: rgba(232, 228, 223, 0.85);
+}
+
+.plaque-note {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(232, 228, 223, 0.1);
+  font-size: 0.8rem;
+  font-style: italic;
+  color: rgba(232, 228, 223, 0.35);
+  line-height: 1.6;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 600px) {
+  .site-nav {
+    padding: 1rem 1.25rem;
+  }
+
+  .panel-label {
+    bottom: 1.5rem;
+    right: 1.5rem;
+  }
+
+  .plaque {
+    padding: 2rem 1.5rem;
+  }
+
+  .about-page {
+    padding: 5rem 1.25rem 3rem;
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "the-undercurrent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Undercurrent — daily AI-generated artwork from US newspaper headlines",
+  "scripts": {
+    "generate": "node scripts/daily-update.js",
+    "fetch-headlines": "node scripts/fetch-headlines.js",
+    "test-prompt": "node scripts/test-prompt.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "rss-parser": "^3.13.0",
+    "dotenv": "^16.4.0"
+  }
+}
