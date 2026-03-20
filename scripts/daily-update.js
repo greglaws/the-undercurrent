@@ -16,10 +16,20 @@ const ROLLING_DAYS = 7;
 async function run() {
   console.log('=== HeadlinePic Daily Update ===\n');
 
+  // Step 0: Check if we already generated today
+  const today = new Date().toISOString().split('T')[0];
+  let gallery = [];
+  if (fs.existsSync(GALLERY_PATH)) {
+    try { gallery = JSON.parse(fs.readFileSync(GALLERY_PATH, 'utf-8')); } catch {}
+  }
+  if (gallery.some(e => e.date === today)) {
+    console.log(`Already generated for ${today}, skipping.`);
+    return;
+  }
+
   // Step 1: Fetch today's headlines
   console.log('Step 1: Fetching headlines...\n');
-  const todayData = await fetchHeadlines();
-  const today = todayData.date;
+  await fetchHeadlines();
 
   // Step 2: Build rolling 7-day headline text
   console.log('\nStep 2: Building rolling headline window...\n');
