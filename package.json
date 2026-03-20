@@ -2,6 +2,7 @@
   "name": "the-undercurrent",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "description": "The Undercurrent — daily AI-generated artwork from US newspaper headlines",
   "scripts": {
     "generate": "node scripts/daily-update.js",
