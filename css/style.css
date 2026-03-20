@@ -9,13 +9,14 @@ html {
   font-family: 'Georgia', 'Times New Roman', serif;
   background: #0a0a0a;
   color: #e8e4df;
-  scroll-snap-type: y mandatory;
-  scroll-behavior: smooth;
 }
 
 body {
   min-height: 100vh;
   overflow-x: hidden;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
 }
 
 /* ===== Navigation ===== */
