@@ -1,0 +1,45 @@
+name: Daily Generation
+
+on:
+  schedule:
+    # Run at 6:00 AM EST (11:00 UTC) every day
+    - cron: '0 11 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run daily generation
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/daily-update.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "The Undercurrent Bot"
+          git config user.email "undercurrent-bot@users.noreply.github.com"
+          git add archive/ data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(date +%Y-%m-%d)
+            git commit -m "No. $(jq '.[0].number' data/gallery.json) — ${DATE}"
+            git push
+          fi
