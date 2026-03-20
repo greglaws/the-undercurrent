@@ -55,13 +55,14 @@
   }
 
   function formatDate(iso) {
-    var d = new Date(iso + 'T12:00:00');
+    var d = new Date(iso + 'T12:00:00Z');
     return d.toLocaleDateString('en-US', {
       weekday: 'long',
       year: 'numeric',
       month: 'long',
-      day: 'numeric'
-    });
+      day: 'numeric',
+      timeZone: 'UTC'
+    }) + ' UTC';
   }
 
   loadGallery();

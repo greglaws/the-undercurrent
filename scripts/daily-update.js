@@ -51,11 +51,11 @@ async function run() {
 
 function buildRollingHeadlines(todayStr) {
   const files = [];
-  const today = new Date(todayStr + 'T12:00:00');
+  const today = new Date(todayStr + 'T12:00:00Z');
 
   for (let i = 0; i < ROLLING_DAYS; i++) {
     const d = new Date(today);
-    d.setDate(d.getDate() - i);
+    d.setUTCDate(d.getUTCDate() - i);
     const dateStr = d.toISOString().split('T')[0];
     const filePath = path.join(HEADLINES_DIR, `${dateStr}.json`);
 
