@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "War in Iran Reveals Strait of Hormuz’s Weakness as an Oil Bottleneck",
+        "High Gas Prices, Driven Up by the Iran War, Loom Over the Midterms",
+        "Striking Down Pentagon Press Limits, Judge Vindicates Independent Journalism",
+        "Judge Rules Pentagon Restrictions on Press Are Unconstitutional",
+        "Trump’s Ballroom Architect Is Skilled at Shrugging Off Outrage"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "A massive border wall expansion is underway ",
+        "Calvin Tomkins, who narrated the rise of contemporary art, dies at 100",
+        "Grandpa, 101, goes viral from pottery class: ‘Happiest guy in the world’",
+        "Woman charged with murder after allegedly taking abortion pills, going to hospital",
+        "Cities race to confront César Chavez’s legacy after assault claims"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "‘I’m completely gobsmacked’: My elderly brother has a reverse mortgage, but has run out of money. Do I help?",
+        "‘Six figures are missing’: My aunt’s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?",
+        "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+        "‘This guy has no manners’: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?",
+        "Super Micro’s stock sinks 33% after co-founder’s indictment. Here are Wall Street’s biggest questions."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Granderson: Trump wants to 'take' Cuba, but we've done that repeatedly before",
+        "Homeless and stateless: Deportees from U.S. are trapped in Mexico",
+        "Gasoline price gouging in California draws a warning",
+        "Trump weighs 'winding down' war as Pentagon sends 2,500 California Marines to Mideast",
+        "Contributor: A Democratic takeover of the Senate is now imaginable"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Meet the Dutch art detective who tracks down stolen masterpieces",
+        "When health insurance costs $2,500 per month, families make tough choices",
+        "DHS shutdown hurts families' access to detention facilities, Democrat says",
+        "Iran war enters its fourth week with no clear end in sight",
+        "U.S. judge rules against Pentagon restrictions on press coverage"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "As attacks on oil sites continue, Trump dismisses ceasefire, says Iran is 'finished'",
+        "News Wrap: Deadlock over DHS funding shows no signs of ending",
+        "Jury finds Musk misled investors during Twitter takeover, absolves him of some fraud claims",
+        "Zohran Mamdani on his bold agenda, tackling Islamophobia and working with Trump",
+        "Long lines, frustrations grow at airports as DHS shutdown strains TSA staffing"
+      ]
+    }
+  ]
+}
