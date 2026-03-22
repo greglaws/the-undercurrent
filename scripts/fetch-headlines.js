@@ -7,9 +7,9 @@ const parser = new RSSParser();
 // RSS feeds for the six papers (all independently owned)
 const FEEDS = [
   { name: 'The New York Times',      url: 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml' },
-  { name: 'The Washington Post',     url: 'https://feeds.washingtonpost.com/rss/national' },
-  { name: 'The Wall Street Journal', url: 'https://feeds.content.dowjones.io/public/rss/mw_topStories' },
-  { name: 'Los Angeles Times',       url: 'https://www.latimes.com/world-nation/rss2.0.xml' },
+  { name: 'The Washington Post',     url: 'https://feeds.washingtonpost.com/rss/homepage' },
+  { name: 'The Wall Street Journal', url: 'https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness' },
+  { name: 'Los Angeles Times',       url: 'https://www.latimes.com/index.rss' },
   { name: 'NPR News',                url: 'https://feeds.npr.org/1001/rss.xml' },
   { name: 'PBS NewsHour',             url: 'https://www.pbs.org/newshour/feeds/rss/headlines' },
 ];
@@ -17,18 +17,23 @@ const FEEDS = [
 async function fetchHeadlines() {
   const now = new Date();
   const today = `${now.getUTCFullYear()}-${String(now.getUTCMonth() + 1).padStart(2, '0')}-${String(now.getUTCDate()).padStart(2, '0')}`;
+  const cutoff = new Date(now.getTime() - 24 * 60 * 60 * 1000); // 24 hours ago
   const results = [];
 
   for (const source of FEEDS) {
     try {
       const feed = await parser.parseURL(source.url);
-      // Take up to 5 headlines per source
-      const headlines = feed.items.slice(0, 5).map(item => item.title);
+      // Filter to items published in the last 24 hours, then take up to 5
+      const recent = feed.items.filter(item => {
+        const pub = item.pubDate ? new Date(item.pubDate) : null;
+        return !pub || pub >= cutoff; // keep items with no pubDate (benefit of the doubt)
+      });
+      const headlines = recent.slice(0, 3).map(item => item.title);
       results.push({
         source: source.name,
         headlines,
       });
-      console.log(`  ✓ ${source.name}: ${headlines.length} headlines`);
+      console.log(`  ✓ ${source.name}: ${headlines.length} headlines (${feed.items.length - recent.length} filtered)`);
     } catch (err) {
       console.warn(`  ✗ ${source.name}: ${err.message}`);
       results.push({
