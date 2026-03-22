@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-22",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?",
+        "As War Disrupts India’s Gulf Ties, Economy Faces ‘New Broadside’",
+        "Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown",
+        "How Corey Lewandowski Wielded Power Inside D.H.S.",
+        "News Outlets Pressure Pentagon to Restore Access After Court Ruling"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "One gas station, two drivers and three fill-ups: The Iran war hits home",
+        "An 80-mile horseback ride connects Black families with their Texas roots",
+        "These people used AI to help find their lost pets",
+        "A massive border wall expansion is underway ",
+        "Calvin Tomkins, who narrated the rise of contemporary art, dies at 100"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "‘This guy has no manners’: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?",
+        "‘Healthcare is important to me’: I’m worried about relocating to Florida from New Jersey. Are hospitals there under stress?",
+        "‘I find that advice questionable’: Is it time to rethink the rule of tapping your Roth last — after your 401(k) and IRA?",
+        "‘I’m completely gobsmacked’: My elderly brother has a reverse mortgage — yet he still ran out of money. Do I help?",
+        "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Barabak: California can have both easy voting and quicker election results. Here's how.",
+        "Granderson: Trump wants to 'take' Cuba, but we've done that repeatedly before",
+        "Homeless and stateless: Deportees from U.S. are trapped in Mexico",
+        "Gasoline price gouging in California draws a warning",
+        "Trump weighs 'winding down' war as Pentagon sends 2,500 California Marines to Mideast"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Cortina d'Ampezzo mixes Olympic legacy with Alpine glamour",
+        "Cuba's power grid collapses leaving it without electricity for the 3rd time this month",
+        "A strike on a hospital in Sudan killed at least 64 people, WHO says",
+        "How one Minnesota school is bouncing back after the ICE surge",
+        "Airport security lines are long. Here's what to know if you're flying"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump says he will order federal immigration officers to help with airport security unless Democrats end shutdown",
+        "Fact-checking Senate Minority Leader Chuck Schumer on the effects of the SAVE America Act",
+        "Russia and Ukraine trade attacks, killing at least 4 ahead of U.S. talks",
+        "Tens of thousands of people in Prague protest against new government of Czech prime minister Babi&scaron;",
+        "Dozens injured in Israel after Iranian missile strikes target two areas near main nuclear research center"
+      ]
+    }
+  ]
+}
