@@ -1,0 +1,51 @@
+{
+  "date": "2026-03-23",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "A Deadly Collision at LaGuardia Airport, and Trump’s Ultimatum to Iran",
+        "Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage",
+        "Sidelined by War With Iran, Gaza Residents Remain in Limbo"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "\n                        Opinions from across America on today’s news\n                      "
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Veteran Podcasters Hanging up Their Headphones",
+        "Lawmakers to Introduce Bipartisan Bill Banning Sports Bets on Prediction Markets",
+        "Iranian Missile Strikes Are Costing Big Oil Billions in Lost Revenue"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Lesson plans go 'out the window' as educators pivot on César Chávez amid abuse allegations",
+        "Job losses, falling ratings, consolidation: What's behind the decline in local TV news",
+        "Data centers under scrutiny by California lawmakers as fears rise about health and energy impacts"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Iran threatens strikes on Gulf power plants following Trump's Strait of Hormuz ultimatum",
+        "As D.C.'s cherry blossom trees near peak bloom, here's a guide to their history",
+        "With more older drivers on the road, states try to balance safety and mobility"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Thousands of Chileans protest President Kast's environmental rollbacks on World Water Day",
+        "Trump continues to shift course on Strait of Hormuz strategy, raising questions about U.S. war preparedness",
+        "Manchester City beats Arsenal 2-0 in English League Cup final win"
+      ]
+    }
+  ]
+}
