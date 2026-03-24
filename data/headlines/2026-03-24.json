@@ -1,0 +1,51 @@
+{
+  "date": "2026-03-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Faces Blowback on Easing Iran Oil Sanctions",
+        "Trump Delays Threat to Iran, but War Negotiations Are in Early Stage",
+        "‘What If Donald Shouts at Me?’ Trump Sours on British Leader Over Iran War"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "\n                        Opinions from across America on today’s news\n                      "
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Estée Lauder in Talks to Acquire Spain’s Puig to Create Global Beauty Giant",
+        "Tesla Sales Rebound in Europe After Monthslong Slump",
+        "Xi Jinping’s Morality Crackdown Has a New Victim: The Global Wine Trade"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Officials considered warning Altadena before Eaton fire, but no alert was sent",
+        "USC cancels gubernatorial debate amid uproar over candidates of color being excluded",
+        "The scammer, the fixer and the cop: Inside L.A.'s world of millionaire 'crypto kids'"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war",
+        "Iran fires more missiles at Israel, dismisses Trump's talk as 'fake news'",
+        "Kim vows to 'irreversibly' cement North Korea's nuclear status"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Voice of America journalists allege Trump is making news outlet a propaganda source",
+        "Trump says Iran wants 'deal' to end war, but regime denies talks and strikes continue",
+        "Deadly LaGuardia plane collision comes as U.S. air system faces significant stress"
+      ]
+    }
+  ]
+}
