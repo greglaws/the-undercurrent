@@ -75,9 +75,9 @@ body {
   scroll-snap-align: start;
   position: relative;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: stretch;
   overflow: hidden;
+  cursor: pointer;
 }
 
 .panel-inner {
@@ -86,6 +86,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
+  transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.gallery-panel.revealed .panel-inner {
+  width: 60%;
 }
 
 .panel-inner img {
@@ -95,12 +101,68 @@ body {
   display: block;
 }
 
+/* ===== Headlines Panel ===== */
+.headlines-panel {
+  width: 40%;
+  flex-shrink: 0;
+  overflow-y: auto;
+  padding: 4rem 2.5rem 3rem;
+  background: rgba(10, 10, 10, 0.95);
+  border-left: 1px solid rgba(232, 228, 223, 0.08);
+  transform: translateX(100%);
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.gallery-panel.revealed .headlines-panel {
+  transform: translateX(0);
+}
+
+.headlines-source {
+  margin-bottom: 1.8rem;
+}
+
+.headlines-source-name {
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(232, 228, 223, 0.45);
+  margin-bottom: 0.5rem;
+}
+
+.headlines-list {
+  list-style: none;
+}
+
+.headlines-list li {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: rgba(232, 228, 223, 0.75);
+  padding: 0.3rem 0;
+}
+
+.headlines-list li + li {
+  border-top: 1px solid rgba(232, 228, 223, 0.06);
+}
+
+.headlines-empty {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: rgba(232, 228, 223, 0.3);
+  padding-top: 2rem;
+}
+
 /* Gallery wall label — like a museum tag */
 .panel-label {
   position: absolute;
   bottom: 2.5rem;
   right: 2.5rem;
   text-align: right;
+  transition: right 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 2;
+}
+
+.gallery-panel.revealed .panel-label {
+  right: calc(40% + 2.5rem);
 }
 
 .label-date {
@@ -211,9 +273,42 @@ body {
     padding: 1rem 1.25rem;
   }
 
+  .gallery-panel {
+    flex-direction: column;
+  }
+
+  .panel-inner {
+    width: 100%;
+    transition: height 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    height: 100%;
+  }
+
+  .gallery-panel.revealed .panel-inner {
+    width: 100%;
+    height: 55%;
+  }
+
+  .headlines-panel {
+    width: 100%;
+    height: 45%;
+    border-left: none;
+    border-top: 1px solid rgba(232, 228, 223, 0.08);
+    transform: translateY(100%);
+    padding: 2rem 1.5rem;
+  }
+
+  .gallery-panel.revealed .headlines-panel {
+    transform: translateY(0);
+  }
+
   .panel-label {
     bottom: 1.5rem;
     right: 1.5rem;
+  }
+
+  .gallery-panel.revealed .panel-label {
+    right: 1.5rem;
+    bottom: calc(45% + 1.5rem);
   }
 
   .plaque {
