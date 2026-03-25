@@ -23,12 +23,17 @@ async function fetchHeadlines() {
   for (const source of FEEDS) {
     try {
       const feed = await parser.parseURL(source.url);
-      // Filter to items published in the last 24 hours, then take up to 5
+      // Filter to items published in the last 24 hours
       const recent = feed.items.filter(item => {
-        const pub = item.pubDate ? new Date(item.pubDate) : null;
-        return !pub || pub >= cutoff; // keep items with no pubDate (benefit of the doubt)
+        // rss-parser normalises dates into isoDate; fall back to raw pubDate
+        const raw = item.isoDate || item.pubDate;
+        const pub = raw ? new Date(raw) : null;
+        // Keep items with missing or unparseable dates (benefit of the doubt)
+        return !pub || isNaN(pub.getTime()) || pub >= cutoff;
       });
-      const headlines = recent.slice(0, 3).map(item => item.title);
+      const headlines = recent.slice(0, 3)
+        .map(item => (item.title || '').trim())
+        .filter(t => t.length > 0);
       results.push({
         source: source.name,
         headlines,
