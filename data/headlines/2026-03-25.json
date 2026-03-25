@@ -1,0 +1,51 @@
+{
+  "date": "2026-03-25",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Cheap Drones Remain Wild Card in Iran war",
+        "An Increase in U.S. Troops to the Middle East, and a String of Attacks on Jewish Sites",
+        "Air Canada Pilots Killed in LaGuardia Crash Were Early in Flying Careers"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "\n                        Opinions from across America on today’s news\n                      "
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Company Where Driving the Wrong Car to Work Can Get You a Ticket",
+        "ICE Has Left Minneapolis. The Economic Hangover Hasn’t.",
+        "There’s One Clear Winner From the Long TSA Wait Times at Airports"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "She uncovered a terrifying lab hidden in California, with alleged ties to China",
+        "It's been decades since California had a governor's race like this one. That was a shocker",
+        "Hasty plans for forum to replace scrapped USC governor's debate fall apart"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Pentagon orders troops from 82nd Airborne Division to deploy to Middle East",
+        "They gave her business a lifeline, then froze all her money",
+        "Your data is everywhere. The government is buying it without a warrant"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Danish prime minister's future unclear after election results show indecisive outcome",
+        "U.S. to send around 1,000 troops from Army airborne unit to Mideast, AP source says",
+        "Civilians find no refuge from strikes as Middle East war widens"
+      ]
+    }
+  ]
+}
