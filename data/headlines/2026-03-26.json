@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-26",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
+        "How Kharg Island May Change the Trajectory of the Iran War",
+        "Republicans in Congress Fret Over Trump Administration’s Handling of Iran War"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Gulf countries want Trump to end Iran war — but not yet, officials say",
+        "Pentagon considers diverting Ukraine military aid to the Middle East",
+        "Israel says it killed Iran’s top naval commander in bid to reopen Strait of Hormuz"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Trump Says the Energy Shock Will Be Short-Lived. CEOs Paint a Scarier Picture.",
+        "As Bombs Rain Down, U.S. Firms Press Ahead With Gulf Expansion",
+        "Losses Pile Up for Beef Slaughterhouse Owners"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Angry backlash after beloved mama bear is killed: 'Blondie didn’t deserve to die!'",
+        "Californians with deep ties to Jalisco rattled by cartel violence and fears of bloody power struggle",
+        "He was busted for gun possession. Now he's running for L.A. City Council"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Israel and Iran ramp up attacks as Trump insists Tehran wants a deal",
+        "Trump's attacks on offshore wind could hurt infrastructure spending across the economy",
+        "It's Equal Pay Day. Women have lost ground for the second year in a row"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Iran rejects Trump's ceasefire terms and issues own demands as war continues",
+        "Jury finds Meta and YouTube liable in landmark youth addiction case",
+        "News Wrap: Democrat wins Florida state House seat in district home to Mar-a-Lago"
+      ]
+    }
+  ]
+}
