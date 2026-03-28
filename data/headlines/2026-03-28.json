@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-28",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Wild Ultimatums and ‘Bombing Our Little Hearts Out’: A Portrait of Trump at War",
+        "Iranian Strike on U.S. Base in Saudi Arabia Injures 12 American Troops, Officials Say",
+        "In an Asymmetrical War, Iran Seeks an Edge With Its Information War"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "At least 10 U.S. troops wounded in Iranian attack on Saudi air base",
+        "Iran’s attacks on Gulf neighbors cut off food and medicine for millions",
+        "U.S. uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for March 28, 2026",
+        "ICE Is Buying Up Empty Warehouses for New Detention Centers",
+        "The Playbook That Elon Musk Relies On to Make His Wild Ideas Work"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Riverside County Sheriff Chad Bianco seizes more ballots, defying California officials who ordered him to stop",
+        "Tiger Woods arrested for DUI and property damage following rollover crash in Florida",
+        "L.A. braces for 'No Kings' demonstrations, installs barriers to the 101 Freeway"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Crossing the line: Emotional abuse in college sports",
+        "Rifts over Iran, but unity for Trump: Takeaways from CPAC 2026",
+        "Stuck in a long TSA line? Here are some strategies if you need to rebook your flight"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Austria plans to ban children under 14 from social media, joining several other countries",
+        "A year after Trump's DOGE cuts, workers whose lives were upended ask what was saved",
+        "Tennessee school bus crash leaves 2 students dead, at least 7 others injured"
+      ]
+    }
+  ]
+}
