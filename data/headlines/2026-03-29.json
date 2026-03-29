@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-29",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.",
+        "Yemen’s Houthis Fire at Israel and Vow Further Attacks",
+        "5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Pentagon prepares for weeks of ground operations in Iran",
+        "Iran’s missile infrastructure severely strained after weeks of U.S.-Israeli offensive",
+        "Invoking faith in wartime, Pete Hegseth breaks norms and worries critics"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Food Mega-Mergers Hardly Ever Work. Could McCormick-Unilever Be Different?",
+        "Rivian Made Car Dealers Back Down in Washington. More States May Be Next.",
+        "How Trump Media Joined the Nuclear Industry’s Quest to Create a Star on Earth"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Trump’s approval ratings just hit a new low. A Latino voter shift could reshape the midterms",
+        "California farmers were already struggling. Then came the Iran war",
+        "Will or won't he? A lot  rides on a Trump endorsement in California governor's race"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Pakistan hosts diplomatic discussions on ending war",
+        "Why a 98-year-old federal judge is asking the Supreme Court for her job back",
+        "Some critics of birthright citizenship say it's a fraud issue. What does that mean?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Iranian attack on Saudi base injures U.S. troops as more American forces arrive in the Middle East",
+        "'No Kings' rallies draw crowds across U.S. and Europe as Springsteen headlines Minnesota demonstration",
+        "Soaring gas prices and supply chain disruptions drive up costs across the economy"
+      ]
+    }
+  ]
+}
