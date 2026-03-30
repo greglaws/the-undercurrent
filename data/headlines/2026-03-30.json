@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-30",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows",
+        "War Pushes Gas Prices Near $4 a Gallon, and Anti-Trump Protesters Rally Nationwide",
+        "U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "In allied campaign, one war mission fell to Israel — killing top Iranians",
+        "Invoking faith in wartime, Pete Hegseth breaks norms and worries critics",
+        "U.S. allows Russian oil tanker to reach Cuba, breaking Trump’s effective blockade"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Sysco to Buy Restaurant Depot in $29 Billion Deal",
+        "How Working in America Became So Joyless",
+        "BYD Posts First Annual Profit Decline in Four Years"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "A SoCal native is set to pilot NASA’s lunar mission — and become the first Black person to reach the moon",
+        "Speeders beware: 125 traffic cameras are coming to L.A., along with hefty fines. What you need to know",
+        "The 30-second kidnapping — and a family's years-long fight for the truth"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump weighing all options on Iran's Kharg island",
+        "Philanthropy in science has little oversight. Jeffrey Epstein exploited that",
+        "Trump administration cuts turned rural towns into sitting ducks for disasters"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "North Korea conducts engine test for missile capable of reaching U.S. mainland",
+        "A Houthi missile attack on Israel raises concerns about Red Sea shipping routes being blocked",
+        "Stranded humpback whale in Germany's Baltic Sea weakens as hopes of its return to the Atlantic fade"
+      ]
+    }
+  ]
+}
