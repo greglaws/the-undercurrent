@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-31",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S. Gas Prices Hit $4 a Gallon on Average",
+        "Drivers Count Their Pennies As Gas Hits $4 a Gallon",
+        "Fresh Food Distributors Add Surcharges as Fuel Costs Rise"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Gas hits $4 a gallon for the first time in nearly four years",
+        "Israel suspends battalion that detained CNN crew in West Bank",
+        "Israel mandates death penalty for West Bank Palestinians who kill in terrorist acts"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Health Care Roundup: Market Talk",
+        "Delta to Tap Amazon Satellite-Internet Service for In-Flight Wi-Fi",
+        "Auto & Transport Roundup: Market Talk"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Life after California: People find dramatically lower costs, buy homes, new research shows",
+        "Inglewood's downtown still struggles. Can it spark to life before World Cup, Super Bowl?",
+        "How NASA plans to keep Artemis astronauts alive if disaster strikes"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Iran hits oil tanker off Dubai as fighting continues on all fronts",
+        "In a town close to the farmworker movement, some struggle to process Chavez allegations",
+        "The final batch of World Cup tickets is about to go on sale. Here are 5 things to know"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Iran hits Israeli oil refinery as Trump escalates threats in widening regional war",
+        "Israeli airstrike kills 3 journalists covering war in southern Lebanon",
+        "News Wrap: Russian oil tanker arrives in Cuba"
+      ]
+    }
+  ]
+}
