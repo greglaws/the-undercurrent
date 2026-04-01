@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-01",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Supreme Court to Hear Landmark Challenge to Birthright Citizenship",
+        "He Won Birthright Citizenship for All. His Own Family Never Knew.",
+        "How Immigration Policies Like Birthright Citizenship Shaped the Supreme Court Justices’ Histories"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Markets rally, oil prices fall as Trump prepares to address nation on Iran war",
+        "Americans have little appetite for sending U.S. troops to Iran, polls show",
+        "Welcome to the war party: The new Trump-tech alliance cashes in"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Health Care Roundup: Market Talk",
+        "Auto & Transport Roundup: Market Talk",
+        "Financial Services Roundup: Market Talk"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "A serial arsonist terrorized Hollywood. It ended only after two sisters died in a house fire, authorities say",
+        "Altadenans are rushing to rebuild, but progress is slow",
+        "Supreme Court weighs Trump's bid to revise the Constitution and end birthright citizenship"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump to address nation after saying U.S. may leave war within weeks",
+        "From scrappy startup to tech giant, Apple celebrates its 50th year",
+        "4 takeaways from the U.S. men's national soccer team's World Cup tune-up games"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Democrats try new tactic to win a House seat in Utah &mdash; running as progressives in a red state",
+        "WATCH: Trump says other nations can 'fend for themselves' in Strait of Hormuz after U.S. leaves Iran",
+        "Bruce Springsteen launches political U.S. tour with 'Streets of Minneapolis'"
+      ]
+    }
+  ]
+}
