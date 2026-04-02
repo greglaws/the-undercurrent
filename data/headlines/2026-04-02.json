@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-02",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "5 Takeaways From Trump’s Address on Iran",
+        "Every Trump Threat to Abandon NATO Hollows It Out",
+        "After Attack on Iran by the U.S. and Israel, See Photos and Videos From the Middle East"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Ballroom commission changed documents at White House’s request",
+        "Congress is in no rush to authorize Trump’s ballroom after judge’s ruling",
+        "Trump says Iran war is ‘nearing completion’ as he seeks to calm economic worries"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Auto & Transport Roundup: Market Talk",
+        "Health Care Roundup: Market Talk",
+        "The IRS Chief and a Sports Collector Are Fighting Over Muhammad Ali’s Shorts"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "'You're a liar.'  Why the world's biggest building boom has run into a wall in California",
+        "Californians say democracy is in peril, state should enact voting rights protections, poll shows",
+        "Retracing the fateful journey of the Tahoe avalanche victims"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Iran continues strikes across the Persian Gulf despite Trump's warning",
+        "As hoops betting spikes, it's New Hampshire and other states vs. prediction markets",
+        "Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day'"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump signals Iran war could end soon but gives mixed signals on how",
+        "Analyzing the arguments as Supreme Court hears birthright citizenship case",
+        "Trump's Supreme Court attendance highlights his focus on immigration"
+      ]
+    }
+  ]
+}
