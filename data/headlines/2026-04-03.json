@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-03",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone.",
+        "Who Is Todd Blanche, Trump’s Acting Attorney General?",
+        "Hegseth Fires Army Chief Amid Battle With Its Leaders"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump pushed the Iran war in prime time. The public wasn’t sold.",
+        "Hegseth forces out Army’s top general, two other senior officers",
+        "Trump heralds regime change, but Iran’s leaders remain hard-liners"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Under the Skin of America’s Humanoid Robots: Chinese Technology",
+        "Blake Lively ‘It Ends With Us’ Sexual-Harassment Claims Tossed as Suit Heads to Trial",
+        "Tariffs Strained U.S. Aluminum Supplies. Now the Iran War Is Making It Worse."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Downtown L.A.'s cratering real estate market is changing — rich renters are buying their buildings",
+        "'Amateur hour at the U.S. attorney's office': L.A. prosecutors face more losses in protest cases",
+        "Why isn't the stock market freaking out more over the Iran war? Here's why"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Iran hits Gulf refineries as Trump warns U.S. will attack Iranian bridges, power plants",
+        "Verdicts against Meta and Google may bring a new era of big tech accountability",
+        "After the release of the Epstein files, why have there been so few arrests?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What's next for the Justice Department after Bondi's firing",
+        "Asylum-seekers stuck in limbo as U.S. orders them to countries they've never been to",
+        "Republicans in Congress announce plan to end DHS shutdown, but political battle continues"
+      ]
+    }
+  ]
+}
