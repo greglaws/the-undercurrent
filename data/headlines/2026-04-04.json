@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-04",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
+        "Europe’s Options in the Strait of Hormuz: Few, and Risky",
+        "What We Know About the F-15E Strike Eagle Shot Down by Iran"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Chinese firms market Iran war intelligence ‘exposing’ U.S. forces",
+        "Search for missing U.S. F-15 crew member underway in Iran",
+        "Americans are feeling the Iran war’s economic pain with hints of worse ahead"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "One Company’s Effort to Make an AI-Ready Catalog of Everything We Buy",
+        "News Quiz for April 4, 2026",
+        "Chrysler, Once an American Icon, Now Sells Just One Minivan. Can it Survive?"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Two fires break out in Southern California amid Santa Ana winds, triggering evacuations",
+        "Springs fire: Evacuations, road closures, shelters",
+        "UCLA defeats Texas to set up national title showdown with South Carolina"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Iran war enters its 6th week as military searches for downed jet crew member",
+        "The busiest place you've never seen",
+        "Buttercream wool and jelly bean eyes: The art of the Easter lamb cake"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump signs order aimed at stabilizing college sports with threats to federal funding",
+        "5.8 magnitude earthquake hits Afghanistan and Pakistan, killing 8 on outskirts of Kabul",
+        "Georgia lawmakers pass bill that lets property owners sue over homeless encampments"
+      ]
+    }
+  ]
+}
