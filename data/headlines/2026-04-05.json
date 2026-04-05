@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-05",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "What We Know About the F-15E Strike Eagle Shot Down by Iran",
+        "Interceptor Missiles Save Lives, but Stockpiles Are Dwindling",
+        "Stephen Miller Is Still Pursuing His Immigration Agenda, but More Quietly"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S. rescues missing crew member in Iran after fighter jet shot down",
+        "American universities in Middle East brace for Iranian retaliation",
+        "What the looming sale of CNN means for Trump’s feud with the network"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "‘I Will Destroy You’: The Battle Inside a Midwestern Media Dynasty",
+        "Striking Beef Plant Workers to Resume Work",
+        "SpaceX Pushes Back Crucial Starship Test Launch"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Firefighters contain Southern California brush fires fueled by Santa Ana winds",
+        "Trump administration arrests relatives of dead Iranian general in Los Angeles",
+        "U.S. airman missing after Iran shot down jet is rescued, Trump says"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "These rock-climbing fish can shimmy up a 50-foot waterfall",
+        "In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted",
+        "Questions to help you get 'financially naked' with your partner"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Iran calls on public to find 'enemy pilot' as US continues frantic search"
+      ]
+    }
+  ]
+}
