@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-06",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+        "A Harrowing Race Against Time to Find a Downed U.S. Airman in Iran",
+        "Trump’s Lesson From Risky Rescue: Threaten to Go Harder at Iran"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump to describe risky rescue mission as Iran rebuffs U.S. war demands",
+        "War-driven energy crisis boosts China’s sales pitch for renewable tech",
+        "From Oman, a waterfront view of the embattled Strait of Hormuz"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Gulf Funds Agree to Back Paramount’s $81 Billion Takeover of Warner",
+        "Fight Over Feta Strains America’s Ties With Europe",
+        "The Wall Street Dealmaker Charged With Solving Paul Weiss’s Identity Crisis"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "In L.A. mayor's race, everyone is campaigning on change — even the incumbent",
+        "President Trump endorses Steve Hilton in the California governor's race",
+        "Mexico report downplays 'disappeared' crisis. Human rights activists call it a cover-up"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
+        "Iran pushes back against Trump's deadline",
+        "She paid into Medicare for years. Trump's immigration policy will end her coverage"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "UCLA defeats South Carolina to win first NCAA women's basketball title in program history",
+        "How to 'detox' your body for free without juice, teas or flushes",
+        "Newly discovered fossils give scientists first look at the evolution of early complex animals"
+      ]
+    }
+  ]
+}
