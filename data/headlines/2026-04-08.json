@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-08",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Even as They Praise Iran Cease-Fire, World Leaders Are Whipsawed by Trump",
+        "Oil Prices Plunge and Stocks Surge After Cease-Fire Deal",
+        "Trump’s Iran Threats Look Like Self-Incrimination for Potential War Crimes"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump agrees to suspend attacks for two weeks if Iran opens Strait of Hormuz",
+        "Hegseth’s boastful claims about Iran war contradict reality, officials say",
+        "Pope Leo denounces Trump’s threat, suggests Americans contact their representatives"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Facing Soaring Fuel Costs, Delta Tells Customers to Plan for Pricier Flights",
+        "Health Care Roundup: Market Talk",
+        "Financial Services Roundup: Market Talk"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Mayor Bass has a new goal for the LAPD: Forget growing, just stop shrinking",
+        "PG&E is overcharging Californians to keep Diablo Canyon open, report alleges",
+        "Owners keep thousands of San Diego homes vacant despite high rents. They could soon be taxed"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Your sarcasm is showing — and its history is surprisingly violent",
+        "Colleges are trying to boost student voting. A Trump probe freezes data for that work",
+        "Abortion clinics are closing nationwide. Could urgent care help fill the gap?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Iran's Supreme National Security Council says it has accepted two-week ceasefire in the war",
+        "Trump agrees to 2-week ceasefire, backs down from threats to destroy Iran's infrastructure",
+        "How Iran is reacting as Trump pulls back from threat to wipe out civilization"
+      ]
+    }
+  ]
+}
