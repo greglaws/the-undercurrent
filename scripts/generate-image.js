@@ -117,7 +117,9 @@ async function generateImage(headlinesText, outputPath) {
   // Write image file
   const buffer = Buffer.from(imageData.data, 'base64');
   const ext = imageData.mimeType === 'image/png' ? 'png' : 'jpg';
-  const filePath = outputPath || path.join(__dirname, '..', 'archive', `output.${ext}`);
+  const filePath = outputPath
+    ? outputPath.replace(/\.[^.]+$/, `.${ext}`)
+    : path.join(__dirname, '..', 'archive', `output.${ext}`);
 
   const dir = path.dirname(filePath);
   if (!fs.existsSync(dir)) {
