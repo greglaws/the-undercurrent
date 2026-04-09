@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-09",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "New Deadline Looms for U.S. and Iran as Truce Wavers",
+        "Is the Strait of Hormuz Reopening? What to Know Under Iran-Cease Fire.",
+        "Markets Have Faced a Year of Chaos and Still Done Awfully Well"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "After Trump pauses war, Iranians fly flags of victory, not surrender",
+        "U.S. struggles to maintain an Iran truce whose terms are still in dispute",
+        "Trump vents at NATO but avoids rupture after meeting with alliance’s leader"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Delta’s Ace in the Hole for Surging Jet Fuel Costs: Its Own Refinery",
+        "The Dealmaking Gamble Threatening Estée Lauder’s Turnaround",
+        "Can Longtime Car Executive Luca De Meo Kick the House of Gucci Into Gear?"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "'Revolution' or 'chaos': The massive stakes if a Republican becomes California governor",
+        "Los Angeles’ population is shrinking. Is region headed for a Rust Belt ‘death spiral’?",
+        "This pharma company makes a miracle HIV drug, but is blocking access for millions of low-income people"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump warns strikes will resume if Iran doesn't agree to his peace terms",
+        "Why high oil prices are good for oil companies — until they aren't",
+        "How to make a high-deductible health plan and HSA work for you"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S.-Iran ceasefire tested by Strait of Hormuz tension and Israel's war in Lebanon",
+        "Trump says Israeli strikes on Lebanon a 'separate skirmish' not part of Iran ceasefire",
+        "Israel strikes Lebanon without warning, hours after Iran ceasefire announced"
+      ]
+    }
+  ]
+}
