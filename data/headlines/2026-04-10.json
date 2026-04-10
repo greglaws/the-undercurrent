@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-10",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "With Iran Setting Limits, Strait of Hormuz Remains Thorny Politically",
+        "Vance Faces Test of His Negotiating Skills With Iran Talks",
+        "The Mass Purge of Immigration Judges, and Melania Trump’s Surprise Epstein Remarks"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump started the Iran war with 5 goals. How far has he really gotten?",
+        "Iran ceasefire under pressure as strikes in Lebanon continue ahead of talks",
+        "China helped broker Iran truce, but it’s wary of deeper involvement"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "How VC Money and Israel Outrage Derailed a Hot Hollywood Startup",
+        "WSJ Readers Share Their Top Tips for Switching to an EV",
+        "When Bill Ackman Vented Over $2 Million, Fellow Billionaires Rushed to Commiserate"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "How thousands of sensitive LAPD files got leaked online — and what happens next",
+        "GOP's best shot at California governor's office in decades mired in angry internal debate",
+        "Wipe out a 'civilization'? Minor stuff compared with what just happened in AI"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump says Iran 'doing a very poor job' in reopening the Strait of Hormuz",
+        "Communities are waiting on billions in disaster funding from the Trump administration",
+        "Women are getting most of the new jobs. What's going on with men?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Federal judge finds Pentagon in violation of court order to restore reporters' access",
+        "Venezuelan lawmakers approve sweeping mining bill to entice wary foreign investors",
+        "EPA proposes gutting rules for handling toxic coal ash, a move that threatens groundwater"
+      ]
+    }
+  ]
+}
