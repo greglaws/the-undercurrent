@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-11",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
+        "Iran Tries to Grasp Economic Devastation of War, and Find a Way Past It",
+        "Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Artemis II splashes down safely after historic voyage around the moon",
+        "Talks set to begin in Islamabad as U.S. and Iran seek path to end war",
+        "U.S. negotiators to ask Iran to release detained Americans"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for April 11, 2026",
+        "After the Great EV Slowdown, High Gas Prices Are Tempting Americans Back",
+        "Nike Switches Up Its Innovation Leadership"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Swalwell accused of sexually assaulting female staff member, sending nude photos",
+        "Rumors, denials, then a pair of bombshells. And Eric Swalwell is suddenly on the ropes",
+        "Artemis II astronauts safely splash down off San Diego coast after historic moon mission"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "India cracks down on satirists for turning its prime minister into a punch line",
+        "Gut troubles?  This gastroenterologist has tips to help you achieve 'poophoria'",
+        "After a whirlwind mission to the moon, astronauts are back home. Here's what's next"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Vance heads to Pakistan for talks with Iran to end war",
+        "News Wrap: Inflation report shows the biggest increase since 2024",
+        "Hungarian election could end Orb&aacute;n's grip on power and alter Europe's political landscape"
+      ]
+    }
+  ]
+}
