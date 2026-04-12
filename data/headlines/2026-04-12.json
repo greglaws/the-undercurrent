@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-12",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Control of the Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points",
+        "What Now? Vance Leaves Iran Talks Without a Deal.",
+        "Trump Was Watching a U.F.C. Fight in Miami While Iran Talks Collapsed"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Direct U.S.-Iran talks fail to reach resolution after lengthy negotiation",
+        "China, Iran weaponized the global economy to beat the U.S. at its own game",
+        "Some Israelis welcome the ceasefire — others say not so fast"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Wrong-Way Bets on Oil Had a Star Trader Hundreds of Millions in the Hole",
+        "RFK Jr. Once Touted Raw Milk. Now He’s Stopped Talking About It.",
+        "Gas Prices Turn the Gig Worker Economy Upside Down"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Pressure grows for Swalwell to exit governor’s race, criminal inquiry launched",
+        "Vance says talks with Iran ended after 21 hours without reaching agreement",
+        "L.A. family linked to Iranian Revolutionary 'propagandist' arrested by feds"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "A Hezbollah commander describes battling Israel in Lebanon",
+        "No Deal: U.S.-Iran peace talks in Islamabad collapse",
+        "The real space science behind 'Project Hail Mary'"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Cheers welcome Artemis II astronauts home after record-breaking trip",
+        "Drought threatens myrrh tree key to luxury perfumes and African incomes",
+        "Stabbings on New York City subway leave 3 hurt as officers fatally shoot knife-wielding man"
+      ]
+    }
+  ]
+}
