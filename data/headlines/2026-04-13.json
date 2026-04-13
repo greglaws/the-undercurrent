@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-13",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Pope Leo Heads to Africa to Meet the Future of Catholicism",
+        "What to Know About Pope Leo’s Voyage to Africa",
+        "U.S. Prepares to Blockade Strait of Hormuz, and a MAGA Hero Is Defeated in Europe"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "With U.S set to impose naval blockade, Iran warns it will strike back",
+        "As Iran war drags on, midterm forecasts for Republicans get even worse",
+        "Trump attacks Pope Leo, taking credit for his election as bishop of Rome"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Meta Expected to Unseat Google as World’s Largest Digital-Ad Player",
+        "Palo Alto Networks Founder Agrees to Buy California Bank for AI Revamp",
+        "Amazon’s Car Sales Bet Is Getting Bigger With New Brands and More Cities"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Swalwell suspends campaign for governor amid allegations of sexual assault, nude photos",
+        "Homeland Security to review allegation that Swalwell employed undocumented nanny",
+        "Movie theaters finally emerge from the shadows of the pandemic"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. military to block ships from Iran's ports after peace talks fail",
+        "What a chimpanzee 'civil war' can teach us about how societies fall apart",
+        "2025 was one of most volatile years ever for U.S. naturalizations"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Worried about your mortgage payment? Here's what experts recommend",
+        "Rory McIlroy goes back-to-back at the Masters",
+        "It's OK to love all bees &mdash; including honey bees"
+      ]
+    }
+  ]
+}
