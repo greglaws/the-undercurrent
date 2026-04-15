@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-15",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion",
+        "Trump’s Blockade Risks Upending an Emerging Détente With China",
+        "How China’s Weapons Transfers to Iran Have Evolved Over Decades"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran",
+        "War powers vote will test Senate’s support for Trump’s war with Iran",
+        "Trump adviser Sebastian Gorka seeks top counterterrorism job"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Snap to Cut 16% of Workforce as It Seeks Profitability",
+        "How Airline Passengers Are Being Hit by the Jet-Fuel Crunch",
+        "Wall Street Has an Elite Coffee-Tasting Force. It’s Struggling to Find Recruits."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "The price of LAUSD union peace will be $1.2 billion a year. Next up is paying for it",
+        "Iran war helped freeze L.A.'s housing market. Some hope ceasefire will bring more sales",
+        "E-bikes are all over mountain trails. Some want them banned"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump says peace talks could resume in days as U.S. military blocks Iranian ports",
+        "Fela Kuti is the first African artist to enter the Rock & Roll Hall of Fame",
+        "Tax season was supposed to bring big refunds. So far they're less than expected"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Attorney says suspect in attack on OpenAI CEO's home was in midst of 'mental health crisis'",
+        "WATCH LIVE: OMB Director Vought testifies on Trump's 2027 budget request in House hearing",
+        "Israeli strikes on Lebanon continue as U.S. hosts historic diplomatic talks"
+      ]
+    }
+  ]
+}
