@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-16",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Portrayal of the War in Iran Collides With Reality",
+        "Stocks Extend Rally and Oil Prices Stabilize as Investor Optimism Grows",
+        "Trump’s Scattershot Week, and a Stock Market Record"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Largely secret donors pour millions into election that could tip Congress",
+        "Trump tests loyalty of Christian supporters as erratic behavior escalates",
+        "More young men are attending religious services regularly, poll finds"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Basic Materials Roundup: Market Talk",
+        "Next Time You Order a Dairy Queen Blizzard, You May Be Talking to AI",
+        "PepsiCo Posts Higher Sales as Price Cuts Pay Off"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "LAX's long-awaited train to hit the rails as testing begins",
+        "California sees the most measles cases in 7 years as disease resurges nationwide",
+        "This Long Beach startup says it has a patch for California's power problems"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "How seals' whiskers make them master underwater hunters",
+        "Indonesia's capital of the future faces doubts in the present",
+        "'Dear America': HUD workers say they're being blocked from doing their jobs"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH LIVE: Health Secretary RFK Jr. testifies about HHS priorities at House hearing",
+        "Justice Jackson calls out Supreme Court conservatives' pro-Trump emergency orders",
+        "FDA to weigh easing limits on unproven peptides favored by RFK Jr. and MAHA supporters"
+      ]
+    }
+  ]
+}
