@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-17",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Lebanon’s Cease-Fire Buys Time, Not a Way Out",
+        "Lebanon Cease-Fire Leaves Netanyahu in an Uncomfortable Spot",
+        "What to Know About the Israel-Lebanon Cease-Fire, and R.F.K. Jr.’s Shifting Tone on Vaccines"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Even for Europe’s populist firebrands, Trump might be going too far",
+        "Displaced stream back to south Lebanon as uncertain ceasefire takes hold",
+        "Republicans in Congress back Army secretary amid clash with Hegseth"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Basic Materials Roundup: Market Talk",
+        "Alstom Shares Plunge on Profit Warning",
+        "FAA Curbs Airlines’ Flight Plans at O’Hare"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California was warned of shocking hospice fraud. Inaction allowed problems to persist",
+        "Powerful California institutions backed Swalwell's rise. Now they're facing questions",
+        "On California farms, workers say threats to deport them are on the rise"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Israel starts a tense ceasefire in Lebanon. And, Trump nominates a new CDC director.",
+        "Who says they have no fear of the Trump administration? The quiz knows",
+        "Do less, ask for more: How to make life easier as a working parent"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Ex-NBA player Damon Jones expected to make 1st guilty plea in gambling sweep",
+        "What lagging jet fuel supplies could mean for airlines and travelers",
+        "Duffy withholds federal funding from New York over immigrant trucker licenses dispute"
+      ]
+    }
+  ]
+}
