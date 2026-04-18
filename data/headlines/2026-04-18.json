@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-18",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Reopening Strait of Hormuz Would Ease Oil Crisis but Only So Much",
+        "With Vaccines Widely Popular, Kennedy Changes Tone, but Maybe Not His Plans",
+        "Trump Will Participate in a Marathon Bible Reading"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Here’s what the stock market might have gotten wrong about the Iran war",
+        "Amid blockade, U.S. destroyers shadow laden Iranian tankers",
+        "Iran disputes claims of new agreements with Trump"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for April 18, 2026",
+        "Saudi Fund Behind LIV Golf Has $900 Billion But Is Still Strapped for Cash",
+        "Judge Halts Nexstar-Tegna TV Station Merger"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "New details emerge about the arrest of singer D4vd in the killing of teenage girl",
+        "L.A. Times Book Prize honorees toast to writing’s political power: ‘When people rise, empires always fall’",
+        "Inside LACMA's lavish opening gala for the David Geffen Galleries with George Lucas, Ed Ruscha and Jeff Koons"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Born in south Lebanon, displaced to Beirut, two grandmothers reflect on Israeli invasions",
+        "She invited her friends to come together to make her casket",
+        "Caracas' iconic macaws threatened by vanishing palm trees"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "After weeks of fighting, ceasefire sparks cautious celebration in Lebanon",
+        "Timeline for Strait of Hormuz shipping recovery remains uncertain",
+        "News Wrap: Senate approves short-term renewal of FISA surveillance program"
+      ]
+    }
+  ]
+}
