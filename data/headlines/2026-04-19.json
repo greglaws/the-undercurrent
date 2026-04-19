@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-19",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "For Iran, Flexing Control Over Waterway Is New Deterrent",
+        "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
+        "Luxury Brands Bet on the Middle East. War Has Damaged Their Plans."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "In Angola, love for an American pope but not for an American president",
+        "Iran closes Strait of Hormuz again; 2 ships report attacks while trying to cross",
+        "Here’s what the stock market might have gotten wrong about the Iran war"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Seaside Town Trying to Reclaim Its Title as ‘Submarine Capital of the World’",
+        "Justice Department Rebuffs French on X Probe, Musk Interview",
+        "This Italian Lingerie Brand Was Saved by Seamstresses—and an American Couple"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "She's a Hollywood housekeeper with a side job: cleaning the trashed streets of her own neighborhood",
+        "Mayor Bass orders extra police patrols after rash of home burglaries in the Valley",
+        "Boy shot and killed in Baldwin Park, prompting investigation"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Real estate investors are buying up long-term care facilities. Residents can suffer",
+        "This tariff-refund portal is about to be America's hottest website",
+        "She no longer remembers it's her birthday. He got her a present anyway"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "How consumers can navigate the cost of available flights impacted by the Iran war",
+        "Obama and Mamdani meet for the first time",
+        "Witnesses detail deadly Israeli strikes on medics in Lebanon"
+      ]
+    }
+  ]
+}
