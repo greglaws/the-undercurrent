@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-20",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Iran War Sent Shock Waves Through Asia That Are Likely to Spread",
+        "Vance Heads to New Talks With Iran. At Stake: Peace and His Own Standing.",
+        "U.S. Attacks and Seizes Cargo Ship Near Iran, and a First Step Toward Tariff Refunds"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Oil prices jump after U.S. seizes Iranian vessel, imperiling ceasefire",
+        "High fuel costs threaten GOP in race that could help determine House control",
+        "Man facing divorce kills 8 children, including 7 of his own, in shooting rampage"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Wheels Up Wants High-End Travelers to See Flying Private as ‘Not So Far Out of Reach’",
+        "Bipartisan Senators Warn United and American Airlines on Potential Merger",
+        "Basic Materials Roundup: Market Talk"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "New COVID subvariant 'Cicada' is on the rise. Here's what you need to know",
+        "Uproar over mama bear killing could help launch a state wildlife coexistence program",
+        "The Dodgers of esports: How L.A.'s Liquid Guild won the attention of over 100,000 people"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Peace talks in doubt as U.S. seizes Iranian ship",
+        "A mine despoiled the beauty of the rainforest. This Goldman Prize winner took action",
+        "U.S. seizes Iranian cargo ship. And, tariff refund portal launches"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Oil prices spike again following latest standoff in the Strait of Hormuz",
+        "Los Angeles woman arrested on suspicion of helping Iran traffic weapons to Sudan",
+        "Canada's prime minister says economic connection to the U.S. has shifted from a strength to a weakness"
+      ]
+    }
+  ]
+}
