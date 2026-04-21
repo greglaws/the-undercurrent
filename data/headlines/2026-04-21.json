@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How the Cole Disaster Drove the U.S. to Develop New Warship Defenses",
+        "Trump and Iran Face Off in Iran War Negotiations",
+        "Oil Prices Recede and Stocks Gain as Investors Eye Peace Talks"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump’s statements on Iran increasingly contradict each other",
+        "U.S. delegation set to leave for Islamabad as Iran ceasefire nears expiration",
+        "An American hostage’s mother on her new memoir of ‘love and pain’"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "D.R. Horton Posts Lower Profit",
+        "Basic Materials Roundup: Market Talk",
+        "UnitedHealth Shows Signs of Turnaround With Strong Quarterly Results"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "A top South Bay Realtor was found dead alone in the desert. 'A really, really ugly story'",
+        "'They did nothing.' L.A. girl's death raises questions about darkest side of bullying at school",
+        "Early visitors share first impressions of LACMA's sprawling new building"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The hidden power keeping wages low",
+        "She raised concerns about her company's contracts with ICE. Then she lost her job",
+        "The surprising origin of 4 features that superglue kids — and adults — to screens"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Next round of U.S.-Iran talks in doubt as tensions rise ahead of ceasefire deadline",
+        "Retired admiral breaks down U.S. strategy behind naval blockade",
+        "Middle East experts analyze U.S. and Iran priorities in potential negotiations"
+      ]
+    }
+  ]
+}
