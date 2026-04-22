@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-22",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "In Virginia Redistricting Win, Democrats Play Hardball to Thwart Trump",
+        "Virginia Passes Gerrymandered Map to Help Democrats in Midterms: 4 Takeaways",
+        "Abbott Uses Trump-Style Tactics, Threatens Houston, Dallas and Austin Over ICE Policy"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump blasted Obama’s Iran deal. Now he faces similar tradeoffs.",
+        "Iran says it seized 2 ships in Strait of Hormuz, hours after Trump’s ceasefire extension",
+        "Takeaways from Virginia’s vote to boost Democrats in national redistricting war"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Best Buy CEO Corie Barry Steps Down After Years of Tepid Growth",
+        "Basic Materials Roundup: Market Talk",
+        "ABB Shares Rise on Guidance Lift, Robust Demand"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "In Britain, Steve Hilton was inspired by California. Now, he calls it the worst-run state",
+        "Controversial hotel and housing complex approved in West Hollywood",
+        "Palisades reservoir that was empty during fire is dry again. Residents aren't happy about it"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Ships attacked in Strait of Hormuz after ceasefire extension",
+        "RFK Jr. is on a congressional hearing blitz, after a long absence from Capitol Hill",
+        "Trump administration delays rule aimed at improving disability access in schools"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Appeals court rules Texas can require public schools to display Ten Commandments in class",
+        "WATCH: Trump addresses NCAA Collegiate National Champions at White House",
+        "WATCH: Justice Department charges SPLC with fraud over paid informant program"
+      ]
+    }
+  ]
+}
