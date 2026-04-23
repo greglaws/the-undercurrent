@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-23",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Generals Who Are Now Running Iran",
+        "Who Is Running Iran, and How Doctors Cashed In on a Consumer Protection Law",
+        "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "John Phelan forced out as Navy secretary after 13 months",
+        "Who’s out in the Trump administration’s spring shakeup",
+        "Why these states have the lowest gas prices"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Shares of Apple Supplier STMicroelectronics Jump After Strong Quarter",
+        "American Express Profit Rises on Premium Customer Strength",
+        "Nokia Reports Rising Sales From AI and Data-Center Customers"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "LAFD's culture of obedience runs deep. Firefighters say they fear retaliation from bosses",
+        "California's rail systems need more riders. High gas prices could be fueling a new surge",
+        "A $40-million project will clean MacArthur Lake. Will it help fix the park?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Two startlingly different views on long-awaited data on America's anti-HIV efforts",
+        "Sycophantic AI flatters and suggests you are not to blame",
+        "How TikTok is driving American expats to Southeast Asia"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "UK Parliament passes bill that will ban cigarette purchases for younger generations",
+        "Searchers find body of 1 of 6 missing crew from U.S.-registered ship hit by Typhoon Sinlaku",
+        "Trump Media replaces Nunes as Truth Social CEO after stock plunge that wiped out billions"
+      ]
+    }
+  ]
+}
