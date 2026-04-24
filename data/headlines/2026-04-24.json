@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Iran War Has Drained U.S. Supplies of Critical, Costly Weapons",
+        "How the Iran War Is Morphing Into a Volatile Standoff in the Strait of Hormuz",
+        "War and Sanctions Accelerate China’s Currency Push"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Israel and Lebanon extend ceasefire for three weeks, Trump says",
+        "Third U.S. aircraft carrier arrives in waters near Iran",
+        "White House eases mandatory requirements for preserving presidential records"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Jeff Bezos and Lauren Sánchez Bezos Donate $34 Million in Fashion Grants",
+        "Trump on Spirit Airlines: ‘I Think We’d Just Buy It’",
+        "The Sphere Looked Like a Disaster. It’s Become a Huge Hit Instead."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "'In-your-face racism' at an elite campus: Black students raise alarm at Pomona College",
+        "Officers called out serious problems at firearms training facility; LAPD retaliated, jury finds",
+        "Rare national archives are on public display at USC for America's 250th anniversary"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Israel and Lebanon extend ceasefire. And, Trump eases medical marijuana rules",
+        "'Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?",
+        "After 2 failed votes, Mike Johnson unveils new plan to extend key U.S. spy powers"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Judge sets date for evidence against singer D4vd in killing of 14-year-old to be presented",
+        "U.S. soldier charged with using classified intel to win more than $400K in bet on Maduro raid",
+        "WATCH: Trump announces Israel and Lebanon have agreed to 3-week ceasefire extension"
+      ]
+    }
+  ]
+}
