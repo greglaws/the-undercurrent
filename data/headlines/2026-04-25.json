@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-25",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create",
+        "Rubio’s Absence From Iran Talks Highlights Stay-at-Home Role",
+        "On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump’s political headwinds pile up after gerrymandering, Iran setbacks",
+        "Iran says no direct talks planned as U.S. envoys set to leave for Pakistan",
+        "Trump’s plan for $500 million Spirit Airline bailout draws GOP division"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for April 25, 2026",
+        "Wedding Dresses Now Come With a Legal Waiver for Brides on GLP-1s",
+        "U.S. Energy Exports Hit Records as World Adjusts to a Closed Persian Gulf"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Rebecca Grossman, ex-boyfriend were racing when 2 boys were killed in crosswalk, lawyer alleges",
+        "Pratt and Raman lead Bass in latest fundraising for L.A. mayoral race",
+        "Park leads challenger Malik in fundraising for L.A.'s coastal council seat"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Justice Department makes it easier to deport those with DACA status",
+        "The rising cost of fertilizer and fuel prices is pushing some farmers to the brink",
+        "DOJ wants to shield its lawyers from outside scrutiny. Critics worry about oversight"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S., Iranian delegations head to Pakistan, renewing hopes for diplomatic end to war",
+        "News Wrap: DOJ drops criminal probe into Jerome Powell",
+        "Soldier's arrest over Polymarket bet on Maduro raid fuels insider trading concerns"
+      ]
+    }
+  ]
+}
