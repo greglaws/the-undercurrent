@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-26",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "California Man in Custody After Shooting at Dinner Attended by Trump",
+        "Trump Describes His Mind-Set After Shooting at White House Correspondents’ Dinner",
+        "U.S. Sanctions Zigzag in New World of Economic Warfare"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Inside the chaotic correspondents’ dinner shooting: ‘Get down, get down!’",
+        "Live updates: Officials identify suspect in White House correspondents’ dinner shooting",
+        "Trump says he sees shootings as a reflection of his impact"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Bill Perkins Doesn’t Think You Should Wait to Spend Your Money. He Told Us Why.",
+        "Aircraft Technicians Make Six Figures and Airlines Can’t Find Enough of Them",
+        "America’s Pandemic Car Bubble Is Now Trapping Buyers in Debt"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Sedated, injured, even dead: Exotic bird smuggling cases underscore a problem at the border",
+        "Carbon fire in Orange County burns 200 acres, prompts evacuation warnings",
+        "LAPD arrest protester who sprayed a 'chemical agent' at two officers"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "King Charles U.S. visit comes at tense moment in transatlantic relationship",
+        "For students labeled 'emotionally disturbed,' separation can lead to isolation",
+        "The Supreme Court case that could redefine your digital privacy"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH: D.C. officials share updates on the White House Correspondents' Dinner shooting",
+        "WATCH: Trump holds press conference after shooting at White House Correspondents' Dinner",
+        "Trump unharmed after security incident at White House Correspondents' Dinner"
+      ]
+    }
+  ]
+}
