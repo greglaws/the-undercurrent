@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-27",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Grievance Propelled Gala Attack Suspect Across Country, Authorities Say",
+        "Even Before the Gunfire. Many Guests Bore the Scars of Political Violence",
+        "‘Shots Fired!’: Inside the Pandemonium at the Washington Hilton"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Correspondents’ dinner shooting suspect called himself ‘friendly federal assassin’",
+        "Suspect sprinted 60 feet, reached staircase to correspondents’ dinner ballroom",
+        "Correspondents’ dinner lacked highest security level despite presence of top officials"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Re/Max Is Being Sold to a Tech-Focused Real-Estate Firm",
+        "How MAHA Moms Are Protesting Pesticides",
+        "Verizon Adds Wireless Subscribers in First Full Quarter Under New CEO"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Leaked LAPD records reveal officers in fireworks blast received only brief suspensions",
+        "One man has filed 1,800 disability lawsuits against SoCal shops. Store owners are fed up",
+        "Billionaire-tax backers say they have enough signatures — times two — to qualify for ballot"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Inflation is sucking the life out of teacher pay raises, report says",
+        "Alleged White House Correspondents' Dinner shooter set to appear in federal court",
+        "Musk vs. Altman: Tech CEOs head to court over the fate of OpenAI"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Justice Department cites Correspondents' Dinner shooting in push to drop Trump ballroom lawsuit",
+        "At least 2 dead after tornadoes destroy homes in northern Texas",
+        "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success"
+      ]
+    }
+  ]
+}
