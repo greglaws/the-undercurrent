@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-28",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Republicans Brace for Brutal Midterms as Trump’s Popularity Slips",
+        "King Charles Visits Trump as U.S.-U.K. Tensions Flare, and Airlines Ask White House for Help",
+        "Trump Is Dissatisfied With Iran’s Plan to Reopen Strait of Hormuz"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Correspondents’ dinner suspect charged with attempting to assassinate Trump",
+        "I cannot stop thinking about Cheryl Hines at the correspondents’ dinner",
+        "Jimmy Kimmel responds to Trump’s call for his firing: ‘This was like déjà vu’"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Kimmel Pushes Back on Trump’s Calls for Disney to Fire Him After Melania Joke",
+        "GM Raises Adjusted-Profit Guidance on Lower Tariff Costs",
+        "Spotify Hits 293 Million Subscribers"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Drones join LAPD helicopters in city skies for standoffs, chases — and surveillance",
+        "A cheat sheet for the California governor debate: Here's what to watch for",
+        "Cole Tomas Allen purchased weapons in L.A.'s South Bay, a hot spot for gun sales"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts",
+        "'We don't know what will happen to us': U.S. deportees in limbo in DRC",
+        "The MAHA movement is mad about glyphosate and Trump's EPA"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Accused Correspondents' Dinner gunman charged with attempted assassination of Trump",
+        "Liz Landers and Lisa Desjardins describe chaos at Correspondents' Dinner shooting",
+        "With new student loan changes, borrowers fear unsustainable payments. Experts fear a default crisis"
+      ]
+    }
+  ]
+}
