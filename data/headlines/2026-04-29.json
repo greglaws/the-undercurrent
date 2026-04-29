@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-29",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Beneath King Charles’s Jokes and Decorum, Some Subtle Rebuttals to Trump",
+        "At State Dinner, King Charles Charms the Court of Trump",
+        "Musk vs. Altman, and a Pivotal Immigration Case at the Supreme Court"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Video shows moment Secret Service officer fired at correspondents’ dinner suspect",
+        "Trump is a target of political violence, but he’s hardly its only cause",
+        "Trump berated CBS for quoting a ‘manifesto,’ touching on an unsettled debate"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Retailers Flock to TikTok Shop to Find New Shoppers, Sales Growth",
+        "The Global Energy Order Is Breaking Down",
+        "Jimmy Kimmel Mocks Trump Again After FCC Opens Review of ABC TV Licenses"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "A heist mastermind got caught and kept on stealing — then one job ended in murder",
+        "Mysteries surround Cole Tomas Allen and his final movements in D.C. attack",
+        "Embattled homeless services agency faces greater control from city of Los Angeles"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "South Korean court sentences ex-President Yoon to 7 years in prison",
+        "Spirit Airlines tried to be the Dollar General of the skies. Then the big airlines beat it at its own game",
+        "Like soap operas, 75 feet up: How bald eagle nest cams hook online communities"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Senate Republicans reject attempt to end Trump's blockade of Cuba",
+        "WATCH LIVE: Fed Chair Powell holds briefing on interest rate decision as his term nears end",
+        "Actor Nathan Chasing Horse sentenced to life in prison for sexual assault"
+      ]
+    }
+  ]
+}
