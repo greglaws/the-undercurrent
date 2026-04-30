@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-30",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Oil Prices Hit a New Wartime High as Iran Standoff Shows No End in Sight",
+        "Why the U.A.E. is Quitting OPEC",
+        "Iranians Live With Pain and Powerlessness, Beneath a Smooth Veneer"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump, Iran are locked in high-stakes standoff as oil prices hit four-year high",
+        "Trump said Iran’s oil pipelines will soon ‘explode.’ Energy experts doubt it.",
+        "Louisiana governor prepares to suspend House primaries after court ruling"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Cigna Revenue Rises on Evernorth Growth",
+        "Airbnb Hosts Prepped Their Homes for a World Cup Windfall. They’re Still Waiting.",
+        "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A. council member pushes plan to let noncitizens vote in city elections",
+        "Failed plane and bus trips: How ICE can't bring back man wrongfully deported to Mexico",
+        "Resurrecting a discredited theory on COVID's origin, DOJ indicts an ex-Fauci aide over old emails"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "To catch colorectal cancer early, advocates push to make 'poop talk' OK",
+        "These fans are boycotting the World Cup. Will they make it a bust?",
+        "The Iraq vet redefining mindfulness, one bourbon at a time"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "White House says funds to pay TSA and other Homeland Security workers will 'soon run out'",
+        "Florida legislature approves new congressional map intended to boost Republicans in midterms",
+        "Elon Musk tells his side of OpenAI's beginnings in trial pitting him against CEO Sam Altman"
+      ]
+    }
+  ]
+}
