@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-01",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Obamacare Enrollment Drops Sharply as Costs Rise",
+        "Trump’s Plans to Boost Weapons Production Might Not Deliver for Years",
+        "As Israel Entrenches, Frustration With Hezbollah Turns to Support"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Poll: Trump’s Iran war reaches Iraq- and Vietnam-era disapproval levels",
+        "A deadline for the Iran war is here. What does the War Powers Act say?",
+        "Trump said he would end her political career, but Democrats did her in"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Berkshire Has a Website From the ’90s and Buffett Fans Say Don’t Mess With It",
+        "These Oil Giants Had Written Off Venezuela. Now They Are Taking a Second Look.",
+        "Lululemon’s New CEO Is Already in the Hot Seat—and She Hasn’t Even Started"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Voter guide to the 2026 California primary election",
+        "How to vote in California's June 2026 primary election",
+        "Where to vote in California's June 2026 primary election"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "How well can EVs handle the heat — and the cold? AAA put them to the test",
+        "A tech worker in China is laid off and replaced by AI. Is it legal?",
+        "How to talk to boys about looksmaxxing"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What to know after House passes Homeland Security funding and ends historic shutdown",
+        "Oil prices surge again as Trump weighs options to end Iran war and Hegseth faces lawmakers",
+        "News Wrap: Gov. Janet Mills drops out of U.S. Senate race in Maine"
+      ]
+    }
+  ]
+}
