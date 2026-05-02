@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-02",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Push for Electoral Retribution Heads to the Ballot Box",
+        "These G.O.P. Women Want Congress Members to Pay a Price for Abuse. Will It Work?",
+        "Eric Swalwell Was Proficient in Social Media. So Were His Accusers."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump to downsize U.S. military presence in Germany",
+        "Trump is running out of options to contain gas price backlash",
+        "Trump says Iran conflict is ‘terminated’ as he hits congressional deadline"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for May 2, 2026",
+        "How the Trump Administration’s Spirit Airlines Rescue Unraveled",
+        "Spirit Airlines Is Shutting Down. Here’s What to Do If You Had Tickets."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Thousands rally in L.A. for May Day to protest immigration sweeps, high cost of living",
+        "D4vd murder case: Teen victim's family 'shocked' by gruesome details revealed in court filing",
+        "LeBron James leads Lakers' rout of Rockets to close out series"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Can Trump's latest pick for surgeon general make it through confirmation?",
+        "Americans aren't sleeping enough. Here's what could help",
+        "New Netflix documentary reexamines Winnie Mandela's divisive legacy"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump rejects Iran's latest proposal as he reviews new military options to relaunch war",
+        "New video of Correspondents' Dinner shooting raises questions about presidential security",
+        "News Wrap: Trump announces 25% tariffs on cars and trucks from the EU"
+      ]
+    }
+  ]
+}
