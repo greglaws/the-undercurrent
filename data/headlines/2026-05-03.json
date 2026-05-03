@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-03",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Faces the Complicated Reality of a Costly, Unpopular War in Iran",
+        "What to Know About the Mideast Standoff",
+        "Behind Supreme Court Voting Rights Ruling, a Clash Over the Reality of Racism"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump disapproval reaches new high, Post-ABC-Ipsos poll finds",
+        "Trump hosts PGA Tour at Doral — and he’s the big winner",
+        "Trapped in a kill zone for 177 days, his wife’s voice was his lifeline"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Fuel-Price Crunch That’s Turning Into a Disaster for Airlines",
+        "Actors Reach Tentative Deal With Studios and Streamers",
+        "Why eBay, in Its Latest Incarnation, Is a Takeover Target for GameStop"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California, Arizona and Nevada announce new water-saving plan for dwindling Colorado River",
+        "Golden Tempo rally makes Cherie DeVaux first female trainer to win Kentucky Derby",
+        "Raid on San Bernardino Sunshine Motel leads to pimping charges and ‘red tag’ closure"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "He recorded his quest for tariff refunds. It shows why billions may never get repaid",
+        "Why this tribe is buying up hundreds of acres of farmland — and flooding it",
+        "How algorithms wreaked havoc with these workers' schedules and cut their pay"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump says he is reviewing new Iranian proposal to end war",
+        "State redistricting battles intensify following U.S. Supreme Court ruling on Voting Rights Act",
+        "After Spirit Airlines shutdown, how passengers can get home and get refunds"
+      ]
+    }
+  ]
+}
