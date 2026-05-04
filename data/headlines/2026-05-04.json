@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-04",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "China Seeks an Advantage With Both Trump and Iran as War Evolves",
+        "Oil Jumps as Iran Resists Trump’s Offer to Help Ships Through Strait of Hormuz",
+        "Court Ruling Upends Abortion Access in the U.S., and Trump’s New Plan for the Strait of Hormuz"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Iran threatens retaliation after Trump says U.S. will guide ships in Strait of Hormuz",
+        "Trump disapproval reaches new high, Post-ABC-Ipsos poll finds",
+        "A GOP lawmaker supported an immigration crackdown. Her husband paid a price."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Five Takeaways From Berkshire CEO Greg Abel’s First Annual Shareholder Meeting as Host",
+        "Anthropic Nears $1.5 Billion Joint Venture With Wall Street Firms",
+        "GameStop Offers to Buy eBay for $56 Billion"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Should a California union dictate how clinics spend money? Employers sue to block ballot measure",
+        "Cool and drizzly — then a dramatic swing: Mother's Day will bring the heat in SoCal",
+        "Inside Israel's AI targeting system: How data from a phone become a death sentence"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "At the 2026 Met Gala, 'Fashion is Art.' Here's what to expect",
+        "Trump administration falls behind on wildfire prevention with risky fire season ahead",
+        "In many states, election-denying candidates are running to control voting"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "1,500 beagles will find new homes after release from research facility",
+        "Three dead in suspected hantavirus outbreak aboard cruise ship in the Atlantic Ocean, WHO says",
+        "Former Malian minister and junta critic abducted from home by armed men, family tells AP"
+      ]
+    }
+  ]
+}
