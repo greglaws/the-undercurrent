@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-05",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.",
+        "Ships Under Fire in Strait of Hormuz, and Kennedy’s Pushback on Antidepressants",
+        "As Oil Prices Stay High, China Doubles Down on Wind Power"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S. and Iran exchange taunts as attacks imperil fragile ceasefire",
+        "How Trump’s timeline for ending the Iran war keeps shifting",
+        "Why it’s an especially good time to buy an electric car"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Harley-Davidson’s New Boss Wants to Sell You a Bike You Can Actually Afford",
+        "Grab Expects Another Strong Year Ahead Despite Headwinds",
+        "Fresenius Medical Care Shares Fall After Decline in U.S. Treatment Volumes"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Supreme Court resembles a feuding family with arguments that go on for years",
+        "The LAPD once stopped American migration at the California border — to keep out the poor",
+        "Bass, Pratt and Raman make cut for TV debate as L.A. mayor's race kicks into high gear"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+        "This flashy group of Portland mall-walkers puts neon pep into step",
+        "Minneapolis immigrants still feeling the sting of Trump's largest crackdown yet"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Live Results: Indiana state primaries",
+        "Live Results: Ohio state primaries",
+        "PHOTOS: Artistic liberties on display at the Met Gala"
+      ]
+    }
+  ]
+}
