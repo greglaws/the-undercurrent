@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-06",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump and Rubio Insist Iran War Is Over, Even as Missiles Fly During Cease-Fire",
+        "President Trump’s Sudden U-Turn, and a $1 Billion Ballroom Proposal",
+        "In Indiana Primary Elections, Most Trump-Backed Challengers Beat Incumbents"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Iran has hit far more U.S. military assets than reported, satellite images show",
+        "Trump orders military to pause Strait of Hormuz mission to allow time for peace talks",
+        "Iran war amplifies divisions within both parties over U.S.-Israel ties"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "New Disney CEO Gives Vision for Company as Revenue Rises",
+        "CVS’s Results Add to Positive Momentum for Health-Insurance Industry",
+        "How AB InBev Stopped Its Three-Year Slide"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Why L.A. is struggling while San Francisco is beginning to boom again",
+        "Tom Steyer tries to sell voters on his own personal change",
+        "How I learned to stop worrying about noncitizens voting in L.A. elections"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "A new Medicare option for weight loss drugs is coming: Here's what to know",
+        "Poll: Trump blamed for gas prices as Democrats gain midterm edge",
+        "Lindsey Vonn's Olympic crash was a horrific setback. But she's never been one to hide"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "6 in 10 Americans disapprove of how Trump is handling Iran, new poll finds",
+        "Iran remains defiant after U.S. launches new effort to reopen Strait of Hormuz",
+        "News Wrap: Senate GOP requests $1 billion in funding for Trump's ballroom"
+      ]
+    }
+  ]
+}
