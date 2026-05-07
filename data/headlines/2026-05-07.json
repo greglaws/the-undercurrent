@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-07",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "War and Energy Shortages Boost China’s Influence in Asia",
+        "World in Waiting Game Over Iran Peace Proposal Response",
+        "Surging Gas Prices Shake Americans, and How Ted Turner Unleashed 24-Hour News"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Democrats see Senate control within reach — but some big hurdles remain",
+        "Federal workers had their annual award show. Many were too afraid to show up.",
+        "Inside a MAGA influencer’s turn against the right-wing machine"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "McDonald’s Value Machine Is Generating Higher Sales",
+        "Carlyle Group Swings to Loss, Posts Revenue Decline",
+        "Frackers Are Finally Ready to Drill. Trump Won’t See a Return of the Go-Go Days."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California under pressure — again — as partisan redistricting wars escalate",
+        "Police think this contraption can bring high-speed chases to an end",
+        "Why it took 65 years for L.A. to build its most important rail line"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Iran reviews U.S. proposal. And, Rubio to meet Pope Leo after Trump's criticism",
+        "As federal scientists faced turmoil, the Devils Hole pupfish reached a crisis point",
+        "Psychiatrists say RFK Jr.'s take on SSRIs is an 'oversimplification' of the problem"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Justice Department can keep 2020 ballots seized from Fulton County in Georgia, judge rules",
+        "Judge releases note that cellmate says he found after Epstein's suspected suicide attempt",
+        "Pope Leo XIV comforts 13 priests from southern Lebanon with surprise video call"
+      ]
+    }
+  ]
+}
