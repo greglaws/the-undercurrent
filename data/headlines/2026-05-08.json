@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-08",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S. Schools Face a Crisis as the Number of Children Drops",
+        "Trump Calls Iran Strikes a ‘Trifle,’ and the Latest on the Hantavirus Outbreak",
+        "China Sees a ‘Giant With a Limp’ as U.S. Drains Weapons on Iran War"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump says ceasefire still intact after burst of violence with Iran",
+        "How rising prices ricochet from the Strait of Hormuz to your gas tank",
+        "Why young and old men are leaving the labor force at record rates"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Wacker Chemie Reaches Agreement to Cut Around 10% of Workforce",
+        "Sony Sees Double-Digit Earnings Growth Despite Quarterly Miss",
+        "Advertising’s First Female CEO Isn’t Afraid to Fail"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "The Wilshire subway should be a slam dunk for L.A. But luring riders may be a challenge",
+        "Ships are paying millions more for fuel at L.A., Long Beach ports. The costs won’t stay there",
+        "Massive Canvas data breach hits colleges across California and nation, crippling student work"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus",
+        "UAE reports drone and missile attack as Iran war ceasefire is challenged",
+        "Military drills on the edge: U.S. and allies test capabilities near Asia's flash points"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S. destroyers and Iran trade fire in Strait of Hormuz in serious test of ceasefire",
+        "Rubio attempts to mend relations with Pope Leo in Vatican meeting after Trump's criticisms",
+        "News Wrap: Tennessee passes new congressional map, sparking protest"
+      ]
+    }
+  ]
+}
