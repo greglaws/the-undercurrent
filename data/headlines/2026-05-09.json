@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-09",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Republicans Gained an Edge on the Midterm House Map Over 10 Days",
+        "Two Court Decisions Have Unleashed an Era of Perpetual Redistricting",
+        "How Minority Districts Fueled the G.O.P.’s Southern Ascendancy in Congress"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "With GOP wins on election maps, Democrats have a steeper climb to victory",
+        "Virginia’s high court strikes down voter-passed House map favoring Democrats",
+        "Top Maryland Democrat is fighting for his job after resisting redistricting plan"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "China’s Cars Aren’t in the U.S., but Its Auto Parts Are Everywhere",
+        "News Quiz for May 9, 2026",
+        "The JPMorgan Banker Behind the Sexual-Assault Suit Captivating Wall Street"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "'Dark money' casts a shadow over L.A. elections, with mystery group pumping out attack mail",
+        "How MAGA Sheriff Chad Bianco is shaking up the 2026 California gubernatorial primary",
+        "Cal Fire employee charged with rapes; claim alleges lengthy assault occurred at station"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
+        "How the 1994 World Cup kicked off America's love affair with soccer",
+        "They graduate to six figure salaries, and grueling work"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S. strikes on Iranian tankers raise more questions over negotiations to end war",
+        "What a stronger than expected jobs report tells us about the state of the economy",
+        "News Wrap: Pentagon releases 'never-before-seen' UFO files on its website"
+      ]
+    }
+  ]
+}
