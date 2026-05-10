@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-10",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
+        "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+        "Democratic Candidates Scramble in Virginia After Court Tosses Map"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Republicans who denied 2020 election results could be governors next year",
+        "Lawyers for the global elite aren’t buying Trump’s gold card visa",
+        "U.S. outlines plan to monitor Americans returning from hantavirus-hit ship"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Allison Ellsworth’s Poppi Exit Made Her a Megamillionaire. She’s Ready to Talk Money.",
+        "The Factory Town Known as China’s Furniture Capital Is Fighting to Survive",
+        "Saudi Aramco Profit Jumps Despite War Disrupting Shipping Routes"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Spencer Pratt said 'super meth' is helping fuel L.A.'s homeless crisis. What is that?",
+        "Kristin Smart's body not found, search ends at home tied to killer despite signs of remains",
+        "Suspect in Venice samurai sword attack arrested after bloody assault"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "How a pill approved 25 years ago transformed cancer treatment",
+        "Of course we look for ourselves in art — but if we stop there, we're missing out",
+        "Cape Verde: Tiny nation, massive World Cup dream"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Moscow holds scaled-back Victory Day Parade under heavy security",
+        "Surfers in war-torn Gaza find rare moments of joy in the waves",
+        "Fragile Iran ceasefire appears to hold as Iran warns the U.S. against attacks on its oil tankers and other ships"
+      ]
+    }
+  ]
+}
