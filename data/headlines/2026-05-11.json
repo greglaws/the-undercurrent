@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-11",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "As Trump Heads to Beijing, China Is ‘Locked and Loaded’ for a Fight",
+        "What Middle Powers Fear from the Trump-Xi Summit",
+        "Lawmakers Urge Trump to Move Ahead on Delayed Arms Sale to Taiwan"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested",
+        "Confident in China’s power, Xi is ready to host an unpredictable Trump",
+        "As Iran war hits U.S. weapons stocks, allies fear impact on Ukraine"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Apollo Strikes Deals for Two Live-Events Businesses",
+        "The Next Frontier for Hantavirus: Finding Vaccines and Treatments",
+        "Think $6 Gas Is Bad? It’s About to Get Even Worse in California"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Inside the Rose Bowl's $30 million makeover: Will it help the stadium stay relevant?",
+        "Fears of an AI breakthrough force the U.S. and China to talk",
+        "As questions of temperament persist, Katie Porter tries to regain edge in governor's race"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
+        "Oregon's most unexpected gubernatorial candidate? A pencil with a point",
+        "As ranks of uninsured grow, charity care can be hard to come by at many hospitals"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Remains recovered of U.S. soldier who went missing during military exercises in Morocco",
+        "Nobel laureate Narges Mohammadi moved to Tehran hospital, her foundation says",
+        "Washington Wizards win NBA draft lottery, earn No. 1 pick on June 23"
+      ]
+    }
+  ]
+}
