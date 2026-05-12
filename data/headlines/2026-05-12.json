@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-12",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Xi Is Poised to Press Trump on Arms Sales to Taiwan",
+        "China Seeks A.I. Independence, Weakening Trump’s Leverage",
+        "China Increasingly Views Trump’s America as an Empire in Decline"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "As he prepares to meet Xi, Trump no longer pushes for change in China’s system",
+        "The complicated history of American presidents visiting China",
+        "Xi to project China as a reliable alternative to U.S. volatility"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Basic Materials Roundup: Market Talk",
+        "EBay Rejects GameStop’s $56 Billion Takeover Proposal",
+        "Sam Altman’s Business Dealings Under GOP Scrutiny Ahead of OpenAI’s IPO"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "More than 66 fascinating, fun and downright cool stops along Route 66",
+        "Route 66 is turning 100. So I drove all 2,448 miles of it — and watched it burst with new life",
+        "Under a giant penguin sign, this is the diner that marks the end of Route 66"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump heads to China for state visit. And, how the war in Iran has affected inflation",
+        "The economic chilling effect of Trump's immigration crackdown",
+        "U.S. ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump rejects latest Iran peace proposal, says ceasefire on 'life support'",
+        "Robert Kagan on why he believes U.S. faces likely defeat in Iran",
+        "News Wrap: Supreme Court temporarily extends access to mifepristone"
+      ]
+    }
+  ]
+}
