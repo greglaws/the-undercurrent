@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-13",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities",
+        "What You Need to Know About the Federal Gas Tax",
+        "U.S. Intelligence Undercuts Trump’s War Claims, and the Cost of ‘Alligator Alcatraz’"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Facing headwinds at home, Trump signals eagerness to make deals at China summit",
+        "South Carolina Republicans block plan to eliminate Clyburn’s House seat",
+        "Takeaways from the nation’s oddest Senate primary"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Basic Materials Roundup: Market Talk",
+        "Financial Services Roundup: Market Talk",
+        "Teens Helped Bring Malls Back to Life. Now They’re Getting Banned."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Becerra's closest advisor pleaded guilty in a criminal case. His gubernatorial rivals are piling on",
+        "Why L.A. condo sales have slumped to a 20-year low",
+        "‘Dun-dun ... dun-dun.’ The great white shark surge of 2026 and why it's good for SoCal"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "War in Iran costs $29 billion so far. And, students are finally improving in math",
+        "Putin hails Russia's test launch of a new ballistic missile",
+        "Japanese snack packages turning black-and-white as Iran war depletes ink supply"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Hegseth grilled over direction of Iran war and costs for Americans",
+        "Inflation could hit 4% next month and stay elevated for rest of year, economist warns",
+        "What's at stake as Trump heads to China for talks with Xi"
+      ]
+    }
+  ]
+}
