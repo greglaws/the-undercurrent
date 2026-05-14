@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-14",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Why Xi Doesn’t Need a Deal With Trump",
+        "As Trump and Xi Meet in China, American and Chinese People Are Drifting Apart",
+        "China’s Growing Leverage Over the U.S., and How Oil Companies Hit the Jackpot"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Xi warns Trump that mishandling Taiwan could spark ‘conflicts’",
+        "China gains major edge on U.S. amid Iran war, intelligence report finds",
+        "A new Chinese spelling of ‘Rubio’ sidesteps China’s travel ban"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Versant Revenue Slides on Lower Subscriber Numbers and Ad Sales",
+        "Honda Just Had Its Worst Year Ever",
+        "China’s Best and Brightest Tech Talent Is Going Back to China"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Hantavirus strikes a cruise ship: A 'perfect storm' or a warning sign?",
+        "China's Xi, warning of a clash, tells Trump: 'We must make it work'",
+        "200,000 Californians help the grid out in tough times and get paid for it. Now that's up in the air"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Xi warns Trump over Taiwan, says differences could lead to clash",
+        "A brain-controlled system may help listeners with hearing loss cut through the noise",
+        "The MAHA movement is coming to school cafeterias. Here's what that means for kids"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump arrives in China for high-stakes talks on trade, Taiwan and Iran war",
+        "U.S. overdose deaths fell again in 2025, but some worry about policy and drug supply changes",
+        "News Wrap: Senate confirms Kevin Warsh as new chair of Federal Reserve"
+      ]
+    }
+  ]
+}
