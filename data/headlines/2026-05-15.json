@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-15",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Announces Boeing Jet Order From China. Beijing Stays Silent.",
+        "Nvidia’s Future in China Remains Unclear After Trump-Xi Summit",
+        "In Photos and Video: President Trump Goes to China"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "In pageantry and politics, China summit yields Xi’s goal — equal footing with U.S.",
+        "In northern Ukraine, it was boy vs. Russian drone. The boy won.",
+        "A golden statue of Trump draws mixed reactions at his golf course"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The World Is Burning Through Its Oil Safety Net",
+        "Live Q&A: Ask Me Your Questions About EVs",
+        "Used EVs Are Now the Most Affordable Cars. Here’s How to Buy a Good One."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Top takeaways from final governor's debate: Knives out for Becerra",
+        "Who won and who lost in Thursday night's California gubernatorial debate? Our columnists weigh in",
+        "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Death toll in attack on Kyiv apartment building now stands at 24",
+        "Which Trump cabinet member has a new reality show? The quiz knows",
+        "After redistricting, what does representation mean to Tennessee voters?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "China offers Trump grand welcome, but issues warning on Taiwan",
+        "U.S.-China diplomatic reset faces unresolved 'contradictions,' expert warns",
+        "Analysts break down Trump-Xi meeting and calls for stability and cooperation"
+      ]
+    }
+  ]
+}
