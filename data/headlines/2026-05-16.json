@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-16",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How a Nature Cruise Turned Into a Nightmare",
+        "With Possible Raúl Castro Indictment, U.S. Eyes Venezuela Playbook",
+        "The Push to Indict Raúl Castro, Cuba’s Former President"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump’s China summit shows toll of a difficult year for the president",
+        "Supreme Court blocks effort to revive Va. voting map that bolsters Democrats",
+        "A North Carolina farmer is testing whether Democrats can still win rural America"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for May 16, 2026",
+        "The Texas-Size Fight Over Rick Perry’s Nuclear Power Startup",
+        "The Winners and Losers of Oil’s New World Order"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Winds to whip Southern California, boosting risk of fires and dangerous seas",
+        "The Steyer campaign pays influencers. Their posts don't always make that clear",
+        "Was the mayor a spy? L.A. suburb left wondering about China's effort to influence"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops",
+        "Colleges got more rural students to apply. The challenge is getting them to attend",
+        "This Republican voted to convict Trump. Now he's up for reelection. Can he survive?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Supreme Court rejects bid to restore Virginia congressional map favoring Democrats",
+        "Trump and Xi pledge 'strategic stability' but key questions remain unanswered",
+        "Trump's 'elaborate' praise of Xi at China summit made U.S. look weak, ex-ambassador says"
+      ]
+    }
+  ]
+}
