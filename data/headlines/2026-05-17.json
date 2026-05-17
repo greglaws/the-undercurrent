@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-17",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "For Trump, Soaring Prices Test Voters’ Finances and Patience",
+        "To Critics, Trump Remarks Reveal a Billionaire Out of Touch",
+        "U.S. Debt Is Now Bigger Than the Economy. That’s Not the Real Problem."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "GOP senator who voted to convict Trump in impeachment trial loses primary",
+        "Democrats want working-class voters. They disagree on how to woo them.",
+        "Larry Hogan hoped Republicans would ‘get back to sanity.’ He’s lost faith."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Rival Airlines Are Carving Up Spirit’s Routes and Airport Slots",
+        "Coal Makes a Comeback, Fueled by War in the Middle East",
+        "AI Chip Mania Sows Seeds of Its Own Destruction"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Mayoral hopeful Spencer Pratt heads to the Valley, wooing voters in his rival's district",
+        "L.A. police union targets leftist mayoral candidate Rae Huang, who's running in fifth",
+        "California man facing federal charges in international turtle trafficking plot"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
+        "The foreign fighters who helped topple Assad — and why China worries about them",
+        "How a CEO and Trump donor is weaponizing tariffs against his rivals"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Bulgaria wins the 70th Eurovision Song Contest with 'Bangaranga'",
+        "Rwandan genocide suspect dies in custody in The Hague",
+        "Thousands rally in birthplace of Civil Rights Movement to defend Black political representation"
+      ]
+    }
+  ]
+}
