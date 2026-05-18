@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-18",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects",
+        "A Crack in the Polling Floor Puts Trump in New Territory",
+        "The Supreme Court’s Voting Rights Decision Spurred Swift Action in Louisiana and Alabama"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump plans to build helipad at White House",
+        "Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’",
+        "7 charts that explain why the job market is so tough right now"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "NextEra to Buy Dominion Energy in $67 Billion Deal",
+        "Long Island Rail Road Strike: What to Know",
+        "Senators Work to Ban Gambling Ads Targeting Minors"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "AI has invaded the L.A. mayor's race. Some fear it's just the beginning",
+        "The drama inside Carl's Jr.: Crushed by California costs, crime and competition",
+        "3 countries. 16 stadiums. 104 matches. 2026 World Cup set to become 'most polluting' games ever"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Sen. Bill Cassidy loses primary. And, WHO declares Ebola outbreak a global emergency",
+        "Why catching insider trading is so tricky nowadays, and just how helpful is it for kids to sleep in?",
+        "Pop star Shakira is acquitted in a Spanish tax fraud case"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Crew members safely eject after Navy jets collide during Idaho air show",
+        "What to know about the Ebola outbreak that has grown into a global health emergency",
+        "Critics fear a midterm purge as the Trump administration promotes program to check voter eligibility"
+      ]
+    }
+  ]
+}
