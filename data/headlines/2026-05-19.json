@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-19",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Justices Hint at Strains as Supreme Court Comes Under Scrutiny",
+        "Trump’s New $1.8 Billion Pot of Money, and a Deadly Mosque Attack in California",
+        "Last-Minute Donation Could Upend G.O.P. Primary for Texas Attorney General"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Mother’s call to police sparked urgent search before San Diego mosque shooting",
+        "Slain mosque security guard had warned teachers to lock doors, imam says",
+        "Republican fights to survive Trump’s wrath in most expensive House primary ever"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Target Plans to Name a New Supply-Chain Head as It Struggles With Weak Sales",
+        "Deal Is Reached to Resolve Long Island Rail Road Strike",
+        "Long Island Rail Road Strike: What to Know"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "What we know about the high-schooler accused of attacking San Diego Islamic Center",
+        "5 dead, including teen gunmen, at San Diego Islamic Center; hate motive probed",
+        "Sandy fire spreads, prompting evacuation warnings in L.A. County"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "California mosque shooting leaves 5 dead. And, judge dismisses Trump's IRS lawsuit",
+        "Some plants have a genetic superpower that may help them survive a cataclysm",
+        "The missing men of the American marriage market"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH LIVE: Acting Attorney General Blanche may be questioned on 'weaponization' fund in budget hearing",
+        "Mark Fuhrman, former LA police detective convicted of lying during OJ Simpson murder trial, has died",
+        "Teenage gunmen open fire on Islamic Center of San Diego, police say"
+      ]
+    }
+  ]
+}
