@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-20",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "I.R.S. to Drop Audits of Trump and Family",
+        "With Trump’s Settlement, a Possible $100 Million I.R.S. Penalty Melts Away",
+        "Prison to Pardons to Payouts: Jan. 6 Rioters Are Elated at Trump Compensation Fund"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Takeaways from primaries where Trump demonstrated power over GOP",
+        "Rep. Thomas Massie loses GOP primary, the latest casualty of Trump’s wrath",
+        "Vance and Rubio step into the White House briefing room — and deeper into 2028 territory"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Target Reports Strongest Sales Gain in Years",
+        "See How SpaceX Is About to Eclipse Every Other Blockbuster IPO",
+        "The Ice-Cold Civil War Between Diet Coke and Coke Zero Drinkers"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "How a 'toxic' City Hall was unraveled by 'very horrible' anonymous letters",
+        "L.A.'s democratic socialists look to boost their clout in City Hall",
+        "Dogfight over California: The ugly battle between electric air taxi leaders Joby and Archer"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Takeaways from Tuesday's primaries. And, victims of mosque shooting revealed",
+        "Former Spanish Prime Minister Zapatero is under investigation",
+        "Overworked and understaffed: Special ed teachers turn to AI for help"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Pennsylvania's Democratic Gov. Shapiro wins his primary, as do his endorsed candidates",
+        "How Kentucky Rep. Thomas Massie, toppled by Trump, charted his own way",
+        "Sen. Tommy Tuberville wins Republican nomination for Alabama governor"
+      ]
+    }
+  ]
+}
