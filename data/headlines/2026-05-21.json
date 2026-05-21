@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Fund Puts Blanche in a Tight Spot as He Aims to Lead Justice Dept.",
+        "How the $1.8 Billion Trump Fund May Violate Past Practice and Policy",
+        "Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump’s allies are already lining up to apply to his $1.8 billion fund",
+        "Profanity is a hallmark of Trump’s second term, a Post analysis finds",
+        "Trump officials say they can build 250-foot arch without Congress’s approval"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Stellantis to Focus on Jeep and Ram in the U.S., With Under-$30,000 Vehicles Coming",
+        "Walmart Sales Rise as Its E-Commerce Business Grows",
+        "Netflix Pushes Further Into Live Programming With ‘The Breakfast Club’"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "It was a beacon of hope and faith in San Diego. Attack leaves a community seeking answers",
+        "Spencer Pratt's unlikely journey from reality TV villain to L.A. mayoral candidate",
+        "Democrats may cast last-minute ballots for governor. What it will mean for the count"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Researchers say the Trump administration is finding new ways to punish science",
+        "Amid allegations of abuse on Epstein's 'Zorro Ranch,' New Mexico opens new probes",
+        "Even as anxieties grow under Trump, these swing voters aren't ready to back Democrats"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "3 dead and first responders decontaminated in New Mexico after exposure to unknown substance",
+        "WATCH: Rep. Thomas Massie's full concession speech after defeat in Kentucky GOP primary",
+        "Colorado Supreme Court orders children's hospital to resume gender-affirming care for minors"
+      ]
+    }
+  ]
+}
