@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-22",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "In a Rarity, Republicans Stand Up to Trump",
+        "Inside the Senate G.O.P. Meltdown Over Trump’s Fund",
+        "Trump Faces Rare G.O.P. Revolt, and Democrats Mock Their Own Party’s Report"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Poll shows voter confidence in economy plummeting to a nearly 4-year low",
+        "Senate GOP, frustrated with Trump’s $1.8B payout fund, delays vote on ICE money",
+        "Trump vows to ‘work very hard’ to enact permanent daylight saving time"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "How SpaceX’s IPO Cements Elon Musk’s Grip on the Company",
+        "SpaceX Postpones Launch of Newly Redesigned Starship",
+        "SpaceX Makes the Giant Rockets—But Starlink Is Making All the Money"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "The three men killed in San Diego shooting saved many others, 'did not die in vain'",
+        "More 'rough sleepers' on Hollywood streets as the city removes tents, bringing new challenges",
+        "'Facing an existential threat': How Uber is navigating clashes with trial attorneys, assault lawsuits and competition"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "GOP senators delay immigration funding. And, what to expect this hurricane season",
+        "The aftermath of Trump-Xi summit: comparing U.S. and China announcements",
+        "What is the 'tarps off' trend that men are engaging in? Find out in the quiz"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "GOP immigration enforcement bill stalls amid backlash to $1.8 billion 'anti-weaponization' fund",
+        "2-time NASCAR champion Kyle Busch dies at 41 after being hospitalized with 'severe illness'",
+        "Senate Republicans break with Trump over 'anti-weaponization fund' concerns"
+      ]
+    }
+  ]
+}
