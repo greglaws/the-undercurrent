@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-23",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump, Defiant After Bad Week, Pushes Ahead on Politically Unpopular Ideas",
+        "Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says",
+        "Tulsi Gabbard Resigns as Director of National Intelligence. Trump Names Aaron Lukas Acting Chief."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "A tough week for Trump on Capitol Hill, as Republicans deal him setbacks",
+        "What Trump’s $1.8 billion payout fund actually does could stay hidden",
+        "How the Ebola outbreak is testing U.S. pandemic preparedness"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for May 23, 2026",
+        "In India, You Can Get Milk Delivered Faster Than It Takes to Make Coffee",
+        "The Fashion Heir Facing Suspicion After Father’s Deadly Fall"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Why a chemical explosion in Orange County could be so catastrophic",
+        "Caltech could lose control of JPL for the first time",
+        "SpaceX launches its biggest, most beefed-up Starship yet on a test flight"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Chile's MAGA-inspired border control",
+        "Summer electric bills sizzle as the cost of cooling climbs",
+        "One solution for Maine's struggling fishing industry? Give fillets away for free"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Is it time for the U.S. to reassess its Iran strategy?",
+        "Tulsi Gabbard's record and impact on the U.S. intelligence community",
+        "SpaceX launches its biggest Starship mega rocket yet on test flight"
+      ]
+    }
+  ]
+}
