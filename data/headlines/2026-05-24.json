@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency",
+        "With Big Decisions Ahead, the Supreme Court Collides With a Testy Trump",
+        "Do U.S. Automakers Have a Future in Canada?"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Suspected gunman dead after exchanging fire with Secret Service near White House",
+        "As war evolves, more female troops make the ultimate sacrifice",
+        "Rubio fends off conservative critics of Iran deal as agreement appears imminent"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Fernando De Leon Turned $100,000 Into a Billion-Dollar Empire. His Mantra? Be Frugal.",
+        "How ‘Love Island’ Became the Streaming Hit Peacock Needed",
+        "SpaceX’s IPO Is a Bet Gravity Doesn’t Apply to Elon Musk"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "With conditions worsening, how will the Orange County chemical crisis get resolved?",
+        "Trump's Justice Department scrubs its website of news releases about Jan. 6 defendants",
+        "Suspect shot dead after opening fire near White House checkpoint, Secret Service says"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Nurse convicted in patient's death is now a national speaker on hospital safety",
+        "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
+        "'Homeland Security' has spawned political insecurity since DHS was born"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Venezuelan opposition leader Machado says she will run again for presidency and return from exile by late 2026",
+        "Iran's soccer federation says its World Cup base camp has been moved to Mexico from the United States",
+        "Marines conduct rapid response exercise at U.S. Embassy in Venezuela's capital"
+      ]
+    }
+  ]
+}
