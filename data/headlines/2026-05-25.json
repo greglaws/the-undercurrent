@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-25",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later",
+        "Oil Prices Fall Sharply on News of Possible Iran Deal",
+        "Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S. and Iran work toward deal to extend ceasefire and reopen Strait of Hormuz",
+        "As war evolves, more female troops make the ultimate sacrifice",
+        "Trump faces health questions ahead of another Walter Reed trip"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Oil Slides as Ships Move Toward Hormuz",
+        "Japanese Retail Pioneer Who Transformed 7-Eleven Dies at 93",
+        "A Western Auto Giant Found a Lifeline: Working With a Chinese Upstart"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "What we know about the slain White House gunman",
+        "The next few hours will be critical in battle to prevent O.C. chemical explosion",
+        "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S.-Iran peace deal emerging, while war threats still loom",
+        "In Beirut, refugee girls and women learn more than self-defense in martial arts class",
+        "Diners are staying home, so this restaurant lets patrons pay what they want"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump's emerging plan to end Iran war draws criticism from hard-line Republicans",
+        "Syria holds legislative elections in Kurdish-majority northeast",
+        "Turkish police force entry into CHP offices, fire tear gas and rubber bullets"
+      ]
+    }
+  ]
+}
