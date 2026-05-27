@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-27",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Paxton’s Texas Victory Opens a New Front in the Battle for the Senate",
+        "A Blue Texas May Be More Than a Dream for Democrats",
+        "Ken Paxton Victory Tests Whether Texas Republicans Can Reunite for November"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Paxton crushes Cornyn in Senate primary in a big win for MAGA",
+        "Early Brief: How Cornyn and other Republicans could become a headache for Trump",
+        "Why some Republicans are worried about Ken Paxton as a Senate nominee"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Beth Ford Wants You to Know That American Farmers Are in Crisis",
+        "Lululemon Settles Dispute With Founder",
+        "China Memory-Chip Maker CXMT Clears Shanghai Listing Review"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Industry was warned for years about chemical 'runaway' dangers. Then came near-catastrophe in O.C.",
+        "Cooling system at chemical tanks likely failed, forcing mass O.C. evacuations, fire officials say",
+        "All evacuation orders lifted in O.C. chemical crisis. Threat is over, officials say"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Texas primary runoff takeaways. And, DOJ mass-deletes info on Jan. 6 riot cases",
+        "Inside the effort to save one of America's most imperiled salamanders",
+        "The movie 'Pressure' leans into the drama of high-stakes weather forecasts"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "3 things to know about Trump's order raising the U.S. refugee cap only for white South Africans",
+        "WATCH: NASA shares plans to construct moon base",
+        "Iran says U.S. acting in 'bad faith' after strikes during peace talks"
+      ]
+    }
+  ]
+}
