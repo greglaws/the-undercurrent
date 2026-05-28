@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-28",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Iran War Live Updates: U.S. and Iran Trade Strikes, Further Threatening Negotiations",
+        "The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords",
+        "Oil Prices Climb on Renewed Hostilities in Middle East"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump appointees push $250 banknote with his portrait",
+        "U.S. and Iran trade strikes as Trump cites no pressure for a peace deal",
+        "Prosecutors say ex-CIA official stole $40 million in gold bars from agency"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Tilman Fertitta Agrees to Buy Caesars for $5.7 Billion",
+        "Sen. Warren Asks Bilt for Data on Rocky Relaunch of Rewards-for-Rent Card",
+        "Big Studios Are Ditching Hollywood for New Jersey’s Lavish Tax Breaks"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Poll shows Bass, Raman and Pratt locked in tight race ahead of Tuesday's mayoral primary",
+        "Newsom endorses Bass days before L.A. mayoral primary",
+        "Your last-minute voter guide to California's 2026 primary election"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "A new report shows how close American households are to the financial edge",
+        "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
+        "A federal judge in D.C. declines to block Trump's executive order on voting by mail"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Hamas confirms that Israeli strikes killed its new military leader in Gaza City",
+        "Uganda closes its border with Congo, where suspected cases of rare Ebola type are surging",
+        "Israeli military tells residents across southern Lebanon to leave as it fights Hezbollah"
+      ]
+    }
+  ]
+}
