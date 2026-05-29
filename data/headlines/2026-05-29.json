@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-29",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "In Carroll Lawsuits Inquiry, Scrutiny Turns Toward Private Citizens Who Antagonized Trump",
+        "Where Do E. Jean Carroll’s Lawsuits Against President Trump Stand?",
+        "U.S. Ramps Up Deadly Boat Strikes, and What Trump’s Stock Trades Show"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S., Iran nearing deal to end war and reopen Strait of Hormuz",
+        "Blue Origin rocket explodes ahead of launch, in major setback for space company",
+        "He hasn’t been seen in Congress for months. Now Republicans are worried."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "CVC to Buy IFF’s Food-Ingredients Unit in $4.3 Billion Deal",
+        "Replimune Gets Third Try at FDA Approval After Makary Departure",
+        "AI Has Made Memory Chips More Valuable Than Oil"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Becerra leads governor's race, with Hilton and Steyer in tight contest for second spot, poll finds",
+        "Why the wild mega-spending era of L.A. school board races is quietly ending",
+        "Candidate's mother bankrolls campaign to oust City Controller Kenneth Mejia"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Israel, Lebanon officials to meet. And, judge won't block Trump's mail-in voting order",
+        "Meteorologists were central to D-Day. 'Pressure' tells the story of navigating uncertainty",
+        "Photos show the world's 'uncounted' people -- and what it takes to be counted"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Explosion and fire at Dallas apartment causes fatalities, search for missing continues",
+        "Rescuers try to reach 4 climbers who fell on Mount McKinley in Alaska",
+        "Many spelling bee contenders pursue mastery. For a few, it's more about memorization"
+      ]
+    }
+  ]
+}
