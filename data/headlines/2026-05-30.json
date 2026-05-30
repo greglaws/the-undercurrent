@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-30",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
+        "Is JD Vance the 2028 Front Runner? Trump Has Questions.",
+        "Judge Reopens Trump’s Lawsuit Demanding $10 Billion From IRS"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "There are no Supreme Court vacancies, but some judges are acting like there might be",
+        "GOP lawmakers want to rein in Trump’s $1.8 billion payout fund. Here’s what they can do.",
+        "Judge probes whether deal creating Trump’s $1.8 billion fund constitutes fraud"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for May 30, 2026",
+        "Robotaxis Are Spreading Across the U.S.—and So Is the Backlash",
+        "BP Chairman Sparred With Director and Ex-CEO Before Ouster"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Pleas and political attacks fill the homestretch of California governor's race",
+        "Your last minute voter guide to the 2026 California governor's race",
+        "New 911 records deepen questions about why west Altadena was left vulnerable"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Colombia's untapped wonder: The Mavecure Mountains",
+        "The NTSB tries to keep cockpit audio recordings private. AI is making that harder",
+        "Myanmar's Min Aung Hlaing takes first foreign tour as leader, with visit to India"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Bus crashes into cars on Virginia interstate, killing 5 people, state police say",
+        "Asia defense summit opens with China and doubts about U.S. priorities topping concerns",
+        "Kenyan court blocks U.S. plan to open Ebola quarantine center to treat Americans"
+      ]
+    }
+  ]
+}
