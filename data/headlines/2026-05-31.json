@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-31",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Inside Trump’s Deal With the I.R.S. to Drop His $10 Billion Lawsuit",
+        "Trump Administration Sees Striking Exodus of Legal Talent",
+        "Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Blue states pitch 100 percent tax on Trump’s ‘anti-weaponization’ payouts",
+        "What Congress can and can’t do to rein in the $1.8 billion payout fund",
+        "Trump to headline Great American State Fair after music acts cancel"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Golf Is Now Cooler and Younger. The Stock Market Has Noticed.",
+        "Bill Gates Spent Years Crafting His Image. Now It’s Cracking.",
+        "The Family Farmers Making More From Clicks Than Crops"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A. politics fractures amid dissatisfaction, frayed alliances, generational conflict",
+        "Becerra is lashed by rivals over his Beltway background",
+        "Becerra gains support in latest poll with Steyer and Hilton not far behind"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Democrats and Republicans think control of Congress runs through Iowa",
+        "These AI models are free, private, and will never say 'no'",
+        "Reality TV can be unserious and dramatic. It's also training political candidates"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Do you need SPF 30, 50 or 100? Dermatologists answer your burning sunscreen questions",
+        "Trump plans to appeal ruling letting importers seek refunds of paid struck-down tariffs",
+        "Fact-checking Trump on National Mall's Reflecting Pool renovations"
+      ]
+    }
+  ]
+}
