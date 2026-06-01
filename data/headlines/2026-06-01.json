@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-01",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Iran War Live Updates: U.S. Military Says Iran Targeted American Forces in Kuwait",
+        "How Lebanon’s Best Chance to Disarm Hezbollah Failed",
+        "Oil Prices Jump as U.S. and Iran Exchange Fire"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Seeking a $54 billion arsenal of killer drones, Pentagon turns to former hobbyists",
+        "Iran and U.S. trade strikes as deal to end war remains elusive",
+        "Trump’s name may come off the Kennedy Center. He could still destroy it."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "UAW to Strike at Key General Motors Truck Supplier Plant",
+        "Wise Group Shares Slide on Report of Belgian Investigation into Transactions",
+        "Berkshire Hathaway to Buy Home Builder Taylor Morrison for $6.8 Billion"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "It's a fight to the finish in L.A.'s wild mayoral primary",
+        "The mystery behind Becerra leapfrogging over his rivals in California's governor's race",
+        "Steyer and Hilton scrap for second top spot in tight Tuesday governor's race primary"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "A cancer vaccine made just for you. mRNA is back and it's fighting melanoma",
+        "U.S. strikes Iranian military sites. And, Trump's $1.8 billion fund faces scrutiny",
+        "Confirmed Ebola cases in Congo reach 282 as survivors describe their recoveries"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Why a surge of election-related websites could spell rising cyber threats for the midterms",
+        "Polls close in Colombia vote with Espriella and Cepeda advancing to runoff",
+        "Platner's wife calls reports about Senate candidate's explicit texts with women 'shameful'"
+      ]
+    }
+  ]
+}
