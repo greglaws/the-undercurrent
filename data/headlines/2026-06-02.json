@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-02",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Iran War Live Updates: Israel Strikes Southern Lebanon After Pulling Back From Threat to Beirut",
+        "Hospitals See Diseases Resurge as Vaccinations Decline",
+        "Extreme Water Shortages in the West, and Hegseth’s Pentagon Purge"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "As Russia fails to achieve war aims in Ukraine, Putin needs a way out",
+        "President’s payout fund on shaky ground as Republicans push for retreat",
+        "Here’s what to watch for in today’s key primaries"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Will Volkswagen’s Massive ‘Made for China’ Bet Pay Off?",
+        "At the Age of 84, Barry Diller Is Reinventing Himself All Over Again",
+        "This 83-Year-Old Investor Is Elon Musk’s Biggest Fanboy"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Democratic voters confident California election is secure, Republicans less so, poll finds",
+        "Vote count for California governor, L.A. mayor could be painfully slow. Don't expect 'instant gratification'",
+        "Their names were on the ballot -- but not on the rolls of registered voters"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "DOJ will pause $1.8 billion fund, per court order. And, key primaries to watch today",
+        "Pentagon policy illegally banned transgender troops from military, appeals court rules",
+        "EU strikes migration deal for more deportations and detention centers abroad"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH LIVE: Mullin testifies on DHS budget before Senate Appropriations subcommittee",
+        "Trump's 'anti-weaponization' fund hits setback amid political pressure from Republicans",
+        "U.S. and Iran send mixed signals as Israel's invasion extends deeper into Lebanon"
+      ]
+    }
+  ]
+}
