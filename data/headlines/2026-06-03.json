@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-03",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "A Trump Endorsement Falls Flat: 4 Election Takeaways From Iowa and Beyond",
+        "5 Takeaways From the California Primary Election",
+        "Deb Haaland Wins Nomination in New Mexico Governor’s Race"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Eight takeaways from a big primary night in Iowa, California and more",
+        "Hilton, Becerra lead in California’s governor primary. See live results here.",
+        "Trump’s pick for Iowa governor loses GOP contest in upset"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New Funding Round",
+        "‘60 Minutes’ Correspondent Scott Pelley Fired by CBS News",
+        "Greg Abel Puts His Stamp on Berkshire Hathaway With Pair of Megadeals"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A. Mayor Karen Bass makes Nov. 3 runoff; Spencer Pratt and Nithya Raman fight for second",
+        "Hilton, Becerra take early leads in California's crowded race for governor",
+        "Los Angeles city attorney trails challengers early; incumbent city controller holds lead"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Takeaways from Iowa's primaries. And, DOJ nixes Trump's 'anti-weaponization' fund",
+        "President Trump seeks control of science funding",
+        "Ukrainian drones strike a St. Petersburg oil terminal ahead of Putin visit"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What to know about Trump's controversial pick of Bill Pulte for acting spy chief",
+        "Justice Department scraps Trump's 'anti-weaponization fund' after pushback from Congress",
+        "5 things to watch in Tuesday's primaries in California, Iowa and beyond"
+      ]
+    }
+  ]
+}
