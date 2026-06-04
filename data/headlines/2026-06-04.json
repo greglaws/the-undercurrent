@@ -1,0 +1,50 @@
+{
+  "date": "2026-06-04",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Republicans Begin to Test the Limits of Trump’s Power by Flexing Their Own",
+        "House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump",
+        "Massie, 3 Other House Republicans Broke From Trump on Iran War Powers Vote"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "House votes to block Trump from ordering more strikes on Iran",
+        "The four Republicans who broke with Trump on the Iran war",
+        "Video shows Pentagon counterterrorism hire clambering into Capitol on Jan. 6"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Bill Ackman’s Pershing Square Set to Make $600 Million on Universal Stake",
+        "Why Berkshire Hathaway Went Window-Shopping at Macy’s",
+        "Terms Revealed for SpaceX’s Unconventional $75 Billion IPO"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [],
+      "error": "Status code 403"
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "More than 1 in 3 World Cup matches face dangerous heat risk, NPR analysis finds",
+        "In photos: a preview of the Obama Presidential Center",
+        "How having zero points in tennis — or 'love' — came to sound so sweet"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Israel and Lebanon agree to renew fragile ceasefire, create Lebanese security zones",
+        "Iranian strikes set Kuwait's largest airport ablaze amid fragile ceasefire with the U.S.",
+        "Dissecting what the latest primary races mean for November elections"
+      ]
+    }
+  ]
+}
