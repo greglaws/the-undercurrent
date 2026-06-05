@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-05",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Senate Passes $70 Billion G.O.P. Immigration Bill",
+        "House Passes Ukraine Aid in Defiance of Republican Leaders",
+        "Inside Trump’s Strategy to Push Out Immigrants, and How Tech Giants Targeted Teens at School"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Senate votes to fund ICE for the rest of Trump’s term",
+        "House bill rolls back food aid for pregnant women, children",
+        "Over objections of GOP leaders, House passes Ukraine security assistance bill"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Morgan Stanley Sees SpaceX’s Revenue Reaching $3.4 Trillion in 2040",
+        "There’s More to Space Stocks Than SpaceX",
+        "Meet the SpaceX Employees Who Are About to Become Overnight Millionaires"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A. city attorney likely to be first incumbent ousted in primary in nearly 100 years",
+        "Here's how your neighborhood voted for Los Angeles mayor",
+        "2026 primary election results: Races still too close to call"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The World Cup vs. bugs, germs and heat: Here's the game plan",
+        "Senate Republicans pass immigration funding after overnight vote",
+        "Senate passes $70B immigration enforcement bill without limits on Trump settlement fund"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "House passes bill to provide more Ukraine aid and impose new sanctions on Russia",
+        "Some Republican governors are rebranding Pride Month with conservative alternatives",
+        "Homicide convictions reversed for paramedics who injected Elijah McClain with ketamine"
+      ]
+    }
+  ]
+}
