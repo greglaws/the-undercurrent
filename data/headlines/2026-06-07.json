@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-07",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines",
+        "An Uncertain Win for Immigrants Seeking to Stay in U.S.",
+        "Kennedy Center Loses Case Against Musician Who Canceled Over Trump Naming Dispute"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "The data center backlash coming to key midterm battlegrounds",
+        "Political dynasties carry new baggage as voters vilify the elite",
+        "A record die-off of sea stars was followed by something that stunned biologists"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "What the ‘Dean of Valuation’ Thinks Elon Musk’s SpaceX Is Really Worth",
+        "How David Grutman Became the King of the Vibes Business",
+        "Telecom Companies to Buy Patrick Drahi’s SFR for $23.5 Billion"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "At 100, Route 66 still beckons as a cross-country caravan takes off from Santa Monica",
+        "Two, including 10-year-old boy, killed in collision with speeding fire truck",
+        "A year after L.A. worksite immigration raid at fashion company, former workers still struggling"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "1 million people flood Madrid streets to see the pope's flower-carpeted procession",
+        "At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say",
+        "4 takeaways from the U.S. men's final tune-up games before the World Cup"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Multiple people shot near festival in Toledo, Ohio, authorities say",
+        "What to know about the protests and arrests outside a New Jersey detention center",
+        "What's next for the War Powers Resolution on Iran? PolitiFact explains"
+      ]
+    }
+  ]
+}
