@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-08",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Resuming War Is a Short-Term Political Boon for Netanyahu, but Grim Choices Await",
+        "Oil Jumps After Hostilities Between Iran and Israel Escalate",
+        "Iran and Israel Exchange First Strikes Since Cease-Fire, and Texas Ranchers Sound the Alarm"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Airstrikes intensify as Israel-Iran clashes leave ceasefire on brink",
+        "Israelis push Netanyahu to keep fighting in Lebanon, signalling long occupation",
+        "This agent sent models to meet Jeffrey Epstein. Now he’s trying to explain why."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Once on the Brink, U.S. Steel’s Oldest Plant Is Getting a Big Renovation",
+        "Driverless Trucks Are Here—and They’re Delivering Bags of Doritos",
+        "Nvidia Takes the Top Spot in the 2026 List of Best Companies for the Future"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "What the primary chaos says about California Democrats",
+        "‘I didn’t want to work for anybody’: Inside Byron Allen’s journey from comic to media mogul",
+        "New Iran and Israel strikes threaten ceasefire; Trump tells both sides to stop 'shooting'"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Israel-Iran strikes threaten truce. And, Ebola is spreading at an unprecedented rate",
+        "In his book, self-described USAID 'whistleblower' talks about the agency and Ebola",
+        "In speech to Spanish parliament, pope demands respect for the dignity of all people"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "European leaders stress 'urgent need' to bolster Ukraine's defenses against Russian ballistic missiles",
+        "Palestinian man with Israeli citizenship opens fire in central Israel, killing 1 and wounding 5",
+        "Israel says Iran launched missiles in first bombardment since fragile ceasefire"
+      ]
+    }
+  ]
+}
