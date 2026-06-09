@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-09",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "A Challenge in the U.S.-Iran Talks: Both Sides Demand Victory",
+        "Trump Wants to Call the Shots. But in Iran, He Keeps Hitting His Limits.",
+        "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump’s grip on the GOP leaves Netanyahu with few places to turn",
+        "Trump says pilots ‘fine’ after helicopter went down near Strait of Hormuz",
+        "In Trump’s second term, fewer seats for women at the table"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Why Does It Take Years to Get a Patriot Missile From Factory to Front Line?",
+        "A Rush to Stockpile Oil Will Keep Prices Higher for Longer",
+        "The Fight to Break China’s Rare-Earth Dominance Moves to a New Front in Brazil"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "How Nithya Raman went from last-minute candidate to the L.A. mayor runoff",
+        "The secret to Xavier Becerra's success",
+        "New evidence confirms Edison’s idle line ignited Eaton fire, lawyers say"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "4 states head to the polls. And, global conflicts are on the rise, new report says",
+        "Maine's Senate race and much more. Here are the primary contests to watch today",
+        "More Americans survive cancer. But the psychological impacts can persist for years"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Only half of U.S. adults trust the CDC's public health recommendations, poll finds",
+        "Exchange of missile strikes between Israel and Iran threatens fragile ceasefire",
+        "What Iran and Israel's escalation means for efforts to end regional conflict"
+      ]
+    }
+  ]
+}
