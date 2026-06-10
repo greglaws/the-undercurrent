@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-10",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Quiet Oman Landed Itself in Trump’s Cross Hairs",
+        "Stray Drones Are Setting Off Alarms in Europe, and the U.S. Deports a World Cup Referee",
+        "The Battle for the Senate Could Come Down to Hopes and Fears in Maine"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Five takeaways from the primaries in Maine and South Carolina",
+        "Graham Platner withstood a string of controversies. Here’s how they unfolded.",
+        "Once a rising star, Nancy Mace suffers resounding defeat in governor’s race"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "19 Things to Know About Gwynne Shotwell, SpaceX’s President",
+        "Tech, Media & Telecom Roundup: Market Talk",
+        "Now Is a Good Time to Buy Into America’s Mega Utility Merger"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California's new Hells Angels: Teens on e-bikes cut a path of danger",
+        "California's e-bike laws and restrictions: A guide on what to know",
+        "VA promise of 800 new homes on West L.A. campus this year shrinks to 260"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "July 1 brings big student loan changes. Here's what you need to know",
+        "U.S. and Iran exchange strikes. And, House passes ICE and Border Patrol funding",
+        "China re‑centers North Korea ties as nuclear silence reshapes balance"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S. retaliates against Iran after American helicopter downed near Strait of Hormuz",
+        "News Wrap: Israel's bombing campaign against Hezbollah continues inside Lebanon",
+        "How Maine Democrats view Platner's scandals and chances to oust Sen. Collins"
+      ]
+    }
+  ]
+}
