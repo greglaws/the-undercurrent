@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-11",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Women Who Fled Iran Are to Be Deported to Central African Republic, Lawyers Say",
+        "Analysis of Satellite Image and Videos Suggest Precision U.S. Strikes on Iranian Water Facility",
+        "Europe Raises Interest Rates as War Stokes Inflation"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Iran targets U.S. bases for a second night, raising fears of renewed combat",
+        "Oil executives warn White House that gas prices will get worse",
+        "Trump’s new Fed chief may soon have to raise interest rates"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "You Have No Idea What a Trillion Dollars Is—and We Have Proof",
+        "Climate Standard Setter SBTi Sets New Rules for Companies Seeking Net Zero",
+        "How Cracker Barrel’s CEO Saved Her Job by Abandoning Her Own Strategy"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Becerra heads toward the November election with a major edge over Hilton in governor's race, poll shows",
+        "L.A. voters are stuck with status quo in City Hall",
+        "Spencer Pratt became a voice for L.A.'s disaffected. Where do his supporters go now?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. launches second day of Iran strikes. And, World Cup facts to know before kickoff",
+        "Along the 7 train in Queens, World Cup fans welcome the 'beautiful game'",
+        "How 'algorithm' got its name from a 9th-century Persian mathematician"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Feds won't seek death penalty in plea deal with man accused of killing Minnesota lawmaker",
+        "WATCH LIVE: Senate Banking Committee holds hearing on artificial intelligence",
+        "Trump administration warns hundreds of hospitals to increase price transparency or face fines"
+      ]
+    }
+  ]
+}
