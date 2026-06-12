@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-12",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S. Plan Is Said to Pull a Third of Fighter Jets It Provides NATO for Europe",
+        "What the SpaceX I.P.O. Means for You, and a Giant Act of Vandalism in D.C.",
+        "Neither Peace Nor War: Iran Conflict Leaves World in Dangerous Limbo"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Qatar pursued secret talks with Iran to shield gas complex from strikes, security officials say",
+        "Behind veneer of normalcy in Dubai, war fatigue and a sense of uncertainty",
+        "Trump says he has canceled plans to strike Iran, claiming deal is near"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Everyone Loves Chinese Cars, Except the Chinese",
+        "The Wearable Boom Is Real. The Investment Case Is Murkier.",
+        "How Texas Ranchers Are Fighting a Long-Eradicated Cattle Killer"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "A year after ICE swept L.A., fewer raids but harsher rules squeeze immigrants nationwide",
+        "House Democrats ask new ICE director to roll back policy limiting oversight visits",
+        "Inside college AI cheating wars: extreme surveillance, false accusations, jarring confusion"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
+        "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
+        "She waited decades for Scotland to make the World Cup. At 93, she'll be cheering in person"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump calls off threatened strikes, says deal with Iran is close",
+        "Middle East experts assess prospects for U.S.-Iran deal",
+        "WATCH: Trump signs proclamation opening more protected ocean areas to commercial fishing"
+      ]
+    }
+  ]
+}
