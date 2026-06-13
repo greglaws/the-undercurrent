@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-13",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Wages Are Falling. Wealth Is Surging. No Wonder Americans Are Unhappy.",
+        "SpaceX’s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
+        "Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Workers begin removing Trump’s name from Kennedy Center",
+        "Judge blocks Trump national parks order, calling it ‘censorship’",
+        "Washington National Opera sues to force Kennedy Center to turn over $17M in gifts"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for June 13, 2026",
+        "The 70-Year Marriage Between McDonald’s and Coke Has Some Issues",
+        "The Former GOP Operative Running a News Site for the ‘Politically Homeless’"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "U.S. fans roar at Coliseum watch party, enjoy inexpensive World Cup energy",
+        "Spencer Pratt appears to concede election in aggressive video threatening Bass and Raman",
+        "Gene Shalit, beloved and bushy film critic on the ‘Today’ show, dies at 100"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "A plan to get lifesaving food to malnourished kids was working -- until it wasn't",
+        "'Cool Ladies Club' is directed by 10 working-class women. They live up to the title",
+        "COMIC: How excessive heat kills and how to stay safe"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What the U.S. and Iran are demanding in the latest peace proposal",
+        "'Close doesn't count': Mideast experts assess potential U.S.-Iran agreement",
+        "News Wrap: Judge says Kennedy Center must remove Trump's name by Friday deadline"
+      ]
+    }
+  ]
+}
