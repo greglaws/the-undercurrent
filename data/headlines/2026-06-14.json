@@ -1,0 +1,52 @@
+{
+  "date": "2026-06-14",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Deadlocked Wars: How Major Powers Misread the Regions They Attacked",
+        "UK Forces Seize Russian Shadow Fleet Oil Tanker",
+        "Knicks Give Their City Something New: Impossible Joy"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Voters are unhappy about much more than high gas prices",
+        "Joe Rogan called the White House UFC event ‘so America.’ He’s right.",
+        "Sports betting was once widely outlawed. Now it’s promoted at the White House."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "A Guide to the Biggest Winners From the SpaceX IPO",
+        "SpaceX’s Engineering Secret? A College Car-Racing Club"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Who loved Bass, Raman and Pratt the most? A district-by-district breakdown",
+        "From the scene of South L.A.'s erupting sidewalks, 5 questions for Bass and Raman",
+        "FBI seizes drones, cites pilots near SoFi Stadium during the World Cup"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Here's who's missing at the World Cup: Soccer-playing grannies!",
+        "Want obesity drugs covered by insurance? Telehealth companies have a big say",
+        "Trump's UFC fights bring historic spectacle to White House"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump taps James M. McDonald as U.S. Attorney for the Southern District of New York",
+        "Tens of thousands march at Pride events in Romania and Bulgaria to demand equality",
+        "Ukrainian drone strike kills 1 and injures 3 in southern Russia"
+      ]
+    }
+  ]
+}
