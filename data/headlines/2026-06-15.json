@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-15",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Claims Strait Will Be ‘Permanently Toll-Free’ Under Agreement With Iran",
+        "Oil Tumbles and Stocks Surge After Trump Announces Deal With Iran",
+        "Inside the U.S.-Iran Deal, and Trump Hosts U.F.C. Fights"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump sought to break Iran’s regime. He settled for reopening Hormuz.",
+        "U.S., Iran reach limited deal to end fighting",
+        "Israelis denounce Trump’s deal with Iran"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Fox to Buy Roku Streaming Service in $22 Billion Deal",
+        "New Fund Backed by LVMH and Top Pro Athletes Invests in Activewear Brand",
+        "Is the Luxury Handbag’s Heyday Ending?"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "What COVID is teaching doctors about the relationship between viruses and cancer",
+        "El Niño has arrived: 5 ways California could get pummeled",
+        "These visitors' viral World Cup videos are showing what really makes America great"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Former American businessman detained in Myanmar after alleged financial misconduct",
+        "As Luigi Mangione's lawyers head to court, support grows for the accused 'vigilante'",
+        "Trump announces deal to end war in Iran. And, how to stay safe in deadly heat"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Deal is reached to end Iran war and Trump orders stop to U.S. naval blockade",
+        "Putin and Zelenskyy each speak with Trump by phone as drone strikes kill 2 in Russia and U.K. detains tanker",
+        "Eastern Congo reports 782 Ebola cases and 181 deaths, authorities say"
+      ]
+    }
+  ]
+}
