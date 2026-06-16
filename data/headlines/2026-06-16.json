@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-16",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Iran War Permanently Altered the Global Economy",
+        "Iran Will Enter Nuclear Talks Feeling Emboldened",
+        "A Times Investigation Into Epstein’s Death, and Why Gas Prices Might Stay High"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Records reveal $600M estimate for Trump’s ballroom project, with half from taxpayers",
+        "China controls trade chokepoints beyond rare earths. It’s squeezing them.",
+        "How Anthropic lost the White House’s trust — and then its flagship product"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "SpaceX Agrees to Buy AI Coding Agent Cursor for $60 Billion",
+        "GM in Talks to Supply Weapons Parts to Lockheed Martin",
+        "Why Oatly’s Marketing Went From Wordy Billboards to Beverage Events"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "El Niño turns crumbling California pier into climate battleground over what to save — and who pays",
+        "Panel balks at plans to expand L.A. City Council to 25 members",
+        "Small investors have powered SpaceX higher, but they'll shoulder much of the risk when reality bites"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "How Israel could complicate Iran peace negotiations. And, World Cup highlights",
+        "Is it a renter's market? It depends on where you live",
+        "Is a transparent fish the future of brain science? This center is betting on it"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump hails Iran deal as G7 summit begins in Europe",
+        "How Israelis are responding to Trump's Iran peace plan",
+        "U.S.-Iran deal a 'strategic defeat' for Israel, Middle East expert says"
+      ]
+    }
+  ]
+}
