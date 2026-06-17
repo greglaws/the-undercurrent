@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-17",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Judge Orders Kennedy Center to Make a Plan for Staying Open",
+        "Washington’s Reagan Airport Will Ground Flights for July 4 Events",
+        "How Local Police Are Working for ICE, and an Unusual Data Center Dispute"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Four takeaways from primaries in Georgia, Alabama and Oklahoma",
+        "Lewis George takes substantial early lead in D.C. mayoral primary",
+        "Without a winner declared, candidates face their supporters"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Car ‘Playgrounds,’ Smartphone Shopping: Inside Carvana’s New-Car Sales Playbook",
+        "Europe’s Biggest Banking Deal in Years Is Getting Closer",
+        "State Farm’s AI Plan for Sales Agents Sparks Uproar. ‘A Real Slap in the Face.’"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "He graduated high school with honors. ICE detained him the next day",
+        "Two beatings, shooting by L.A. sheriff's deputies at center of watchdog records lawsuit",
+        "L.A. voters could be asked to boost spending on parks. Finding the money comes later"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "President Trump calls to delay nomination of intel pick Jay Clayton",
+        "Trump to face questions at G7 press conference. And, Tuesday's primary results",
+        "'Rejected': How federal prisons stonewall grievances and deny care for years"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump signals he may reimpose sanctions on Russian oil as G7 refocuses on Ukraine",
+        "Questions linger over U.S.-Iran deal as details remain murky",
+        "Maritime security expert weighs U.S.-Iran deal's impact on global shipping"
+      ]
+    }
+  ]
+}
