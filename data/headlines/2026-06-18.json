@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-18",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal",
+        "Trump’s Deal With Iran Opens New Rifts in G.O.P.",
+        "Before Making a Deal, Trump Demanded Iran’s Surrender. He Got a Surprise."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S. and Iran sign initial deal to end war and open Strait of Hormuz",
+        "Read the terms of the Iran deal",
+        "Senate targets Hegseth’s travel in standoff over apparent Iran school attack, boat strikes"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "BE Semiconductor Raises Long-Term Revenue, Profitability Targets on AI Boost",
+        "DOJ Defends Musk’s xAI in Data-Center Pollution Lawsuit",
+        "The Company That Created the Checkbook Is Buying a Payment Processor"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Inside the FBI's battle to keep drones out of World Cup sites amid heightened terrorism fears",
+        "Crews gain control of Boyle Heights warehouse fire; 'highly toxic' ammonia leak spurs concern",
+        "Bill to limit prison off-ramp for the mentally ill could soon head to Newsom"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump signs agreement with Iran. And, the president's approval hits record lows",
+        "The Obama Presidential Center will be dedicated Thursday. Here's what to expect",
+        "As America turns 250, one museum makes history possible to touch"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump's economic approval rating hits new low, poll finds",
+        "U.S. officials reveal key terms of agreement to end Iran war",
+        "Middle East experts weigh terms of U.S.-Iran deal and who came out ahead"
+      ]
+    }
+  ]
+}
