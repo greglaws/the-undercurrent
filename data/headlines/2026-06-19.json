@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-19",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Costs of the Iran War: Thousands of Lives and Billions of Dollars",
+        "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims",
+        "JD Vance’s Blunt Warning to Israel, and Why Waymo Is Struggling to Go National"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Four Israeli soldiers killed as combat in Lebanon imperils U.S.-Iran deal",
+        "Trump condemned Obama’s Iran deal. Here’s how his own compares.",
+        "Some key Republicans sharply criticize parts of Trump’s Iran deal"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Basic Materials Roundup: Market Talk",
+        "Local Burger Chains Are Winning the Fast-Food Wars",
+        "Vegas Was Once America’s Bargain Vacation. Now It’s a Luxury Destination."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "'I love America!': With the World Cup, Inglewood becomes an international hub",
+        "'¡Coreano, hermano!' Mexico vs. Korea match brings out more romance than rivalry in L.A.",
+        "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
+        "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
+        "How the 1874 Freedman's Bank collapse connects to economic disparities we see today"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "White House defends Iran agreement as U.S. lifts Strait of Hormuz blockade",
+        "'Markets, munitions and midterms' pushed Trump to Iran deal, Michael Doran says",
+        "News Wrap: Ukraine strikes major oil refinery near Moscow"
+      ]
+    }
+  ]
+}
