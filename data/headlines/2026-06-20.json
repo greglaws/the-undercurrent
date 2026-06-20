@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-20",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
+        "Mines, Logistics and Deep Uncertainty Threaten a Middle East Oil Rebound",
+        "Trump’s Iran Deal Is Off to a Chaotic Start"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Chaotic run-up to U.S.-Iran talks signals steep hurdles ahead",
+        "War-weary Iranians see glimmers of relief as Trump deal takes shape",
+        "U.S. intelligence warns Israel is likely to undermine Iran peace deal, officials say"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for June 20, 2026",
+        "Iran Can Now Sell Oil. How Fast Can It Ramp Up?",
+        "The Classic Movie That Was Nearly Destroyed by a Single Line of Code"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "From YouTube to the multiplex: How low-budget horror films are beating big-budget studio bets",
+        "Video: LAPD releases graphic footage of officer shooting dog after Knicks victory",
+        "Behested payments aren't illegal, but they are a problem. Especially for Newsom"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "These nuns spent a lifetime helping others. In their last years, who will help them?",
+        "Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat",
+        "Palestinian-American kids find inspiration, and escape, on the soccer pitch"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Cuba passes sweeping free-market reforms in biggest economic shift since revolution",
+        "Israel and Hezbollah agree to a ceasefire as deadly fighting threatens U.S.-Iran deal",
+        "Former U.S. envoy outlines challenges in next phase of Iran negotiations"
+      ]
+    }
+  ]
+}
