@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Mideast Live Updates: New Round of U.S.-Iran Talks Set to Start in Switzerland",
+        "Neither the War Nor Trump’s Deal Terminated the Main Threats in Iran, Analysts Say",
+        "Israel directs its military to limit its actions in Lebanon, though tensions persist."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump wanted out of the Iran war. The aftermath is pulling him back in.",
+        "U.S. and Iranian negotiators meet in Switzerland to hash out peace plan",
+        "For cash-strapped farmers, deal to end Iran fighting comes too late"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Baiju Bhatt Left Robinhood as a Billionaire. His Next Bet Is His Boldest Yet.",
+        "Coke Stares Down IRS in Latest Cola War",
+        "They Looked Like They Were Getting Rich on Polymarket—but None of It Was Real"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Newsom and L.A. declare state of emergency as Boyle Heights fire continues spewing smoke across region",
+        "L.A. state of emergency: What we know about Boyle Heights fire",
+        "U.S., Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "A new survey on dads found that 9 out of 10 had a surprising reaction to fatherhood",
+        "Freed from Cambodia's scam compounds, trafficking victims face a new crisis",
+        "Want to improve your agility? Try these 'explosive power' exercises"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S. and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again",
+        "Italian tourist killed in massive fire at Dominican Republic luxury beach resort",
+        "Extreme heat expected again at the Grand Canyon after 3 hikers die in heat-related incidents"
+      ]
+    }
+  ]
+}
