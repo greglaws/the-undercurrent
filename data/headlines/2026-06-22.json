@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-22",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "First Round of U.S.-Iran Talks Concludes, Mediators Say",
+        "U.K. Live Updates: Starmer Announces Resignation; Burnham Wins Key Endorsement",
+        "Who Is Andy Burnham, the Man Who Could Be Britain’s Next Prime Minister?"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.K. Prime Minister Starmer will resign as Labour government seeks reboot",
+        "Read Keir Starmer’s resignation speech",
+        "Alan Greenspan, most powerful central banker of modern times, dies at 100"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Chevron Strikes Power Deal With Microsoft for West Texas AI Data Center",
+        "Basic Materials Roundup: Market Talk",
+        "We Investigated Polymarket’s Deceptive Marketing Campaign. Here’s What We Found."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Carvalho resigns as LAUSD superintendent amid federal investigation",
+        "Alan Greenspan, longtime head of the Federal Reserve, dies at 100",
+        "'People just forgot about Olvera Street.' Historic L.A. restaurants on brink of closure"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "8 things to know about the gut microbiome and keeping yours healthy",
+        "Alan Greenspan, the legendary former Federal Reserve chair, dies",
+        "UK PM Keir Starmer resigns. And, US and Iran agree to roadmap for final deal"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Jets were 300 feet apart in Boston close call that forced Delta flight to abort landing, expert says",
+        "Colombians vote in a presidential runoff that pits an outsider against a progressive",
+        "Heat, wind and drought conditions spark wildfires in the U.S. West"
+      ]
+    }
+  ]
+}
