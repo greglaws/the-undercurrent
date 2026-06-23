@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-23",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "As Vance Leads Iran Negotiations, Trump Creates Disruptions in His Path",
+        "Iran Makes Moves to Assert Control Over the Strait of Hormuz",
+        "America’s Thirst for Gasoline May Not Recover After Iran War"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "New photos show first look at Kennedy Center facade without Trump’s name",
+        "Trump said ‘vandals’ gashed the Reflecting Pool. He hasn’t provided evidence.",
+        "A dead duck was seen in the Reflecting Pool. Then two more were found nearby."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Top-Paid CEOs Smash the $200 Million Payday",
+        "Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation",
+        "Domino’s Pizza Picks Insider as New CEO"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Health concerns mount as Boyle Heights warehouse fire stretches into a week",
+        "It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold storage facility?",
+        "'This crisis is not over.' Boyle Heights fire keeps  burning as officials warn of polluted air"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
+        "When falling housing prices are good news — and when they're not",
+        "Iran's president heads to Pakistan as U.S.-Iran teams work on war-ending deal"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Vance touts progress in Iran talks as U.S. temporarily lifts oil sanctions",
+        "Two views on what the latest Iran talks mean for Lebanon and regional conflict",
+        "Starmer resigns as UK's prime minister, succumbing to political pressure"
+      ]
+    }
+  ]
+}
