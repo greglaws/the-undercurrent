@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Mamdani Emerges as Kingmaker, Pushing His Slate to a Primary Sweep",
+        "Insurgency Over Incumbency: 7 Takeaways From New York’s Primaries",
+        "Victories by Pro-Palestinian Democrats Show the Party’s Shift on Israel"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Mamdani emerges as kingmaker, and other takeaways from Tuesday’s primaries",
+        "Maryland results: McClain Delaney fends off comeback bid, and Moore to face Cox",
+        "South Carolina results: Trump’s initial pick for governor loses"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Agility, Maker of Humanlike Robots, to Go Public in $2.5 Billion SPAC Deal",
+        "As AI Companies Race for Power, Amazon and Google Have the Lead",
+        "Will Anyone Buy This Cheap EV Truck With Hand-Crank Windows and No Radio?"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Warehouse fire disrupts lives, businesses in Los Angeles: 'No one is coming'",
+        "Company at center of Boyle Heights fire faces scrutiny over its record, earlier blaze",
+        "As Boyle Heights fire still burns, restaurants depend on which way the wind blows"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
+        "Congress passes major housing bill. And, Mamdani-backed candidates sweep NYC primaries",
+        "4 ways to design a dreamy summer, according to a happiness expert"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Mamdani slate sweeps Democratic primaries in New York, ousts 2 incumbents from Congress",
+        "Maryland Democrats pick their U.S. House nominees as Moore wins primary for governor",
+        "Wilson wins GOP nomination for South Carolina governor after Trump hedges his bet on race"
+      ]
+    }
+  ]
+}
