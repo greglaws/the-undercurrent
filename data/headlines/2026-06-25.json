@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-25",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Photos: Earthquakes Strike Venezuela",
+        "2 Deadly Earthquakes Hit Venezuela, and Why Chemo Drugs Could Soon Be Rationed",
+        "To Escape the Heat, Parisians Jump into an Old Industrial Canal"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "At least 164 dead as powerful earthquakes hit Venezuela",
+        "Under pressure from Trump, Republican-led Senate reverses course on Iran",
+        "Senate Republicans clash with Trump during contentious lunch"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Pizza Has Gone Cold. Domino’s Is Still Worth a Look.",
+        "The New Push to Ready Millions for AI Career Upheaval",
+        "Forget Work. Passive Income Is the New American Dream."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California's 'first partner' targeted by Trump, Newsom says. Here is what we know about her career, finances",
+        "Venezuela earthquake: Staggering destruction signals urgent warning for California",
+        "Venezuela reeling after powerful twin earthquakes kill at least 32 people as promises of aid pour in"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
+        "4 surprising things to know about abortion in America since Dobbs",
+        "'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "A powerful 6.9-magnitude earthquake strikes off northern Japan",
+        "Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in the capital of Caracas",
+        "WATCH: Under proposed rule, USPS won't deliver mail ballots to states that don't provide voter rolls, postmaster general says"
+      ]
+    }
+  ]
+}
