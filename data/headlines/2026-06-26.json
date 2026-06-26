@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-26",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Immigration Hard-Liners Repeatedly Lost in Court Before Justices Ruled in Their Favor",
+        "Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians",
+        "Here’s What the Supreme Court’s Decision Means for TPS Holders"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Nursing homes, factory owners and immigrants brace for fallout from Supreme Court ruling",
+        "What the court’s rulings mean for immigrants and the nation",
+        "DHS chief acknowledges missteps in $1 billion warehouse purchases"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Zalando Shares Slump After German Regulator Opens Probe Into Accounts",
+        "World Bank Watchdog Finds Cambodian Microfinance Lenders Harmed Borrowers",
+        "Army Will Lease Land on Bases for Critical Mineral Production"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "In a no man's land for law enforcement, hundreds of disabled veterans are moving in",
+        "'Best by'? 'Sell by'? New California law clears up food-label confusion",
+        "EPA touts crackdown on smuggled pesticides in L.A. visit"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
+        "'We are with you, Venezuela': Houston community rallies after deadly earthquakes",
+        "How well do you know your Reflecting Pool news? Because the quiz will test you"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH: Stephen Miller says 'America's doors are closed fully to asylum seekers' after Supreme Court rulings",
+        "King Charles III will not live at Buckingham Palace after completion of costly, decade-long refurbishment",
+        "Thousands feared dead in Venezuela after twin earthquakes flatten buildings"
+      ]
+    }
+  ]
+}
