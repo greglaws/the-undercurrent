@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-27",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
+        "After New York Elections, Israelis Fear Further Rupture in U.S.-Israeli Relationship",
+        "In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Deal with Trump hands Iran economic lifeline as leaders eye postwar gains",
+        "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz",
+        "Pro-Israel influencers criticize Vance, but evangelicals remain open to him"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for June 27, 2026",
+        "FIFA Told Stadium Sponsors to Get Lost. They Spun It Into Marketing Gold.",
+        "Josh D’Amaro Is 100 Days Into His Mission to Make Disney Faster and Fiercer"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Newsom, California Legislature reach $351.7-billion budget deal",
+        "California appeals court upholds Harvey Weinstein's rape conviction, but says he must be resentenced",
+        "Mistrial declared in Palisades fire arson case, a stunning blow to U.S. prosecutors"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
+        "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline",
+        "How coach Mauricio Pochettino made believers out of the U.S. World Cup team"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Apple increases prices for Macs and iPads, blaming memory chip shortage fueled by AI",
+        "Americans are inundated with suspected scams. New polls show why few victims report them",
+        "DNC plans weekend of local events to focus on affordability concerns under Trump"
+      ]
+    }
+  ]
+}
