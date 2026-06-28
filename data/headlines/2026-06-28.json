@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-28",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+        "Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’",
+        "What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "With time running out, Trump digs in on changing midterm election rules",
+        "The Trump Pentagon appointee who has divided top Republicans",
+        "President taps former Oklahoma state trooper to lead ICE"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The AI Startup Challenging Tesla and Waymo in the Race to Automate Driving",
+        "Airlines Are Installing New Luxury Seats, but No One Is Allowed to Sit in Them",
+        "One Man Tries to Make $2 Million Selling Coins at the Internet’s Outer Limits"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Carvalho was threatened with possible dismissal before he resigned as LAUSD superintendent",
+        "Canadian flew to California, posed as Amazon driver to try to kill woman he met in online gaming",
+        "Hostage call leads LAPD to illegal gambling operation in Koreatown; 26 detained"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "These church members disagree on politics. Together they're wiping out medical debt",
+        "July 4th fireworks in Washington: What's different for America's 250th?",
+        "Food defined social hierarchy in 1776. Here's what was on the table"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Man with same name as U.S. Sen. Dan Sullivan is eligible for Alaska's primary ballot, judge rules",
+        "Trump-backed Julia Letlow faces John Fleming in Louisiana GOP Senate runoff",
+        "Trump says he is nominating former Oklahoma state trooper Lance Schroyer as ICE director"
+      ]
+    }
+  ]
+}
