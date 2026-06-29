@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-29",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Israel and Iran Have Divided Democrats and Republicans. Will They Ever Be the Same?",
+        "A Frantic Search for Survivors in Venezuela, and Fires Scorch Western U.S.",
+        "China Emerges as a Relative Winner From Strait of Hormuz Crisis"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Why resisting Trump has galvanized Black Democrats as the midterms approach",
+        "Left-wing Democratic primary wins pose a test for a Jeffries speakership",
+        "Trump-backed ‘Freedom Trucks’ tell a sanitized story of the country’s founding"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Comcast Plans Company Split, Sending Shares Soaring 22%",
+        "CVC Capital Partners to Buy Ingredients Business Irca From Advent",
+        "Rocket Lab Buys Satellite Operator Iridium in Bid to Challenge SpaceX"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Nancy Pelosi’s next challenge: Building a nonpartisan democracy institute at UC Berkeley",
+        "Scenes from Venezuela and SoCal: Hope battles with despair after massive quakes",
+        "SpaceX IPO sparks race for luxury housing in Southern California"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. and Iran exchange fire despite ceasefire. And, Trump nominates a new head of ICE",
+        "U.S.-Iran peace talks in question after weekend attacks in the Gulf",
+        "Why do some U.S. airports have private security, but others use TSA?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Heat wave and high humidity will blast much of the eastern U.S. this week, meteorologists say",
+        "Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants",
+        "Fact-checking Trump's claims about 401(k) gains during his second term"
+      ]
+    }
+  ]
+}
