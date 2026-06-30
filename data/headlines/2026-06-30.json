@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-30",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Putin Faces Increased Pressure as Moscow Is Again Attacked by Drones",
+        "Supreme Court Expands Trump’s Power, and a Dangerous U.S. Heat Wave Spreads",
+        "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump is using a $500M no-bid contract to build his White House ballroom",
+        "Trump begins construction of unannounced White House helipad",
+        "Trump’s July 4 fireworks to start much later and last much longer"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Unflappable Dealmaker Tasked With Crafting Comcast’s Next Act",
+        "Comcast’s Breakup Is Overdue. It Shouldn’t Rush Into a New Marriage.",
+        "CVC Capital Partners to Buy Ingredients Business Irca From Advent"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Downtown L.A. World Trade Center to become affordable apartments",
+        "Hospital visits for smoke inhalation spiked during Boyle Heights warehouse fire",
+        "Drug-spiked water jug caused teens to overdose in L.A. juvenile hall, lawsuit alleges"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
+        "After Trump's re-election, these U.S. scientists found jobs in the U.K.",
+        "Inside the coordinated strategy to radically reshape U.S. immigration"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "FDA panel on peptides will include experts who promote the unproven chemicals favored by RFK Jr.",
+        "Professor known for 'torture memos' will advise conspiracy probe focused on perceived Trump foes",
+        "What the Supreme Court rulings mean for presidential power"
+      ]
+    }
+  ]
+}
