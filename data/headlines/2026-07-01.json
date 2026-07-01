@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-01",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows",
+        "Trump’s Moneymaking Run: Unrivaled in Presidential History",
+        "The Supreme Court’s Momentous Term, and How Trump Has Made at Least $2.2 Billion in Office"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures",
+        "Trump’s focus on his construction projects has increased, Post analysis finds",
+        "Trump to honor a president he sees as a peer — Theodore Roosevelt"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Small-Engine Makers Gain Big Momentum in Data Centers",
+        "How Western Automakers Are Losing Their Grip on the Chinese Market",
+        "Inside the Egg Price-Fixing Scandal That Spiked American Grocery Bills"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "The war on Fourth of July fireworks shows divides California: 'Left-wing lunacy' or basic sanity?",
+        "Gas giants use AI to raise prices, lawsuit says, another algorithmic hit to the cost of living",
+        "Chaos, long lines overwhelm L.A.'s immigration courts, leading to default deportation orders"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "SCOTUS upholds birthright citizenship. And, key results from Colorado's primaries",
+        "Greetings from London, where Banksy's flag man is a warning cry",
+        "Kids with autism are prone to drowning. Florida is trying to prevent that"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Poll: Most Americans think the U.S. has strayed from its founding principles",
+        "Trump took in about $1.2 billion from crypto businesses last year, financial disclosure shows",
+        "Rights lawyers sue Ghana over third-country deportation deal with Trump administration"
+      ]
+    }
+  ]
+}
