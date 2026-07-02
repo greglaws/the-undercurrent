@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-02",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Drones over Europe raise concerns about Russian activities",
+        "A Quiet Surge in ICE Arrests, and Trump’s First Flight on Plane Given by Qatar",
+        "Republican Senate Candidates Start Their Own Super PACs to Gain Cash Advantage"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Russia rocks Ukrainian capital with massive assault, killing at least 17",
+        "An ICE detainee sought treatment for mental illness. He died in a struggle with guards.",
+        "Trump’s wealth grew on a scale without modern presidential precedent"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Consumers Shun Mid-Sized Packs Amid Price Squeeze, Nestle Says",
+        "Big Brewers Are Making an Outsize Bet on Tiny Cans of Beer",
+        "The Middle East Has Been Good for Trump’s Bottom Line"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Trump wants to show off D.C. for the Fourth. His construction is in the way",
+        "Boyle Heights blaze choked L.A. with astronomical soot pollution",
+        "NBCUniversal spin marks new era of Hollywood moguls"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+        "Going outside in this heat? Follow these guidelines to stay safe",
+        "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Newly formed Tropical Storm Douglas poses no threat to land, hurricane center says",
+        "Serena Williams tweaked her knee during Wimbledon return, but still aims to play doubles",
+        "16 children rescued from Ohio home looked 'almost feral,' authorities say"
+      ]
+    }
+  ]
+}
