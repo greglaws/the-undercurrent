@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-03",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Huge Windfall Has Few Known Global Precedents",
+        "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains",
+        "JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S. warned Iran about Israel’s aims to assassinate leaders",
+        "What makes America great? Here’s what 25 Americans told us.",
+        "As Trump commands 250th stage, Democrats offer their vision of patriotism"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Energy & Utilities Roundup: Market Talk",
+        "How Bezos Learned to Love Trump—and Win More Contracts for Blue Origin",
+        "His $7 Billion Tanker Bet Raised Eyebrows. He Couldn’t Have Timed It Better."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Trump refashions America's 250th as a celebration of himself",
+        "California is bringing back EV rebates. This is how to get one",
+        "Bytedance's TikTok took over social media. Now, its AI is taking over Hollywood"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Just gave birth or are about to? Share your story and questions about costs",
+        "Former USAID head grieves its closure while hoping for its future",
+        "A hot summer trend in the sharing economy? Rental swimming pools"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Heavy Russian strikes kill at least 21 in Kyiv after Ukrainian strikes disrupt Moscow's oil sector",
+        "Grand jury indicts Louisiana's attorney general in fight over changes to local courts",
+        "Russia pounds Kyiv with missiles and drones after Ukraine's strikes on oil infrastructure"
+      ]
+    }
+  ]
+}
