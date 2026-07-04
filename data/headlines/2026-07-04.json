@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-04",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Do You Celebrate America’s 250-Year Experiment? However You Want.",
+        "At Mount Rushmore, Trump Veers From Patriotism to ‘Communism’",
+        "Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump returns to Mount Rushmore after years of hinting he belongs there",
+        "50 years ago, The Post pictured life in 2026. Here’s what it got right.",
+        "Heat in D.C. causes cancellation of Independence Day Parade and other disruptions"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for July 4, 2026",
+        "The Quest to Make Humanoid Robots Safe Enough for Humans",
+        "The Founder Who Got Fired for Ignoring His Own Return-to-Office Rules"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Mission San Juan Capistrano is also turning 250. It has lessons for America",
+        "Demolition work at Boyle Heights warehouse halted by solar array owner, Lineage alleges",
+        "Taylor Swift, Travis Kelce married at lavish Madison Square Garden wedding"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "'Cautiously optimistic':  Swing voters describe their view of America at 250",
+        "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
+        "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "America's global legacy at 250",
+        "The growing dangers of record heat waves like the one engulfing July 4th celebrations",
+        "News Wrap: Iran begins funeral ceremonies for late Supreme Leader Khamenei"
+      ]
+    }
+  ]
+}
