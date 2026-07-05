@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-05",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases",
+        "Trump Administration Rolls Back Dozens of Gun Regulations",
+        "America Marks Its 250th Birthday With Storms, Sweat and Fire"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump fashions America’s 250th anniversary in his own image",
+        "National Mall fireworks reward those who had to sweat out a long wait",
+        "3,000 miles from D.C., a July Fourth extravaganza that was not about Trump"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering",
+        "Tech Billionaire Vinod Khosla Wants to Pay More Taxes. He Explained to Us Why.",
+        "Liquor Stocks Are Priced for a Big Tobacco Moment"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "On America's 250th birthday, U.S. soccer team of immigrants embodies founders' dreams",
+        "Paul Pelosi faces possible hit-and-run charge in Napa County crash",
+        "Are three City Council meetings a week too much? L.A. voters will decide"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
+        "Pastor freed from prison in China weeks after Trump requested his release",
+        "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Fireworks, heat, hot dogs and politics: America celebrates its 250th birthday",
+        "A child can drown in seconds. Doctors want more families to be prepared",
+        "Pope marks July 4 by praying in Lampedusa for migrants who died seeking freedom and prosperity"
+      ]
+    }
+  ]
+}
