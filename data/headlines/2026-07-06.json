@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-06",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
+        "Ukraine Rewrote Air Defense Tactics. Against Russia, It’s Still Not Enough.",
+        "As Trump Cools on NATO, Turkey Hosts Summit Meeting"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "After America’s 250th, Trump will test how far he can push NATO allies",
+        "Crowd chants ‘Death to America’ as Khamenei’s casket winds through Tehran",
+        "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Two Banks Agreed to Merge. They Can’t Agree on How to Make Chili.",
+        "A Trucking Startup Aims to Challenge Tesla. Now, Paychecks Are Missing—and So Is a Truck.",
+        "NASA Leader Flew His Vintage Jet at DC Air Show Over FAA Objections"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Brewing El Niño and roasting oceans push planet into 'uncharted territory' for heat",
+        "After the Fourth, SoCal's hot weather is making a bad air-quality situation worse",
+        "L.A. County heat advisory: When will high temperatures peak in SoCal?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump, Mamdani give contrasting July 4th speeches. And, U.S. faces Belgium in World Cup",
+        "These Medicare beneficiaries thought their drug plan was free. Then they lost it",
+        "Hate food waste? 7 creative ways to turn your leftovers into a new meal"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "White House report brands Smithsonian leadership as radical activists who can't be trusted",
+        "AP report: FIFA lifts U.S. player Balogun's red card suspension at World Cup after Trump calls Infantino",
+        "National Guard members on patrol in Memphis fatally shoot man during pursuit, police say"
+      ]
+    }
+  ]
+}
