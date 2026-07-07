@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-07",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Abandoned by Allies, Platner Faces Pressure to End Senate Campaign",
+        "In CNN Interview, Woman Details Alleged Sexual Assault by Graham Platner",
+        "Who Might Replace Graham Platner if He Drops Out of the Maine Senate Race?"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Graham Platner has six days to decide whether to drop out. Here’s how that would work.",
+        "Top Democrats pull Graham Platner endorsements, call on him to end Maine Senate campaign",
+        "For U.S. goalkeeper, a promising tournament ends with a painful mistake"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Finland Shows the Trust Barrier Facing Chinese EV Makers in the West",
+        "The Iran War Has Oil-Rich Alaska Freaked Out About $9 Gas",
+        "Jet-Fuel Prices Have Plunged but Aren’t Resulting in Much Lower Fares"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Jennifer Siebel Newsom sought to redefine the role of first spouse. Now, she faces her biggest test",
+        "From first lady to first partner: The changing role of gender and power",
+        "DMV could revoke thousands of California licenses due to mysterious testing 'anomalies'"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Woman accuses Graham Platner of sexual assault. And, NATO summit begins",
+        "Graham Platner faces calls to leave Maine Senate race after sexual assault allegation",
+        "Meet 'Project 2029' — and its war on the annoyance economy"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Can NATO allies deliver on promises to increase military spending?",
+        "News Wrap: Funeral held for Iran's late Supreme Leader",
+        "U.S. World Cup star's suspension lifted after Trump's call to FIFA president"
+      ]
+    }
+  ]
+}
