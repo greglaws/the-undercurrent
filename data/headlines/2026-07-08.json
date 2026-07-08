@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-08",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
+        "How U.S. Satellite Imagery Restrictions Are Changing How We Report on Iran",
+        "As Israel Loses Support in the U.S., Rahm Emanuel Criticizes Netanyahu"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump says ceasefire with Iran is over, calling its leaders ‘scum’",
+        "Denmark says it will defend Greenland as Trump threatens to revive NATO crisis",
+        "Navy identifies missing sailor following massive search in Arabian Sea"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Apple to Spend $30 Billion on U.S.-Made Chips From Broadcom",
+        "Trump-Backed Company Behind Family Crypto Wealth in Talks to Sell Core Business",
+        "Why Smucker’s $5 Billion Bet on the Twinkie Flopped"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "A charred body, tacos and ICE: L.A. food stand owner, employees accused in murder plot",
+        "Instead of uniting the left, California's billionaire tax measure has split Democratic allies",
+        "Hollywood's big online bet: Inside the industry's race to acquire internet stories"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
+        "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
+        "Trump administration abruptly cancels grants for teen pregnancy prevention"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S. launches new strikes on Iran after attacks on tankers in Strait of Hormuz",
+        "At NATO summit, Trump pressures allies on loyalty, defense spending and Greenland",
+        "News Wrap: Judge rejects Trump's attempt to collect Georgia election worker info"
+      ]
+    }
+  ]
+}
