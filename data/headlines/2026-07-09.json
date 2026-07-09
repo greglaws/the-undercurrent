@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-09",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "‘A Slow-Rolling Disaster’: Inside the Implosion of the Platner Campaign",
+        "Platner Suspends Senate Bid in Maine After Rape Accusation",
+        "Graham Platner Suspended His Senate Campaign. Here’s What’s Next for Democrats."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S. intensifies strikes on Iran’s coast along Strait of Hormuz",
+        "In reopening Iran war, Trump revives a political problem he can’t shake",
+        "In Graham Platner’s coastal Maine hometown, his fall is personal"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Buc-ee’s Is on a Rampage and No Mascot Is Safe",
+        "Tobacco Stocks Are Coming in From the Cold",
+        "The Critically Panned Vigilante Movie That Found an Audience via Elon Musk"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "They've survived drunken riots and Dennis Rodman. But July 4th was too much for Newport Beach",
+        "California soccer fans sue StubHub after it fails to deliver expensive World Cup tickets",
+        "Bonnie Tyler, husky-voiced singer of 'Total Eclipse of the Heart,' dies at 75"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention",
+        "Bonnie Tyler, singer of ballad 'Total Eclipse of the Heart,' has died at 75",
+        "A Florida airport is officially renamed for Trump. What does he stand to gain?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Graham Platner says he'll withdraw from Senate race in Maine",
+        "Trump says ceasefire is 'over' as U.S. launches more strikes on Iran",
+        "Summit revealed NATO 'not in a great state,' but it could be worse, says ex-ambassador"
+      ]
+    }
+  ]
+}
