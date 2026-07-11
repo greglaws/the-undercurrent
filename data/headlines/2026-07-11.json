@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-11",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Marco Rubio is Running Venezuela From Afar",
+        "Bipartisan Housing Bill Becomes Law Even Though Trump Refuses to Sign It",
+        "Times Journalists Subpoenaed as Trump Escalates Pressure on Media"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Here are the races to watch as Democrats grow more bullish on retaking the Senate",
+        "Senate hopefuls try to keep Platner at a distance while embracing his movement",
+        "Conflicting court orders over citizenship data stir more midterm confusion"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Washington’s Bet on Intel Is Starting to Pay Off",
+        "News Quiz for July 11, 2026",
+        "The Mind-Bending Company That Gets a Million Job Applications—and Rejects 99.9%"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Safety concerns over solar panels were raised a year before massive Boyle Heights fire",
+        "The Eastside is fed up. And the politicians aren't listening",
+        "SoFi Stadium proves to be one of the biggest stars of the 2026 World Cup"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+        "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+        "With the white nationalist group Patriot Front, what you see is not what you get"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "The EPA promised a MAHA agenda. It has yet to materialize, frustrating activists",
+        "Apple files lawsuit against OpenAI, accusing ChatGPT maker of stealing trade secrets",
+        "Graham Platner submits notice to formally withdraw from Maine Senate race"
+      ]
+    }
+  ]
+}
