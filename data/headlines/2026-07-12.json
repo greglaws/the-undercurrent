@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-12",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Senator Lindsey Graham, Republican of South Carolina, Dies at 71",
+        "Hard-Liners in Iran Want to Keep Fighting America",
+        "How Putin Turned Japan Into a Den of Spies"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Lindsey Graham, longtime senator from South Carolina, dies at 71",
+        "Survivors of Iranian attack that killed 6 U.S. troops say generals ignored warnings",
+        "U.S launches heaviest strikes in months after Iran declares Strait of Hormuz closed"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "EV Batteries Are Lasting Longer Than Expected. Readers Share Their Experiences.",
+        "A New Foe Has Emerged for Data Centers: Farmers",
+        "U.S. and Iran Launch New Attacks in Fight to Control the Strait of Hormuz"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Informal Bass advisor now working for Lineage, whose cold storage warehouse caught fire",
+        "US Senator Lindsey Graham has died after a brief and unexpected illness, his office says",
+        "LAPD suspends use of Flock surveillance cameras over privacy issues"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Could fish be a secret ingredient for rice farmers to avoid disease and make more money?",
+        "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
+        "Getting campaign text messages ahead of midterms? There could be an AI bot behind it"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Guggenheim Museum among NYC buildings that tested positive for Legionnaires' amid disease outbreak",
+        "Sen. Whitehouse announces whistleblower allegations of construction problems at Kennedy Center",
+        "Judge tosses remnants of Proud Boys seditious conspiracy case after Trump's broad clemency"
+      ]
+    }
+  ]
+}
