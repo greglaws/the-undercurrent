@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-13",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Inside Israel’s Secret Operation to Cultivate Ahmadinejad",
+        "Oil Prices Surge After Iran and U.S. Trade Strikes",
+        "Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Senate again confronts the challenges of an aging membership",
+        "How Lindsey Graham’s relationship with President Trump evolved",
+        "Graham’s death complicates Senate Republicans’ packed agenda"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Frequent Oil Draws From U.S. Strategic Reserve Push Old System to Breaking Point",
+        "The Next Labor Crisis May Be Too Few Workers. Could AI Help Pick Up the Slack?",
+        "Forget France: China Is the New Foie Gras Champion"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "A 'super' El Niño is brewing. Experts fear historic dangers from extreme weather",
+        "While Trump declares that U.S. is enjoying 'best economy ever,' manufacturing jobs have been disappearing",
+        "As L.A. River morphs into impromptu stage for nature-loving musicians, gentrification fears remain"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Pythons' extreme biology may hold clues for treating human disease",
+        "How federal prison guards stop lawsuits before they start",
+        "He was having a mental health crisis. Memphis task force agents came and shot him"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What to know about new rules and technology behind the World Cup's most contentious calls",
+        "Lindsey Graham remembered for a vision of American foreign policy that's fading in Washington",
+        "McConnell says a fall led to his hospitalization, breaking weeks of silence about health condition"
+      ]
+    }
+  ]
+}
