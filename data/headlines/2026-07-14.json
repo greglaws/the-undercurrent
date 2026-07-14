@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-14",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Oil Rises Above $85 a Barrel as Gulf Clash Escalates",
+        "Trump’s Plan to Charge a Toll in the Strait of Hormuz: What to Know",
+        "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump’s attorneys, DOJ leaders misused courts in IRS case, judge says",
+        "Blanche to face GOP critics after judge’s scathing criticism",
+        "Read the judge’s order"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Alvin and the Chipmunks Plan a Reboot for the Digital-First Generation",
+        "Can a Dozen Blue States Block the Paramount-Warner Merger?",
+        "How $9.99 Became the Most Compelling Price in Retail"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Economists, tech leaders warn AI could bring 'large-scale job displacement' and other risks",
+        "Two Lorenzos from Mexico. One fulfilled his American dream. ICE killed the other",
+        "Permanent daylight saving time is on the table. Would California scrap being on standard time?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI",
+        "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+        "Morning news brief"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump says U.S. 'taking over the strait' as conflict with Iran reignites",
+        "Lindsey Graham's career and influence on American politics",
+        "News Wrap: Judge says Trump's lawsuit against IRS filed for 'improper purpose'"
+      ]
+    }
+  ]
+}
