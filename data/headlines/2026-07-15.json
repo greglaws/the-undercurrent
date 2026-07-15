@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-15",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S. War Against Iran Enters a New Phase",
+        "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+        "Trump Flip-Flops on Strait of Hormuz Plan, and U.S. Cyclospora Outbreak Spreads"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Trump administration scales back immigration crackdown after ICE shootings",
+        "Todd Blanche faces Capitol Hill grilling in bid to become attorney general",
+        "President plans prime-time speech on 2020 election allegations"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Warren Buffett and Bill Gates Are Still Giving Away Their Fortunes. Just Not Together.",
+        "The U.S. and Iran Face Dwindling Options to End the War",
+        "They’re Strangers United By One Goal: Drink 1 Million Beers"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Inside the states' case to block the Paramount-Warner Bros. merger",
+        "Why so many Latin Americans are rooting against Argentina in the World Cup",
+        "DMV says suspected cheating is why 11,000 Californians must retake the written test"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "How to keep cool in this year's extreme summer heat even without air conditioning",
+        "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+        "Todd Blanche faces high-stakes confirmation hearing for attorney general"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Google's AI search features pose 'unacceptable risk' to children, new report finds",
+        "WATCH LIVE: Jay Clayton testifies in confirmation hearing for director of national intelligence",
+        "WATCH: House passes bill to make daylight saving time permanent"
+      ]
+    }
+  ]
+}
