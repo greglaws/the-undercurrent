@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-16",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Ukraine’s Minister of Defense, a Proponent of Drone Warfare, Is Forced Out",
+        "Mass Protests Across Ukraine Oppose Ouster of Defense Minister",
+        "What to Know About Mykhailo Fedorov, Ukraine’s Ousted Defense Minister"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "UnitedHealth Results Handily Beat Wall Street Expectations",
+        "The New York Times Files Motion to Quash Trump Administration Subpoenas",
+        "Many Democrats Vote to Strip Israel’s Military Aid"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "These are California's most affordable and least affordable cities. Both lists induce sticker shock",
+        "'I didn’t cheat.' California DMV's test fraud claims spark frustration, anger",
+        "Meta accused of using AI to pick employees with medical conditions for layoffs"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The political risks from war in Iran. And, ICE's use of force is rising, report finds",
+        "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
+        "The use of force has become a 'default tool' for ICE officers, a new report finds"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What Blanche said about Trump, Epstein files during confirmation hearing for attorney general",
+        "Senators question Blanche on Trump loyalty, Jan. 6 cases and Epstein files",
+        "Trump's intelligence nominee refuses to say who won 2020 election"
+      ]
+    }
+  ]
+}
