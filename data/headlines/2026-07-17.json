@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-17",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Andy Burnham, ‘King of the North,’ Conquered U.K. Politics",
+        "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
+        "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Gas Prices Will Stay Higher for Longer, Even if Oil Falls",
+        "China’s Xi Touts Open-Source AI and Takes a Swipe at U.S. Dominance",
+        "Parasitic Outbreak Linked to Taylor Farms Lettuce Supplied to Taco Bell"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "The San Andreas fault has gone ominously silent. Scientists fear when it finally snaps",
+        "Mobile homes, an overlooked refuge of affordability, are disappearing in L.A. Residents fight to stay.",
+        "A new piece of Democrats' midterm strategy: Being 'practical'"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+        "Photos: When the World Cup came to town",
+        "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "AI chatbots at risk of fueling government restrictions on online speech, new study says",
+        "Ava DuVernay announces '14th,' new documentary on birthright amendment contested by Trump",
+        "Texas flash floods leave at least 2 people dead in Hill Country region devastated a year ago"
+      ]
+    }
+  ]
+}
