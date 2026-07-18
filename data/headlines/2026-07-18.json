@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-18",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Israel Counters Iranian Spying by Warning Against Recruitment",
+        "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
+        "Mamdani Says He May Still Order Netanyahu’s Arrest"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for July 18, 2026",
+        "The Fastest-Growing Risk to Air Travel Is Probably in Your Pocket",
+        "Taylor Farms Is Recalling Its Mexican-Grown Iceberg Lettuce From U.S."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
+        "West Hollywood rupture was L.A.’s worst in years: 17 million gallons spilled, Sunset Boulevard closed for days",
+        "Wreckage found after deadly boat capsize near Alcatraz, search continues for missing bodies"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+        "The 2000s called. They want their digital camera back",
+        "D'oh! I can't believe I did that! Graceful ways to handle awkward moments"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump says these documents prove his false claims of election fraud. Here's what they really say",
+        "Trump tries to undermine trust in elections, but documents don't support his claims",
+        "Former intelligence official weighs Trump's election security allegations"
+      ]
+    }
+  ]
+}
