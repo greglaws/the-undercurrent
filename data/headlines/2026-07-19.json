@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-19",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+        "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+        "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Inside America’s Most Generous 401(k) Plans",
+        "Big Food Is Running Out of Moves With Shoppers and Investors",
+        "The Justice Department Is Pulling Back on Prosecuting Corporate Crime"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "'Significant progress' made on ruptured WeHo water main. Sunset Strip remains closed",
+        "U.S. launches new airstrikes to 'swiftly punish' Iran for troops' deaths",
+        "The doctor who helped save her is in another state, and telemedicine follow-up is prohibited"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Violence repeatedly erupts in dementia care despite warnings, inspections show",
+        "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+        "Deadly overnight Russian attack on Ukraine targets the capital"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk",
+        "Darline Graham's career centered disability. Now she could help shape national policy",
+        "Thunderstorms will clear wildfire smoke from Northeast ahead of World Cup final, meteorologists say"
+      ]
+    }
+  ]
+}
