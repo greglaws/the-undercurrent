@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-20",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Tehran and Washington Face a ‘Wake Up Moment’ Over the War",
+        "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
+        "U.S. Service Members Killed as War Expands, and Federal Cases Against Protesters Crumble"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "‘I Never Want It to End’: The Surprise Economic Boost for World Cup Host Cities",
+        "The Massive Supply Deals Feeding the AI Frenzy Are No Sure Thing",
+        "Lockheed Martin Plans Bargain-Rate Patriot Missile to Replenish Low Stockpiles"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Trump, long a critic of 'forever wars,' may be stumbling into one with Iran",
+        "Heat wave to hit SoCal just as waves from Tropical Storm Elida slam beaches",
+        "U.S. airstrikes at sea are killing Mexican citizens"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+        "At least 930 people have died in Congo's Ebola outbreak",
+        "U.S. and Iran launch new strikes after 3 U.S. service members are killed"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "JD and Usha Vance welcome a baby boy, the first child born to a sitting VP in more than 150 years",
+        "PHOTOS: Spain wins the World Cup by beating Argentina 1-0 on Ferran Torres' goal in extra time",
+        "Mount Olympus, home of the ancient Greek gods, vies for World Heritage status"
+      ]
+    }
+  ]
+}
