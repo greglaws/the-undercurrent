@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The U.S. Is Pulling Back on Energy Efficiency",
+        "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave",
+        "White House Says New Air Force One Will Be Out of Service for a Month for ‘Upgrades’"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Before Leading the IRS, Frank Bisignano Spied on His JPMorgan Co-Workers",
+        "Kraft Heinz Strikes Deal With Disney to Supply Resorts and Tap Characters",
+        "Var Energi Agrees $1.3 Billion Deal to Buy BlueNord"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "This SoCal heat wave could be hottest of the year: 5 things to know",
+        "Newsom pushes California to crack down on sex trafficking — fast",
+        "New evidence against singer D4vd in brutal killing of teen set to come to light"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
+        "Trump imposes 50% tariffs on Canadian goods",
+        "The best economic ideas from around the world — Planet Money Summer School is back"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Live Results: Arizona midterm primary elections",
+        "U.S. launches more strikes on Iran after deaths of service members",
+        "Iran war hurting U.S. allies in region, former Jordanian foreign minister says"
+      ]
+    }
+  ]
+}
