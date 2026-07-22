@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-22",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel",
+        "Trump Reaches Contentious New Nuclear Deal, and A.I. Models Go Rogue",
+        "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "See How Tesla’s Market Value Eclipses All the Other Automakers",
+        "Cartier’s Love Bracelet Has the Hype. The Birkin Still Has the Upper Hand.",
+        "How Robinhood’s Revamped Premium Card Compares to Rival Offerings"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "They built AI. Now Silicon Valley workers protest its threat to jobs and humanity",
+        "Discovering Charles Manson was her grandfather plunged her into crisis: 'I come from a murderer'",
+        "Sausalito city manager charged with prowling, theft after arrest on stranger's yacht"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+        "Her son was killed by ICE at a traffic stop. She says she's still waiting for justice",
+        "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Senate panel advances Jay Clayton's nomination for director of national intelligence",
+        "Tropical Storm Bertha forecast to bring heavy rain, flooding along the Gulf Coast",
+        "Federal civil rights agency moves to stop requiring demographic data collection after 60 years"
+      ]
+    }
+  ]
+}
