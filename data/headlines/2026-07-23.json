@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-23",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
+        "U.S. Military Presence in Jordan Makes It Iranian Target",
+        "U.S. Employers Forced to Fire Thousands of Immigrants, and a Showdown over Peptides"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "McCormick to Seek London Listing Following Tie-Up with Unilever Foods",
+        "Nestle Sells Half of Waters Unit to Platinum Equity in $3.4 Billion Joint-Venture Deal",
+        "Two Wars Put Stranglehold on Global Energy Supplies"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Giant rats, bright green flies, putrid smells: Boyle Heights residents describe unbearable conditions",
+        "In L.A., playing ball in the streets is illegal. A city council member wants to change that",
+        "Measles surge dramatically in California among children and young adults"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Why health officials do not have a good handle on the current Ebola outbreak",
+        "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
+        "After deadly shootings, police experts question how well ICE officers are vetted"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Hitler's birthplace in Austria reopens as police station to deter Nazi pilgrimages",
+        "House votes to adopt Department of War renaming as part of annual defense bill",
+        "Trump escalates threats, vows to target Iranian bridges and power plants"
+      ]
+    }
+  ]
+}
