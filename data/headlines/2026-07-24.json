@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+        "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+        "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Lonely Fight to Keep the Cheap Las Vegas Buffet Alive",
+        "Nike’s Sneakerhead Market Share Is Slipping. That’s Good for Its Stock.",
+        "Running, Rock Climbing and Other Sports Are Taking Off in China. Pricey Workout Clothes, Too."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Thousands of complaints, few punished: How LAPD handles claims of racial bias",
+        "Is COVID returning? Summer uptick of virus may have begun in California",
+        "L.A.'s homeless authority is in a fight for its survival"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump threatens Iran escalation as tit-for-tat airstrikes continue",
+        "US allies hit with new tariffs object to Trump's forced labor claims",
+        "What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH LIVE: Day 2 of FDA advisory panel meeting to consider use of peptides",
+        "Author Salman Rushdie testifies at terrorism trial of man convicted of stabbing him",
+        "Laura Loomer meets with Ukraine's Zelenskyy after her major reversal on the war"
+      ]
+    }
+  ]
+}
