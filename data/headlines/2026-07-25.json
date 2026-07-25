@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-25",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Inside the Rushed Effort to Get Trump His New Air Force One",
+        "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
+        "Iran Journey Reveals Society’s Wartime Defiance and Hope"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "America and Iran Are Locked in a Cycle of Escalation",
+        "News Quiz for July 25, 2026",
+        "See the $600 Million World of Executive Perks"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Lineage fined for flies, smell and 'unsanitary' conditions after Boyle Heights warehouse fire",
+        "D4vd's phone shows teen was pregnant and had abortion before killing, detective testifies",
+        "Street homelessness went up in Los Angeles. In Nithya Raman's district, it was nearly cut in half"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump is hellbent on tariffs. Here are 5 implications",
+        "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+        "Trump returns to correspondents' dinner 3 months after shooting"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says",
+        "Burnham caps busy first week as UK's new prime minister at part-time office in Manchester",
+        "U.S. military says it fired on another vessel trying to breach its blockade of Iranian ports"
+      ]
+    }
+  ]
+}
