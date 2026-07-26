@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-26",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
+        "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
+        "U.S.-Iran War Pauses for 2nd Straight Day"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Why Paramount's Warner Bros. deal suddenly looks less certain",
+        "Mural at site of Jewish temple that burned in Eaton fire vandalized with swastikas, antisemitic graffiti",
+        "'It feels like it never ends — the evil': Pasadena demonstrators protest ICE shootings"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Rage-giving, innovation and cuts: How public media has survived without federal funds",
+        "Lebanese displaced by war turn to satellites to check their homes",
+        "ADHD looks different in women and poses unique health risks"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What's the difference between closed, open&#8209;source and open-weight AI? A researcher explains",
+        "Fact-checking Mullin's claim that foreign adversaries can access voting machines in U.S. elections"
+      ]
+    }
+  ]
+}
