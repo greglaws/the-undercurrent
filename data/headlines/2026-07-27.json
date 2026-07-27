@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-27",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict",
+        "In Washington, Netanyahu Faces a Delicate Balancing Act",
+        "U.S. Pauses Iran Strikes Amid Growing Risks, and Measles Cases Hit a New Record"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Chip Maker Soars 466% on Debut to Become No. 1 in China Stock Market",
+        "Big Tech Earnings and Fed Rate Decision Put Stock Rally to the Test",
+        "Paramount Wanted to Close Its Warner Deal Quickly. Now It’s in Limbo."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Unauthorized 'The Odyssey' copy posted online draws swift warning from Universal",
+        "Tarik Skubal blockbuster deal likely isn't part of Dodgers' trade-deadline plans",
+        "‘Everybody wanted to be me’: Inside Eve Babitz’s private letters"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+        "France continues to fight devastating wildfires, while progress is made in Spain",
+        "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Firefighters race to control massive blazes approaching major cities in France and Spain",
+        "Suspect in deadly Berlin Pride attack is killed in confrontation with police",
+        "As Hegseth pursues a 'High-T' military, here's what to know about testosterone replacement"
+      ]
+    }
+  ]
+}
