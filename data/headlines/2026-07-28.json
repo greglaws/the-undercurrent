@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-28",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
+        "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
+        "Iran War Enters 6th Month and a Period of Greater Uncertainty"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Boeing Pours Into Factories to Speed Air Force One, Commercial Jet Production",
+        "Trump Turns Up Heat on RFK Jr. Over Vaccines, Warms to Zelensky",
+        "From Cracker Barrel to Boeing, Companies Are Turning to Retired CEOs"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Dodgers, Lakers owner's financial empire reportedly a target of federal loan fraud investigation",
+        "Immigration agents used racial slurs referring to Latinos in text messages, video obtained by ACLU",
+        "Trump administration targeted California and other blue states for clean energy cuts"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+        "AI tokens could become the kilowatt-hour of the AI age",
+        "Yes, it's possible to save money while paying off credit card debt. Here's how"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "FIFA's Infantino lashes out at critics he says spread 'hate and false rumors' about World Cup",
+        "'Tell us where to look for her.' Savannah Guthrie makes plea to her mother's kidnappers",
+        "3 killed in shooting at crowded festival in Seattle"
+      ]
+    }
+  ]
+}
