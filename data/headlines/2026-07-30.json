@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-30",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S. Strikes Iran Again, as Trump Encounters a More Determined Adversary in Widened War",
+        "U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War",
+        "Families Face Anxiety, Angst as Loved Ones Are Deployed to Fight Iran"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "EU Opens Call for Creation of Local AI Gigafactories",
+        "The Million-Dollar Talent Wars for 20-Something Math Geniuses",
+        "Latest Perk for Videogamers: Chance to Crowdfund a Solar Farm"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Boyle Heights parents want answers about schools reopening in the Lineage stench zone",
+        "He played an iconic cop on TV. Did Robert Blake get away with murder?",
+        "O, Canada! Caught in crossfire, California wineries despair over Trump tariffs"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
+        "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice",
+        "Digital habits that rob attention and energy — and how to combat them"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Artist Betye Saar, whose work reflects Black identity and spirituality, dies at 99",
+        "Uganda declares itself Ebola-free as Congo continues to struggle with the outbreak",
+        "Police say bullets that killed 2 at Seattle festival were not fired from arrested teen's gun"
+      ]
+    }
+  ]
+}
