@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-31",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Defying Trump, Cornyn Uses His Lame-Duck Power",
+        "Critics Say Historic Sites Are Endangered by Trump-Aligned Panel’s Plan",
+        "Kennedy Center Halts Free Public Tours After Five Decades of Service"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Financial Services Roundup: Market Talk",
+        "Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
+        "Big Oil Is Reaping Rewards From the Chaos in Energy Markets"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Searching for an affordable house in SoCal, she fell for a scam sweeping social media",
+        "They hoped to fix their immigration status. They got scammed instead",
+        "The World Cup was an L.A. public transit success. The Olympics will be a much bigger test"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+        "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+        "Democrats show divisions on Israel amid competitive midterm elections"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Attorney for Nolan Wells' family says experts will review a July 4 boat distress call",
+        "In Missouri, Cori Bush and Wesley Bell's primary rematch sets up key test for Democrats",
+        "Copenhagen's famed Noma restaurant prepares to reopen without chef Redzepi at helm"
+      ]
+    }
+  ]
+}
