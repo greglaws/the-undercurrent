@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-01",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
+        "Trump Administration Plans to Upend Head Start by Deregulating It",
+        "Trump Administration Is Undoing Plans to Boost Workplace Heat Protections"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Revolt That Brought Down FIFA’s Grand Plan",
+        "Iran War Pushes Companies to Raise Prices on Beer, Paint, Fries and More",
+        "How OpenAI Lost Its AI Crown—and the Fight to Win It Back"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Exclusive LAX terminal embroiled in messy dispute with security consultant to the stars",
+        "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
+        "LAPD officer who recorded colleagues' racist comments charged with felony eavesdropping"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
+        "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+        "Lebanese who fled the Israeli invasion visit to see what's left"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Huge blankets of seaweed are smothering coastlines from the Caribbean to Mexico",
+        "U.S. will make visa bond program permanent, affecting mostly African countries",
+        "Arizona, California and Nevada would share cuts under federal proposal for Colorado River"
+      ]
+    }
+  ]
+}
