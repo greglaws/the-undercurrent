@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-03",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Blanche Gives G.O.P. Senators Written Assurances on Trump’s I.R.S. Deal",
+        "Inside the Secretive Boards Deciding Trans Troops’ Fate",
+        "U.S. and Japan Coordinated to Help Stabilize the Yen"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Financial Services Roundup: Market Talk",
+        "The Morning Risk Report: Trump Adds to China Forced Labor Blacklist",
+        "Zach Dell Is Raising Money to Put a Battery in Your Backyard"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Struggling to survive, South L.A.'s MLK hospital seeks greater share of county funds",
+        "L.A. fire survivors say Newsom is trying to help utilities reduce their wildfire costs again",
+        "Will California voters 'orphaned' in top-two primary be strategic in November House races?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
+        "What would it take to get peptides on the shelf?",
+        "For those with criminal records, AI is breaking down barriers to employment"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Senate leaders reach funding deal to avoid shutdown during campaign season",
+        "Ken Martin hunkers down at the Democratic National Committee as a storm gathers around party leader",
+        "Trump frequently announces he's halting strikes in Iran. But they keep happening"
+      ]
+    }
+  ]
+}
