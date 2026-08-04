@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-04",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+        "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
+        "Spotlight on Fauci Said to Boost Book Sales for Kennedy and His Publisher"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "McDonald’s Aims to Improve Service and Food, and Chose a New U.S. Boss to Help",
+        "BP’s Oil Profits Surge and Fossil-Fuel Pivot Continues With Plan to Offload U.S. Biogas Unit",
+        "ICE Scours Social Media to Unmask Critics, Raising Free-Speech Concerns"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Desperate for day care: How empty TK-12 classrooms can help fix California’s child-care crisis",
+        "Not married and need car insurance? You can get dinged for that in California",
+        "Trump administration finds a new way to screw Medicare members — hiking their drug bills"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+        "They're a world leader in using drones for healthcare. But drones can't do it all",
+        "Authorities arrest arson suspect in connection with wildfires in Spokane"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
+        "Trump says new talks are Iran's 'last chance' to make deal 'before decapitation'",
+        "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak"
+      ]
+    }
+  ]
+}
