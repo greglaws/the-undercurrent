@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-06",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
+        "Ukraine Is Pleading for Air Defenses. Will the World Listen Anymore?",
+        "A New Plan for Closer U.S.-Israel Military Cooperation, and the First mRNA Flu Vaccine"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Morning Risk Report: U.S. to Halt Key Metal Waste Exports in Push to Break China Reliance",
+        "Financial Services Roundup: Market Talk",
+        "How Novo Nordisk’s CEO Says He Is Shifting the Company’s Perspective"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A. homeless provider has paid CEO who lives in Hawaii $1.6 million in salary, vacation over two years",
+        "Pregnancy, suicide attempts, frostbite: Records detail ICE medical claims before payment system collapsed",
+        "Catalina Island’s only hospital fights for its future amid dire financial outlook"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
+        "Hospital staff said he was faking it and released him. He died from an overdose soon after",
+        "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
+        "What El-Sayed's primary win means for Democrats in November",
+        "Russian missile attacks on Kyiv expose weakness in Ukraine's air defense"
+      ]
+    }
+  ]
+}
