@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-07",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How the Reflecting Pool Came to Mirror Trump’s Washington",
+        "Judge Dismisses Former Olympian’s Felony Charge in Reflecting Pool Case",
+        "Trump Targets Birthright Citizenship Again, and Activists Describe Abuse in Israeli Custody"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Morning Risk Report: Prosecutors Probed Whistleblower Claims That JPMorgan Mishandled Fraud Cases",
+        "Dream Finders to Buy Beazer for $915 Million",
+        "New Intelligence Warns Russia May Provoke NATO Amid Dwindling U.S. Munitions"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A. has more than 20,000 vacant lots. They could help solve the city's housing crisis",
+        "Burbank is more than Bob's Big Boy. How the city found a solution to downtown doom",
+        "Trump is attacking California’s ability to protect its coastline. The consequences are 'chilling'"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+        "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+        "Everyone's talking about hormone therapy for menopause. Should I be on it?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "New Mexico court orders Meta to pay $567 million over mental health harms to kids online",
+        "A look at the major changes Head Start faces under Trump proposal",
+        "News Wrap: Senate committee votes to hold Fauci in contempt of Congress"
+      ]
+    }
+  ]
+}
