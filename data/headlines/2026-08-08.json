@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-08",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
+        "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+        "After a Poisonous Primary, Michigan Democrats Promise to Get Along"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for August 8, 2026",
+        "America’s Electric Honeymoon Is Over. EV Owners Must Work Out Where to Go Next.",
+        "Reservation Apps Have Made Getting Into a Restaurant a Nightmare"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "D.A. faces backlash after charging LAPD officer who recorded colleagues' racist remarks",
+        "Ridge fire prompts evacuation orders near Gorman, closes 5 Freeway for hours",
+        "Bomb threat at Pasadena hospital linked to violent extremist group"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+        "The Women's Professional Baseball League makes its historic debut",
+        "Federal funds can't be used to give test strips to drug users, raising overdose fears"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Advocates for former U.S. Marine held for years in Russia say he is near death",
+        "ICE will only release body camera video when in agency's 'best interests,' policy says",
+        "What the July jobs report reveals about the strength of the economy"
+      ]
+    }
+  ]
+}
