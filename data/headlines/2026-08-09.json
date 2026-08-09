@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-09",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Crypto Took $100 Million From a Businessman With Red Flags",
+        "The Lonely Crew at the Kennedy Center Will Miss Its…Mice",
+        "Senate Bows to Reality, Leaving Trump’s Voting Bill Undone"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "China Inflation Cools More Than Expected in July",
+        "Selling the Dream of SpaceX Was the Easy Part. Now Elon Musk Has to Hang On.",
+        "Reservation Apps Have Made Getting Into a Restaurant a Nightmare"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Spencer Pratt spent big on luxury hotels and security, campaign reports show",
+        "Dorsey High reunion highlights champions of past, players of the present",
+        "Firefighters battling brush fires in Burbank, Santa Clarita"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+        "Solar eclipse to occur next week. Here is what to know",
+        "Tanker sailors still face danger in the Strait of Hormuz"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Wildfires force 20,000 to flee as British Columbia declares state of emergency",
+        "ICE says it expects to equip every field officer with body cameras by the end of August",
+        "How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins"
+      ]
+    }
+  ]
+}
