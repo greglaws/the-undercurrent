@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-10",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Inside the Left’s Playbook for Winning Elections",
+        "How Cameras Can Track Every Car in the U.S., and Iran’s Catch-22",
+        "Southern Iran Bears Brunt of U.S. Bombing"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Financial Services Roundup: Market Talk",
+        "What a Family Business Taught e.l.f. Beauty’s CEO",
+        "The Dating Scene That’s Suddenly Dominated by Chip Nerds"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "El Niño could bring highest sea levels ever recorded to the California coast",
+        "A much-needed cool-down is on the horizon for SoCal this week",
+        "Your guide to the California governor's race: Xavier Becerra vs. Steve Hilton"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+        "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
+        "Voters are sick of the two-party system. A new poll shows they're open to big changes"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
+        "Watchdog for $46 billion tribal gambling industry can't enforce the law without a chairperson",
+        "El-Sayed spoke with Obama as Michigan Democrats look to unite after a bitter Senate primary"
+      ]
+    }
+  ]
+}
