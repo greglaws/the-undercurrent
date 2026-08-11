@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-11",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
+        "How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed",
+        "Officials Reveal a Secret Ruse to Evacuate Trump, and the F.D.A. Takes On a Food Safety Loophole"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "An Oil Refiner That Fled California Is Back—With a Giant Pipeline From Texas",
+        "Financial Services Roundup: Market Talk",
+        "Domino’s Set to Release New Individual-Size Pizza for Diners Who Don’t Want to Share"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "An accounting glitch caused nearly half of L.A.'s increase in the homeless count",
+        "Party buses full of ragers: How an Encino mansion became a hub for community anger",
+        "Race to replace Pelosi enters the AI group chat"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+        "The secret economics inside the new Planet Money board game",
+        "Former Syrian President Assad sentenced to death in absentia"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Taylor Farms recalls several jalape&ntilde;o products over salmonella concerns",
+        "Contiguous U.S. broke its record for hottest month ever in July, NOAA says",
+        "What we know about the death of Tasia Fortune in Mississippi"
+      ]
+    }
+  ]
+}
