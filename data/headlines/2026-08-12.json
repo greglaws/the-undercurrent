@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-12",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Hong’s Defeat in Wisconsin Shows the Limits of the Progressive Movement",
+        "8 Takeaways from Tuesday’s Primaries",
+        "Key Takeaways From This Week’s Primaries, and the Deportees Stuck in ‘No Man’s Land’"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Morning Risk Report: Judge Dismisses Adani Fraud Charges",
+        "Financial Services Roundup: Market Talk",
+        "Energy Startup Raises $750 Million for Rust-Powered Batteries"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "LAUSD’s first day of school: coffee cake, new algebra books, chess and looming layoffs",
+        "435 arrests, $12 million in OT, few lessons learned: LAPD issues report on ICE protests",
+        "Google co-founder Sergey Brin spending more than $100 million fighting California wealth tax"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Andrew Tate's extradition fight tests his influence with Trump's America",
+        "Feel so busy you don't even realize you're busy? Try doing a time audit",
+        "Are hacks of U.S. water facilities a new front in the Iran war?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "How a catering truck helped Trump secretly switch planes amid threat from Iran",
+        "Search for earthquake survivors in Colombia enters critical phase",
+        "News Wrap: Syria sentences Bashar al-Assad to death in absentia"
+      ]
+    }
+  ]
+}
