@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-13",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.",
+        "Hegseth Is Pressed to Clarify Lawyer’s Role in Promotion Decisions",
+        "Trump Administration Lets Parts of the National Firearms Act Lapse"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Do Investors Deserve to Know the Details of a CEO’s Medical Leave?",
+        "North Koreans Use Stolen IDs, AI to Land U.S. Jobs—and Funnel Millions to Kim’s Regime",
+        "Americans Love the Roar of a V-8 Engine—and They Don’t Want to Give It Up"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Becerra holds strong lead over Hilton in race for California governor, new poll shows",
+        "In Paramount merger, law and politics collide",
+        "Body bags, chainsaws, a 'burn cage': D4vd case shows extremes of online shopping"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+        "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+        "These swing voters in Nevada say they are not dismissing socialist candidates"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Minnesota man killed his wife and child at daycare after killing another relative, police say",
+        "Former SPLC official charged in Justice Department's broader criminal case against group",
+        "Defense in Charlie Kirk's killing argue against death penalty, said shooter hit 'intended target'"
+      ]
+    }
+  ]
+}
