@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-16",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
+        "Trump’s Other Hold on the Americas: The Visa",
+        "He Was a MAGA Patriot. ICE Took His Wife Away."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "How These Farmers Became the Face of the Data-Center Resistance",
+        "Big Manufacturers Find New Demand in Equipping AI Data Centers",
+        "From ‘Piece of Junk’ to Prize Showpiece: The Rise of the Everyday Classic Car"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Nithya Raman says she's being punished. L.A.'s City Council president says that's not true",
+        "‘Preventable tragedy’: Ventura County driver sentenced to prison for double-fatal 124-mph crash",
+        "Disneyland is finally remaking Tomorrowland, exec announces at D23"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+        "NPR Senior Podcast Challenge: Official Rules",
+        "Doctors and women who've had it call for more attention on postpartum psychosis"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Cyclospora spreads through human waste &mdash; so how did it get on food?",
+        "Indiana authorities say at least 5 people have died as severe weather crosses the state",
+        "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say"
+      ]
+    }
+  ]
+}
