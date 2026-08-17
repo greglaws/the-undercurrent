@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-17",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "China Wants Its Data to Power the World’s A.I.",
+        "U.S. and Iran Blow Past War Deadline, and the Rise of Islamophobia in Texas",
+        "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War",
+        "How to Lead When You’re the CEO of CEOs",
+        "American Luxury Brands Have a Secret Weapon: $12 Tennis Socks"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Aging Californians aren't leaving their longtime homes. It's worsening the housing crisis",
+        "California backtracks on good-government policies in divided Trump era",
+        "After refinery explosions, California lawmakers move to preserve safety rules"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
+        "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+        "Car problems? No childcare? How an app is helping people get to work"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens",
+        "Trump orders Pentagon to scale back joint exercises with South Korea",
+        "Lake Powell hits record low, threatening key water and electricity supply for millions"
+      ]
+    }
+  ]
+}
