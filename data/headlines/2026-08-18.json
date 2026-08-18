@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-18",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
+        "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
+        "Trump’s $47 Billion-Dollar Border Wall Plan, and Why a Tupac Murder Trial Is Starting After 30 Years"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Crucial Moment That Companies Miss After They Oust a CEO",
+        "Why Do Boards Keep Giving Misbehaving CEOs Second Chances?",
+        "Costco Sells Vacations, Gas and, Soon, Medicare Plans"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "As L.A. burned, online gamblers bet on how much the fires would destroy. 'That was fun'",
+        "Skyscrapers for seniors scheduled to sprout over Warner Center",
+        "As Colorado River reservoirs shrink, Arizona warns of a legal fight"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The grueling fight over who profits from AI music",
+        "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+        "She told no one about her agony except ChatGPT. What her death reveals about AI risks"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Live Results: Wyoming midterm primaries",
+        "Live Results: Alaska midterm primaries",
+        "Live Results: Florida midterm primaries"
+      ]
+    }
+  ]
+}
