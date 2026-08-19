@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-19",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
+        "The Left Notches Another Win With This Secret Weapon: Old-Fashioned Organizing",
+        "Mary Peltola and Dan Sullivan Advance in Key Alaska Senate Contest"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Chinese Humanoid Robot Leader Soars in Market Debut Despite U.S. Ban",
+        "Basic Materials Roundup: Market Talk",
+        "Why Wall Street Thinks the Brutal Bond Rout Is Just Getting Started"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "The fake L.A. mayor poll adds to challenges facing the public opinion industry",
+        "'The young ones are the best ones': Meta on trial for alleged effort to hook kids",
+        "Book bans, LGBTQ+ outing policy under scrutiny in state candidate Sonja Shaw's Chino Valley district"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "How India's blocking of a film exposing real-life police abuses backfired",
+        "Striking hospital employees sound alarm over workplace violence",
+        "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "ABC says FCC waging a retaliatory campaign violating free speech rights",
+        "News Wrap: Meta faces trial over arguments its platforms harm children",
+        "2020 election deniers on the ballot for key offices in battleground states"
+      ]
+    }
+  ]
+}
