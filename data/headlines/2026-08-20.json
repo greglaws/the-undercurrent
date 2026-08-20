@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-20",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+        "$40,047,425,768,420 in U.S. Debt, and an Experimental Vaccine for Skin Cancer",
+        "China Sentences Evergrande Founder to Life in Prison"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Walmart Sales Are Growing, but Stores Aren’t the Engine",
+        "Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
+        "U.S. Debt Soars and Scott Bessent Steps in as America’s Bond Trader in Chief"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "The Dodgers are Mark Walter's crown jewel. Can he hold on to it amid federal probe?",
+        "How L.A. stopped being Hollywood's leading star",
+        "L.A. Mayor Karen Bass lost last night's debate against Nithya Raman. Badly"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "North Korea fires a suspected missile toward the sea, Japan says",
+        "Privacy advocates call on Maryland to investigate data brokers",
+        "Here's how the system to report problems in ICE detention has failed immigrants"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What the Florida and Alaska primary results mean for November",
+        "News Wrap: Trump pauses his 50% tariffs on Canadian imports",
+        "Why states claim Meta designed addictive features for children"
+      ]
+    }
+  ]
+}
