@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran",
+        "Iran Must Plan to Overcome ‘Unjust Sanctions,’ Top Tehran Official Says",
+        "Spike in ‘Dark’ Oil Tankers in Gulf Raises Risk of Catastrophic Spills"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy",
+        "What Back-to-School Says About the Economy",
+        "Politicians Turn Against Data Centers as Anger Over AI Spreads"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "How the killing of Biggie Smalls brought a big break in the Tupac Shakur murder mystery",
+        "Flying for El Chapo's sons: The rise and fall of a mysterious cartel pilot",
+        "Bass hit brakes on new bike lanes near Forest Lawn. Raman is now slamming her for it."
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "What to know about this weekend's IndyCar race on the National Mall",
+        "Federal government thins the herds of wild horses in Colorado",
+        "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "State lawmaker Aisha Wahab wins California special election to replace former Rep. Swalwell",
+        "Karmelo Anthony's lawyer asks for new trial over track meet killing as new details emerge",
+        "Congo to receive 70,000 doses of Ervebo Ebola vaccine, which was effective in past outbreaks"
+      ]
+    }
+  ]
+}
