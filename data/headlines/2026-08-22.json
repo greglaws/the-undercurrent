@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-22",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Canada-U.S. Trade War Escalates as Talks Collapse",
+        "Carney Stands Up to Trump in U.S.-Canada Trade War",
+        "The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for August 22, 2026",
+        "See How China Weathered the Iran Oil Shock",
+        "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Recent college graduate identified as creator of phony L.A. mayor's race poll",
+        "If Dodgers are put up for sale, previous runner-up Patrick Soon-Shiong is interested",
+        "Dodgers president Stan Kasten reiterates 'Dodgers are not being sold'"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S.-Canada trade talks collapse just before deadline for tariffs",
+        "A battle over 'Italian brainrot' could shape who owns AI art",
+        "Supreme Court allows Trump's ballroom construction to continue for now"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
+        "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
+        "News Wrap: Defense rests in murder trial of Lindsay Clancy"
+      ]
+    }
+  ]
+}
