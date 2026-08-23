@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-23",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Data Center Backlash Bursts Into the Midterms",
+        "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+        "The Midterms Feel Like 2006 All Over Again"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Heirs to Jack Daniel’s Are Fighting to Keep Control",
+        "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin",
+        "Paramount Prepares to Begin Early Settlement Talks With California Officials"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Newsom signs bill shielding immigrant aid workers' home addresses",
+        "Governor of Mexico's Sinaloa state, indicted by U.S., steps down from office — again",
+        "Spencer Pratt gives a rave review to Karen Bass"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+        "Trump administration's 75-country visa ban was illegal, judge rules",
+        "Opinion: Mr. Rogers keeps finding a new neighborhood"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What to know about Trump's 50% tariffs on Canadian goods that just went into effect",
+        "Enriched uranium stockpile undercuts Trump claim of Iran's 'essential denuclearization'",
+        "Tropical Storm Moke advances toward Hawaii as winds strengthen"
+      ]
+    }
+  ]
+}
