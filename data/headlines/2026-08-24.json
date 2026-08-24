@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+        "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+        "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "U.S. Says Oil Is Pouring Through Hormuz. Trackers Can’t Find It.",
+        "The Morning Risk Report: The Trump Intervention That Got the DOJ Off Live Nation’s Back",
+        "Nvidia’s Earnings Will Test Wall Street’s Faith in the AI Boom"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Fighters, survivors of deadly Compton gang wars relive the dark past at Tupac Shakur murder trial",
+        "California's coast under siege: A winter of flooding, big waves and erosion in the forecast",
+        "Fed up with high prices, California weighs penalties against hospitals, other entities"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Washington, D.C.'s first IndyCar race packed the National Mall",
+        "'It embarrasses me to be involved': Inside the National Guard D.C. deployment",
+        "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
+        "Human-caused wildfire approaches Reno, Nevada, forcing thousands of evacuations",
+        "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November"
+      ]
+    }
+  ]
+}
