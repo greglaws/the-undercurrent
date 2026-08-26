@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-26",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Bessent Faces Credibility Test in Quest to Tame Markets",
+        "‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates",
+        "Hegseth’s Army Purge, and Polling Chaos in the Midterms"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Morning Risk Report: Bessent’s D-Day Unlikely to Be Game Changer",
+        "The AI Prodigy Who Won Over Silicon Valley—and Lost $45 Billion",
+        "The CEO Who Built a Company on a ‘Technical Impossibility’"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Is this really the worst time to buy a house in California? The answer is complicated",
+        "L.A. renters are billed for shared utilities. Some won't pay until they can see the math behind the charges",
+        "The fall of ‘Wicked’: How an L.A. crime boss went down — and took his gang out with him"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+        "Soaring summer power bills spark protests — and even disconnections",
+        "Hollywood's summer box office is glowing, but the numbers come with startling caveats"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Canada retaliates with tariffs against U.S. as relations deteriorate",
+        "Canadian trade minister says reaching deal with U.S. in best interest for both countries",
+        "News Wrap: 2 unvaccinated people die from measles in Pennsylvania"
+      ]
+    }
+  ]
+}
