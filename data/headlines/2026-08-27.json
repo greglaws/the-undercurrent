@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-27",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "ICE agent Christian Castro Released From Texas Jail After Minnesota Loses Court Fight",
+        "ICE Arrests Soar Across U.S., and Meta Agrees to Make Major Changes to Instagram and Facebook",
+        "Survivors of Deadly Nepal Flood Recall Its Devastating Force"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Drone-Defense Startup Needed Connections, so It Hired Eric Trump",
+        "Would There Be an AI Revolution If There Were No Nvidia?",
+        "The $2 Billion Brawl Over a Ruinous Wood-Pellet Trade"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Orange County is now treating e-bikes like guns. Can the crackdown make streets safer?",
+        "‘Too many cases’: Mexico confronts U.S. over deaths of its citizens in ICE custody",
+        "A shrewd business move or an end to their work? Hollywood voice actors clash over AI clones"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities in Bosnia, has died at 84",
+        "Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule",
+        "Rwandans love their milk bars. The health minister wishes they'd drink a little less"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "ICE officer charged in Minneapolis shooting released in Texas after immediate extradition rejected",
+        "AP report: RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that",
+        "WATCH LIVE: Attorneys make closing arguments in Lindsay Clancy trial"
+      ]
+    }
+  ]
+}
