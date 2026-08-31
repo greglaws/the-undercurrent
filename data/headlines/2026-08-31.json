@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-31",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "‘The Least Transparent Midterm’: How Dark Money Is Washing Over the 2026 Election",
+        "More Mail Ballots Are Arriving Late This Year, and They’re Getting Tossed",
+        "The Navy’s Supply Chain Struggle, and Trump’s Unusual Oil Deal in Venezuela"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "America’s Biggest Companies Ring Up Hefty Sales and Raise Their Outlooks",
+        "Don’t Count Shein Out Just Yet",
+        "Can Apple’s New CEO Rev Up the Steve Jobs Innovation Engine?"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Weird, wet heat is finally set to taper off: Here’s where and when",
+        "California lawmakers vote to change childhood sex abuse law",
+        "One dead, more than a dozen unaccounted for after Grand Canyon flash flood"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Russia's jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
+        "Attacks flare between U.S., Iran after month-long pause",
+        "The U.S. Venezuela oil deal won't lower your gas prices. Here's what you need to know"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Lake Ontario now called Lake America on Google Maps for U.S. users after Trump ordered name change",
+        "U.S. plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+        "Why Republicans are focusing on transgender issues in competitive 2026 campaigns"
+      ]
+    }
+  ]
+}
