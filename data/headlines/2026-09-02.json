@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-02",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
+        "Global Bond Rates Are Rising. What Should You Do Now?",
+        "Employer Health Costs Are Expected to Spike in 2027"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Treasury Yields Hit New Highs as World Leaders Squabble at Fractured G-20",
+        "Soccer Metaphors, Sunday Calls—How Voya’s CEO Guides Her Team",
+        "Your Nonalcoholic Beer May Actually Have Some Alcohol in It"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Two unsolved rap murders haunted police for decades. Why Tupac case closed but not Biggie Smalls'",
+        "Rams owner Stan Kroenke agrees to buy Angels, ending Arte Moreno's troubled tenure",
+        "Convicted MAGA election denier declines job in California amid pressure from Newsom"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
+        "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
+        "He died in a sweltering house. Why doesn't his death record show it?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "China dissents as Bessent says 19 finance ministers agree to address 'cheap exports'",
+        "Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks",
+        "Whistleblower warns USPS rushing new system that could jeopardize mail-in ballots"
+      ]
+    }
+  ]
+}
