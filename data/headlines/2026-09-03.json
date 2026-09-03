@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-03",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
+        "The New Jet-Powered Drones That Are Breeding Anxiety in Ukraine",
+        "U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Longer Middle East Deployments Strain U.S. Forces as Iran Conflict Drags On",
+        "Boeing’s $8.4 Billion Deal Is Bleeding Red Ink",
+        "Why Trump’s Venezuela Oil Grab Is No Quick Fix for Gas Prices"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "NBA drops the hammer on The Cheatin’ Clippers, and they can't shed the stink",
+        "Read the NBA's investigation of the Clippers, Steve Ballmer, Kawhi Leonard",
+        "NBA hammers Clippers, Steve Ballmer and Kawhi Leonard following investigation"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "An epic train chase is turning 100 — and Buster Keaton fans are celebrating",
+        "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+        "He tried to eliminate FEMA. Now he says the Trump administration has changed course"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S. strikes Iran again as Tehran targets American allies in Gulf region",
+        "Prolonged Iran war creating major dent in global economy, Cliff Kupchan says",
+        "News Wrap: Lindsay Clancy jury deadlocked and unable to reach verdict"
+      ]
+    }
+  ]
+}
