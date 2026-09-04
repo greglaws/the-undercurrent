@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-04",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
+        "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
+        "A Surge of Russian Sabotage Attacks in Europe, and Musk’s Political War Chest"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Morning Risk Report: Bernie, AOC and Bannon All Want to Fight Data Centers",
+        "The ‘Revealing’ Lesson Paris Baguette’s CEO Learned Early",
+        "Starbucks Refreshed Its Menu. Chai Fans Are Losing Their Minds."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Bass is asked to testify before Congress about waste and fraud in L.A.'s response to homelessness",
+        "1 dead, 4 injured after driver, 91, crashes car in Trader Joe's parking lot, police say",
+        "What Shohei Ohtani’s latest injury scare reveals about Dodgers' late-season plans"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Germany's far-right poised for power in state election",
+        "Scientists map key protein interactions linked with profound autism",
+        "What app surged in downloads after Trump's 'Lake America' change? The quiz knows"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump again appeals to Supreme Court on mail voting restrictions as midterms loom",
+        "Fed governor Waller muddies outlook on possible rate hike later this month",
+        "Proud of their oil, Venezuelans view major U.S. stake in their reserves as a surrender"
+      ]
+    }
+  ]
+}
