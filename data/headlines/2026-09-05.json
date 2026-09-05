@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-05",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists",
+        "In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members",
+        "What the War in Iran Has Cost One Gold Star Family"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for September 5, 2026",
+        "It’s the Hottest Brand of the Summer—and It’s Popping Up Everywhere",
+        "Former Labor Secretary Oversaw a ‘Toxic, Intimidating’ Workplace, Report Finds"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "A billionaire was accused of stealing Malibu sand. Now he's donating a new beach to the public",
+        "U.S. hits diesel fuel milestone as prices slam California economy from trucks to crops",
+        "L.A. renames Pershing Square after Biddy Mason, founder of L.A.'s First AME Church"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+        "Flock cameras draw opposition from across the political spectrum",
+        "Philippines Vice President Sara Duterte posts bail after arrest"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Federal judge extends block on Trump order seeking to limit mail voting in the midterms",
+        "Technology is reshaping education. But is it helping students learn?",
+        "Why the U.S. job market remains resilient in face of global pressures and inflation"
+      ]
+    }
+  ]
+}
