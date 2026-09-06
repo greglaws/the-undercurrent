@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-06",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Battle to Save General Donahue From Hegseth’s Army Purge",
+        "How a Memphis Gambling Raid Became a Sweeping Immigration Operation",
+        "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine",
+        "Diamond Mines Are Closing and South Africans Have Few Alternatives",
+        "The Next Big Opportunity in Data Centers: Insuring Them"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Hurricane Marie brings dangerous ocean conditions, soggy weather to SoCal",
+        "LAPD busts massive street takeover in South Bay, impounding more than 100 cars",
+        "Bad Bunny wins his first Emmy for Super Bowl halftime show"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "American Muslims are giving Texas barbecue a halal makeover",
+        "U.S. envoys Witkoff and Kushner set for talks in Kyiv after meeting Putin in Moscow",
+        "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Here's a look at 'reach' election races where Democrats hope to pull off House upsets",
+        "Why Mexican cartels are increasingly using car bombs and other explosives",
+        "Flock cameras become midterm campaign target as voters balk at tech companies' power"
+      ]
+    }
+  ]
+}
