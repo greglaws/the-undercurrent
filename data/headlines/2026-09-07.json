@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-07",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "As War Grinds On, Trump Relishes Renovation Projects",
+        "How a Colorado School District Is Fighting Trump’s Anti-Transgender Push",
+        "AfD Victory in Saxony-Anhalt Sends a Signal to Europe"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "There’s a Legal Fight Brewing at Oktoberfest",
+        "Hermès Has Big Watchmaking Ambitions. The Cult of the Birkin Is Getting in the Way.",
+        "OPEC, Allies Agree to Keep Oil Output Steady in October"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Magnitude 3.2 earthquake strikes along prominent SoCal urban fault line",
+        "At least 5 dead, 5 injured after Amazon cargo plane barrels off runway at Miami airport",
+        "Armed man charges toward Democratic candidate for Ohio governor at fair, law enforcement says"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The first day of school: Bells, bikes, buses and big feelings",
+        "'Her body temperature was 106': How heat is killing Americans in their homes",
+        "The copper peptide trend has gone from creams to injections — ahead of the science"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Hawaii residents told to expect tropical storm conditions as Hurricane Lowell passes to the west",
+        "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
+        "Explosion of fireworks in central Mexico kills at least 10, injures 64"
+      ]
+    }
+  ]
+}
