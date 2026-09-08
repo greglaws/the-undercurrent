@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-08",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies",
+        "Near the Border, Americans Fear Losing Ties With Canadians",
+        "Why Stocks Are Defying Gravity and What Could Bring Them Down"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "How Almar Latour Steers Dow Jones Through Disruption",
+        "Amazon Plane Crash Probe Examines Aircraft Speed, Runway Safeguards",
+        "EverBank to Combine With WaFd to Create $75 Billion Bank"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Intense heat, oppressive humidity approach as Tropical Storm Marie's dangerous surf lingers",
+        "Union workers at Labor Day rally sound alarm over automation, job losses, affordability",
+        "Shohei Ohtani returns, Teoscar Hernández stays hot in Dodgers' fifth straight win"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Has the economy gone C-shaped?",
+        "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+        "60 years later, 'Star Trek' continues to 'live long and prosper'"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What went wrong before an Amazon cargo jet barreled off the runway in Miami",
+        "Far-right AfD win signals shift in Germany, raises alarm in Europe",
+        "News Wrap: Tropical Storm Marie brings dangerous surf to California coast"
+      ]
+    }
+  ]
+}
