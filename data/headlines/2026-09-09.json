@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-09",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
+        "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
+        "Europe Unites to Pressure Israel, Breaking With U.S."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "What Qualtrics’ CEO Says Software Companies Must Possess",
+        "Anthropic Researcher Quits Over Industry’s Rush to Build Self-Improving AI",
+        "It’s Getting Harder to Return Things—and It’s Making Shoppers Mad"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A.'s record-level humidity can make you sick. How to survive the misery",
+        "Malibu residents evacuate after massive, expanding sinkhole opens at Nicolas Cage's house",
+        "Family of D4vd’s alleged victim sues singer and calls for the death penalty"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+        "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
+        "COMIC: If we fight, is our love doomed? And other honest questions about conflict"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "U.S. will ban dairy products, motorcycles and most alcoholic beverages from Canada",
+        "What to watch as Republicans gather in Dallas for Trump's unusual midterm convention",
+        "Canadian tariffs on U.S. goods take effect, marking turning point in relations"
+      ]
+    }
+  ]
+}
