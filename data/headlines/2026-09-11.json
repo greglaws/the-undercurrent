@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-11",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "25 Years After 9/11, Trump Personifies a Nation Moving On",
+        "After 9/11, Islamophobia Shaped a Generation of Muslim New Yorkers",
+        "What JD Vance Knew About the War, and New Warnings About A.I."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Special Forces Ethos Driving Goruck’s Co-Founders",
+        "ABC’s Jimmy Kimmel Takes Aim at FCC Over Equal-Time Rules",
+        "Weil Gotshal to Lose Top Dealmaker and Five Other Partners to Cravath"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California coast braces for another battering as new El Niño-related wave emerges in Pacific",
+        "This week’s record-setting humidity and heat almost broke L.A. How much longer will it last?",
+        "Boyle Heights warehouse fire was result of 'shoddy work' by solar panel company, lawsuit claims"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+        "Sorry, we can't pay you $5,000 to do the news quiz. We're public media",
+        "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH LIVE: Trump delivers remarks at Pentagon's Sept. 11 observance ceremony",
+        "Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route",
+        "Zelenskyy visits Canada to seek more military support for Ukraine against Russia"
+      ]
+    }
+  ]
+}
