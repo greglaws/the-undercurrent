@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-12",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Trump Is Wielding Power to Stifle Speech",
+        "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
+        "Visa Issue Threatens U.S.-Brazil Cooperation on Crime"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for September 12, 2026",
+        "The 24 New Rules for Succeeding at Work",
+        "The Woman Fixing a Microsoft Mess With Brutal Honesty"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Federal jury in Los Angeles acquits Grammy-winning rapper Lil Durk in murder-for-hire case",
+        "Architect of billionaire tax tried to 'extort' support for the measure and targeted women, union reports find",
+        "'It's going to be fine': Trump rebuffs rising alarm over AI dangers, sparking outcry"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
+        "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
+        "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Officials in Nashville unite across the aisle over renaming airport after Dolly Parton",
+        "Federal court rejects Trump administration order keeping Michigan coal plant open",
+        "Americans remember the lives lost in the 9/11 attacks 25 years ago"
+      ]
+    }
+  ]
+}
