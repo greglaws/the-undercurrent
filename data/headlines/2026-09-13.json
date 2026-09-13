@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-13",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers",
+        "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+        "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 503"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "NFL’s Sunday Ticket Is Getting Smaller. It Isn’t Getting Cheaper.",
+        "Tesla Is Reclaiming the U.S. EV Market as Legacy Automakers Retreat",
+        "Why Weil Gotshal’s Highest-Paid Partner Jumped to Cravath, Shocking Big Law"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Trespasser stopped on former Vice President Kamala Harris' Malibu property",
+        "UCLA chancellor rebukes law school event with 9/11 'mastermind' attorney; organizers push back",
+        "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun,' authorities say"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Can you imagine a universe without a new 'Star Trek' on the horizon?",
+        "Indonesian passenger ship overturns, sparking search for about 130 missing",
+        "How a young woman became an ISIS bride — and then an informant, helping save others"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Minnesota churches roiled by legal battle over ICE surveillance and right to protest",
+        "Anthropic CEO says AI industry needs to give safety measures time to catch up",
+        "AP analysis: Justice Department went after protesters for felony assault, but juries and judges were unconvinced"
+      ]
+    }
+  ]
+}
