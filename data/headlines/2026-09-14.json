@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-14",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "E.P.A. Will Erase Limits on Climate Pollution From Power Plants",
+        "Global Warming Will Breach the 1.5 Degree Celsius Limit. Now What?",
+        "The Escalating Warnings About A.I., and the Rise of a Deadly New Street Drug"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Airbnb Sets Up $250 Million Fund to Invest in Housing Construction",
+        "Amazon Pauses Operations With 21 Air After Miami Crash",
+        "Trump Pledges to Rescind 10% Tariff on Irish Whiskey"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California lawmakers urge criminal penalties, emergency legislation to rein in unchecked AI",
+        "Steve Ballmer apologizes to fans, says Clippers will comply with NBA sanctions",
+        "Newsom brushes aside escalating federal probe into travel expenses as Trump retribution"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The powerful millionaires hiding in plain sight",
+        "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+        "New Carlo Rovelli book challenges science's understanding of reality and the universe"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+        "Inside a Philadelphia barbershop, Black men debate their political past and future",
+        "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval"
+      ]
+    }
+  ]
+}
