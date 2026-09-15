@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-15",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Effort to Assert Control Over Elections Continues Despite Supreme Court Loss",
+        "With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting",
+        "New Poll Shows Democrats Have Midterms Momentum, and Trump Calls A.I. Fears ‘a Hoax’"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Driscoll’s Gave China Its Blueberries—Then China Swiped the Secret to Growing Them",
+        "Trump Pushes Back on the Need for More AI Regulations",
+        "Oil Executives Say the Great Fuel Crisis Is Here"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Newsom says he won't run for president if Harris does",
+        "2 homes destroyed, another damaged in Palos fire in La Habra Heights",
+        "'Pretty epic' Kelvin wave is latest threat to SoCal coastal cities. When will it get here?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Air pollution spiked after the Trump administration stopped embassy monitoring",
+        "NATO jets down drone in Lithuanian airspace",
+        "Get ready for yet another cost when buying a home: Junk fees"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+        "Mahmoud Khalil lawsuit says Columbia University failed to protect pro-Palestinian activists",
+        "Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology"
+      ]
+    }
+  ]
+}
