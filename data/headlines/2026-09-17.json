@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-17",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Who Will Win the Midterms? Republicans Are Reeling.",
+        "Democrats Hope Voting Rights Decision Will Drive Black Turnout in South",
+        "Jewish Leaders in Michigan Urge Support for El-Sayed’s Senate Bid"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The SpaceX IPO Gave This Couple License to Chase Their Dreams",
+        "The 40-Minute Phone Call That Left Ed Sheeran’s Tour Hanging by a Thread",
+        "OpenAI Shares More Safety Incidents and Adopts New Rules for Reporting Them"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Dramatic recording could help answer why NBC4 helicopter crashed",
+        "News helicopters are very L.A. It's a dangerous job",
+        "In reversal, California regulator says unmarried drivers should not pay more for auto insurance"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+        "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+        "Why reshaping memories may hold the key to raising self-esteem"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "EU chief Ursula von der Leyen proposes Canada becoming the bloc's 1st associate member",
+        "Speaker Johnson recesses House early, blocking Massie's push to impeach Hegseth",
+        "Interest rate hike a 'reassuring' sign Fed is acting independently, economist says"
+      ]
+    }
+  ]
+}
