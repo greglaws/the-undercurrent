@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-18",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Wants Putin to End the War. He May Offer Russia Business Deals First.",
+        "Why Autocrats Care What People Think",
+        "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
+        "Toxic-Fume Complaints Ground Planes From Airbus Venture",
+        "Jana Partners Pushes Contact-Lens Maker Cooper to Replace Its CEO"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "SoCal family of 3 found dead in their home. Family looks for answers",
+        "Woman was high when she plowed her SUV into a Metro bus, killing 2, prosecutors say",
+        "NBC4 chopper's final moments: A blaring alarm, loss of altitude and panic. Why did it crash?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Warren Buffett steps down as Berkshire Hathaway chairman",
+        "South Africa 'feels like a prison' for women amid spate of femicides",
+        "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "WATCH: RFK Jr. speaks at conference for anti-vaccine group he founded",
+        "Work has stopped on system that was key to Trump effort to limit mail voting, USPS chief says",
+        "Man who sprayed Rep. Ilhan Omar with vinegar sentenced to 14 months in prison"
+      ]
+    }
+  ]
+}
