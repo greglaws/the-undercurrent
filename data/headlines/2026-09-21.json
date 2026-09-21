@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Help",
+        "Trump’s New Middle East Dilemma, and How DraftKings Uses A.I. to Target Gamblers",
+        "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "CNN Removed From White House TV Press Pool After Trump Ban",
+        "The Morning Risk Report: Polymarket’s Rush to Grow Left a Door Wide Open for Fraudsters",
+        "Apartment Landlords Have a $2 Trillion Debt Problem That Is Only Getting Worse"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A. County inmate killed in coordinated attack at Pelican Bay State Prison, officials say",
+        "Opposition grows to Paramount-Warner Bros. merger settlement as deal enters critical week",
+        "Inside Lucas Museum's star-studded gala with Oprah, Kim Kardashian, Gavin Newsom and Mark Hamill"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
+        "The data center backlash is reshaping American politics — one community at a time",
+        "German chancellor stands his ground after his party loses in state elections"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "ICE agent shoots and wounds man in Austin, Texas, officials say",
+        "Carney and Macron deepen ties as Canada turns toward Europe and away from U.S. dependence",
+        "Converse apologizes and pulls sneaker ad that critics said included racist imagery"
+      ]
+    }
+  ]
+}
