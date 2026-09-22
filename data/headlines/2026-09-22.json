@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-22",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+        "China’s Continued Control of Rare Earths Looms Over Trump-Xi Meeting",
+        "Japan Meets With Trump, Hoping to Get His Help on China"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "SpaceX’s Falcon 9 Phaseout Spurs Hunt for New Ways to Launch Payloads",
+        "‘There Are No VPs, SVPs’—Why Hut 8 Eliminated Most Traditional Job Titles",
+        "A Rocket Supply Crunch Is Making It Harder to Hitch a Ride to Space"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Tropical Storm Polo is strengthening. Could it mean more rain for California?",
+        "California declares statewide emergency ahead of projected epic El Niño storms",
+        "A 'fight worth fighting': Paramount settlement is less than desired, more than nothing"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
+        "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+        "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Press pool declines to cover Trump in protest of his ban on news outlets",
+        "Trump's attacks on free press echo rhetoric used by autocrats, Jodie Ginsberg says",
+        "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure"
+      ]
+    }
+  ]
+}
