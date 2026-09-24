@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
+        "Judge Blocks Trump’s Ban on Reporters, and How A.I. Is Driving Up Health Care Costs",
+        "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Is 3-D Printing the Answer to AI’s Gas Turbine Crunch?",
+        "Flow of Chinese Components to Iran Shadows Trump’s Summit With Xi",
+        "A Kill Switch for AI? Microsoft’s Brad Smith Says Yes"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Wildfire and water research grants saved as Trump EPA permanently restores $19 million to UC",
+        "L.A. approves $466 million in affordable housing spending, the largest pool ever",
+        "'Like a horror movie.' Man following UC Berkeley student scales apartment complex gate"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Needy couples got cash and a spending plan. Results were good -- and bad",
+        "Under Trump, NIH funding disruptions have evolved. Here's what the numbers show",
+        "The Education Dept. hasn't been dismantled. It's become more inefficient, staff say"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "At UN General Assembly, Iran's president responds to Trump's 'annihilation' threat",
+        "Xi arrives for state visit amid U.S.-China trade tensions and AI concerns",
+        "News Wrap: FBI investigating hacking group's claim it breached jobs website"
+      ]
+    }
+  ]
+}
