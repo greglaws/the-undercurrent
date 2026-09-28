@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-28",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump Sparked a Gold Rush, and Venezuelan Gangs Take a Cut of Profit",
+        "What We Saw in One Venezuelan Gold Town",
+        "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Make Chaos Work for You",
+        "A Supermarket Opened a Pub to Get Around Liquor Laws. Now It Needs Bouncers.",
+        "U.S. Pressure Is Awakening an Energy Giant in Canada"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Over-tested and held back: California eases rules for students learning English",
+        "New California safety laws tighten commercial rules after Lineage fire in Boyle Heights",
+        "Schools get easier access to arts funds, but LAUSD faces suit over alleged misspending"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "British police investigate if arrests near U.S. air base foiled an Iran-linked attack",
+        "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound",
+        "How to limit the rat numbers? Train the humans"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Civil rights enforcement cuts mean fewer staff, closed offices, longer waits for students with disabilities",
+        "2 giant pandas arrive in Atlanta under a U.S.-China government agreement",
+        "British PM Andy Burnham brings good vibes to his party's annual conference, but tough choices are coming"
+      ]
+    }
+  ]
+}
