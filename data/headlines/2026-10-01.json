@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-01",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How a Cornell Student Went From Shame to Seeking Justice",
+        "The Cornell Rape Investigation: Five Takeaways",
+        "Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Energy & Utilities Roundup: Market Talk",
+        "Why Domino’s New CEO Says an Insider Is a Better Innovator",
+        "Apple’s Biggest Battleground for Foldable Phones Is China"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Chilling abuse allegations, family meltdown preceded killing of New York Times director",
+        "Newsom signs landmark bill aimed at giving lifeline to struggling California newsrooms",
+        "Want solar but don't own a roof? California just legalized plug-in panels, no permission required"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+        "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
+        "Trump administration reverses stance on integration of people with disabilities"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Woman accused of firing at Rihanna's home indicted on attempted murder with assault weapon",
+        "Federal oversight of Oakland Police Department ends after 23 years",
+        "Passengers describe stopping pilot's alleged attempt to crash Israel-bound flight"
+      ]
+    }
+  ]
+}
