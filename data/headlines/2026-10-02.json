@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-02",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Hochul Names Letitia James as Special Prosecutor in Cornell Case",
+        "Why Prosecutors May Face Legal Hurdles in the Cornell Investigation",
+        "Cornell Students Call for Change at Fiery Public Meeting"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Inside Nuveen CEO’s ‘Evolutionary’ Merger Playbook",
+        "Special Payouts for Executives Are Becoming a More Routine Perk",
+        "Amazon’s New Push to Get Buy-In for Data Center Build-Out"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "‘We are the team to beat.' How the Dodgers are preparing for showdown with Braves",
+        "Body of missing woman recovered after Catalina medical helicopter crash",
+        "Mystery surrounds case of 2 men who disappeared, then were found in shallow desert graves"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "San Francisco's car crime has plunged. How much credit does Flock deserve?",
+        "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
+        "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "A fact-checked guide to Trump's talking points and falsehoods at midterm rallies",
+        "Judge denies motion asking for Lindsay Clancy to be found not guilty due to lack of evidence",
+        "What we know about Tennessee's botched execution of Christa Pike"
+      ]
+    }
+  ]
+}
