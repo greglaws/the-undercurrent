@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-03",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+        "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways",
+        "Senate Races in Republican States Tilt Toward Democrats, Polls Find"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Xi’s Rest Breaks Cut Into His Summit With Trump",
+        "The Carmaker Vying With Tesla to Conquer the Robot Future",
+        "Luxury Stocks Are Selling at Fast-Fashion Prices"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Metrolink riders brace yourselves: Fares will rise by up to 27% starting Monday",
+        "Botched Altadena evacuations, dysfunction in Pacific Palisades: Long-awaited fire investigation identifies missteps",
+        "Dangerous heat wave reaches Los Angeles. Here's how long it will last"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
+        "Just short of its 200th birthday, a landmark natural history museum shuts down",
+        "The Supreme Court faces another term jam-packed with controversy"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "FBI gives employees a classified 'Patel Report' about times the agency 'fell short'",
+        "Could the International Space Station win a Nobel Peace Prize? Here's what to know",
+        "Judge halts border wall construction in Texas' Big Bend region for now"
+      ]
+    }
+  ]
+}
