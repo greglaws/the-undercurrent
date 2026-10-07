@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-07",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
+        "A Wall Street Record, and Why India Cut 130 Million Names From Its Voter Roll",
+        "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Health Care Roundup: Market Talk",
+        "Pressure Mounts at Bessent’s Treasury Amid Staff Turnover and Unmet Goals",
+        "A High-Stakes Gambit Clinched Paramount’s Warner Deal"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "'He shows up when you need him.' Kiké Hernández helps lift Dodgers to 2-1 NLDS lead",
+        "Rejuvenated Dodgers beat Braves, ignore awful tomahawk chop in series that feels over",
+        "Hilton warm on tax cuts, tepid on Trump, cold on offshore wind during gubernatorial town hall"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+        "Who will win the 2026 Nobel Prize in economics?",
+        "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Man living in Congo who went back to Kenya is country's 1st confirmed Ebola case and death",
+        "ABC and Trump's FCC battle in federal court over free speech and jurisdiction issues",
+        "WATCH LIVE: Winner of the 2026 Nobel Prize in chemistry is &hellip;"
+      ]
+    }
+  ]
+}
