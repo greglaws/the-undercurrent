@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-09",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Trump’s Revenge Campaign Descended Into Turmoil",
+        "The 2026 Nobel Peace Prize Winner, and the Pentagon’s Plan to Livestream an Execution",
+        "Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Delta’s CEO on Skipping Starlink, Premium-Travel Rush and High Fuel Prices",
+        "Walmart Wants Robots to Run Its Warehouses. Reality Keeps Getting in the Way.",
+        "The AI Change That Let Pfizer’s Albert Bourla Sleep Better"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "World's largest wildlife crossing is on track to open this winter — unless El Niño intervenes",
+        "California state workers were teleworking from Idaho, Tennessee and Alabama, audit finds",
+        "'No longer open for business': Law enforcement crackdown targets Skid Row drug suspects"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Why American investors love European defense startups",
+        "In Central African Republic, deported immigrants find themselves in limbo",
+        "Republican congressman tries to outrun a potential blue wave in New York toss-up seat"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Christa Pike's attorneys say she is walking with help and eating after failed execution attempt",
+        "Federal agents involved in shooting that wounded person in New York, police say",
+        "Long-deployed USS Abraham Lincoln returns home to San Diego Bay"
+      ]
+    }
+  ]
+}
