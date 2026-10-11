@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-11",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Threats of Political Violence Have America’s Elected Officials Living in Fear",
+        "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
+        "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
+        "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
+        "America’s Gig Workers Turn to an Old-School Union"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "With Senate majority up for grabs, candidates fight for 'kingmaker' voters",
+        "Mexican cartels are building luxury fleets by stealing U.S. rental cars",
+        "How the GOP weaponized trans issues and left Democrats searching for a strategy"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Sweating the details: Sauna's potential health benefits draw scientists' interest",
+        "In one of the country's most competitive districts, a Democrat tries to keep her seat",
+        "Reshaped civil rights mission at Justice Department transforms its work, workforce"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": []
+    }
+  ]
+}
