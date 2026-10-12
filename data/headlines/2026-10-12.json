@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-12",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Inside Elon Musk’s $276 Million Midterm Rescue Mission for Republicans",
+        "Who’s Winning the Race for Congress?",
+        "Democrats Tie Corruption to High Costs in Final Midterms Push"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 400"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion",
+        "Basic Materials Roundup: Market Talk",
+        "Nascar’s New CEO Aims to Take ‘Big Swings’"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Judge orders Trump to cancel taxpayer-funded promotional TV ads",
+        "Brewers get just enough off Tarik Skubal, draw first blood in NLCS Game 1 win",
+        "2 children fatally shot reportedly in broad daylight in attempted murder-suicide in Pico-Union"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S. restrictions on Chinese drones are leaving police departments in the lurch",
+        "Here's what to know if you're unsure about your measles immunity status",
+        "Morning news brief"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Hurricane Simon hits Mexico's Pacific coast with damaging winds and rain",
+        "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes",
+        "Trump claims Russia and Ukraine agree to 'energy ceasefire' despite continued attacks"
+      ]
+    }
+  ]
+}
