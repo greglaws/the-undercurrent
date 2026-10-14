@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
+        "Becerra Is a Quiet Trailblazer for Latinos in California",
+        "The Downfall of Trump’s Ambassador to Greece, and the Pope’s Cancer Diagnosis"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Mark Zuckerberg Versus the Pint of Guinness",
+        "Health Care Roundup: Market Talk",
+        "Basic Materials Roundup: Market Talk"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "First Santa Ana winds of the season bring fire danger to L.A. Thursday and Friday",
+        "Burbank airport's new $1.3-billion terminal opens — bigger and sleeker than ever",
+        "Gang leader betrayed by his own memoir gets life term for Tupac Shakur's murder"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "These workers help train robots who could one day steal their jobs",
+        "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+        "Civil rights advocates plan to send thousands of observers to midterm polling places"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Does a Russian lab worker's death carry pandemic risk? Experts say it's unlikely, with one caveat",
+        "White House press secretary's debut brings news of Guilfoyle's exit",
+        "Saudi conflict with Houthis escalates with new strikes"
+      ]
+    }
+  ]
+}
