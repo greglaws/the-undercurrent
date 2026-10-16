@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-16",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Avalanche of G.O.P. Cash Keeps the Party Competitive Despite Its Problems",
+        "Elon Musk Spends Heavily to Back Ken Paxton’s Senate Bid in Texas",
+        "Paxton Partied in Dubai With Fugitives Charged With Fraud, Lawsuit Says"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Tesla’s New Roadster Takes Flight After Nearly a Decade of Delays",
+        "How Lumen’s CEO and CFO Struck a Siblinglike Partnership",
+        "AI Agents Bring New Headaches to Online Sellers"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "The Dodgers had everything needed to three-peat. This is why they failed",
+        "3 children and a teacher killed in Oregon elementary school shooting, police say",
+        "Justice Dept. sues California, seeks to stop state from counting 20,000 ballots"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "What this bankruptcy says about AI startups",
+        "Remembering Oscar-winning actor Eva Marie Saint",
+        "Why some Gen Z voters who backed Trump now regret their decision"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Infantino apologizes to FIFA Council for World Cup furor but leaves critics unhappy",
+        "Prince Harry and Meghan make first joint appearances since returning to UK",
+        "Drone strike on ship in Romanian waters raises fear that war in Ukraine is spreading"
+      ]
+    }
+  ]
+}
