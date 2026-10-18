@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-18",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "France in Shock After Protests Devolve Into Riots",
+        "Why Are There Protests in France?",
+        "3 Charts That Explain the Economy as Voters Head to the Polls"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Brace Yourself for the Priciest Holiday Travel Season in Years",
+        "SoftBank in Early Talks to Buy Allied Universal",
+        "Nearly All Volume on FIFA-Linked Prediction Market Is Circular Trading"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Fire evacuation orders lifted for most of L.A., Orange counties",
+        "'No Kings' protests mobilize across California as activists push for early voter turnout",
+        "Ty Dieffenbach shines in his first UCLA start as Bruins defeat Wisconsin, improve to 6-0"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+        "Major fire breaks out in Alberta after deadly incident at military base",
+        "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "The Republican governor candidates walking back some of their abortion stances",
+        "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+        "Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting"
+      ]
+    }
+  ]
+}
