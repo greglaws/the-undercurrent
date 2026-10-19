@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-19",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
+        "Why Are There Protests in France?",
+        "Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Musk Vows to Give Each U.S. Child a SpaceX Share",
+        "How Patriotism Shapes Jamie Dimon’s Leadership",
+        "The Internet Told Them Owning a Laundromat Was Easy Money. It Was Anything But."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Scores of women, teen workers were groped, grabbed at this restaurant chain, feds say",
+        "Serial rapist and cosmetics heir is free. San Gabriel Valley community is outraged, mayor says",
+        "LAPD responds to two stabbings, unruly crowd near Crenshaw street festival"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "The real reason it's going to take a while to know who won in some midterm races",
+        "A Kelvin wave raised sea levels on the West Coast. More are coming",
+        "Morning news brief"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Criminal networks threaten the Amazon. Indigenous leaders want the UN to act",
+        "Latino voters helped put Trump back in the White House. What's their next move?",
+        "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance"
+      ]
+    }
+  ]
+}
