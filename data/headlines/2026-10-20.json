@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-20",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+        "The Fight to Tax Billionaires, and Why NDAs Are Everywhere Now",
+        "France Protests Show Europe’s Shift Away From Centrist Politics"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Basic Materials Roundup: Market Talk",
+        "Financial Services Roundup: Market Talk",
+        "General Motors Plans $20 Billion in Buybacks to Shore Up Share Price"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "'Help me!' Videos of ICE violently detaining man who says he's U.S. citizen spark outrage",
+        "Feds arrest alleged noncitizen voters in California amid broader election fight with state",
+        "California residents accused by feds of voter fraud react with shock, confusion and anger"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "What if an AI bubble bursts — and that accelerates AI job losses?",
+        "Why are some food prices up and others down? Here are the stories of 5 items",
+        "TikTok staff raised child safety alarms. Court records show executives failed to act"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump escalates clash with Zelenskyy as Russia continues deadly attacks on Ukraine",
+        "U.S. must put pressure on Russia so Putin ends the war, Ukrainian official says",
+        "French authorities impose curfews after weekend rioting"
+      ]
+    }
+  ]
+}
