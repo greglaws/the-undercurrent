@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+        "America’s Utility Bill Crisis, and Trump’s Approval Rating Hits a New Low",
+        "Russia Releases American Stephen Hubbard From Prison, State Media Reports"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "How The RealReal’s CEO Learned to Orchestrate",
+        "Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv",
+        "How Toyota’s Top-Selling SUV Suddenly Became So Hard to Find"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Thousands of California voters got duplicate vote-by-mail ballots. Here's what happened",
+        "Feds tease new 'batch' of noncitizen California voters as L.A. slams previous list",
+        "Rick Caruso has 'extreme concern' over Raman, but declines to endorse in mayor's race"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+        "2025 policing trend: Fewer serious crimes, more minor arrests",
+        "Expecting a baby? 5 tips to help you prepare for pregnancy costs"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Florida puts 77-year-old man to death, carrying out its 18th execution of the year",
+        "Nigeria confirms Ebola case in its capital as woman who arrived from Uganda tests positive",
+        "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting"
+      ]
+    }
+  ]
+}
