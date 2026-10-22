@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-22",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+        "New U.S.-Israeli Plans to Attack Iran, and Trump’s Whistle-Blower Rewards Program",
+        "James Talarico’s Texas House Record: Partisan Fights, Bipartisan Laws"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The CEO Who Turns ‘Touchy-Feely’ Leadership Into Profits",
+        "Musk’s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
+        "Bosses Want the Secrets of the Family Firm That Has Never Had a Layoff in 75 Years"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Thousands of state workers walk off the job, pressing Newsom on raises and flexibility to work from home",
+        "Mexican Mafia member found dead in California state prison cell",
+        "Neighbor who allegedly fed a coyote involved in attack on toddler could be charged"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+        "Farm country has beef with Trump as midterms approach",
+        "Trump merchandise stores are closing: 'He has peaked'"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "American imprisoned by Russia released as Witkoff meets and praises Putin",
+        "How Elon Musk gained so much power over U.S. security interests",
+        "A company says its polls were fake. Here's what happened"
+      ]
+    }
+  ]
+}
