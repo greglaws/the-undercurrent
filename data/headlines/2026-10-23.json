@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-23",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
+        "The Michigan Senate Race Keeps Getting Nastier",
+        "Most Voters Believe the Midterm Elections Will Be Accurate, Poll Finds"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Morning Risk Report: The Signal Chats That Cost OpenAI Researchers Their Jobs",
+        "Basic Materials Roundup: Market Talk",
+        "The Best Boards (and the Factors That Make Them)"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Teenage girl killed at Arcadia home; suspected shooter attempts suicide in Pasadena, police say",
+        "Feds, Bonta clash over credit for cases alleging billions of dollars in healthcare fraud",
+        "Violent winds hit San Clemente just days after destructive wildfire, powerful waves"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+        "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+        "What if you gave yourself a day to cancel all the plans you dread?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "RFK Jr. adviser Calley Means resigns amid growing MAHA discontent over lack of progress",
+        "IV team warned Christa Pike's vein might have 'blown' during failed execution, court filing says",
+        "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search"
+      ]
+    }
+  ]
+}
