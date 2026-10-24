@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Trump Gave the Worst Polluters a Free Pass",
+        "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+        "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Six Flags to Add Seat Belts to Rides Following Death",
+        "News Quiz for October 24, 2026",
+        "Billionaires Stave off the Pitchforks With Payouts to One Kid at a Time"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "These are the 101 best restaurants in Los Angeles",
+        "Our 5 favorite places to drink in L.A. right now",
+        "'This is not normal': Feds demand California counties set aside ‘likely’ noncitizen ballots"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Is your Medicare Advantage plan ending next year? Here's what to know",
+        "U.S. birth rate drops to record low, but older women are having more babies",
+        "This decade has been missing its big-impact midterm"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Rollins says USDA is 'full-bore ahead' on Forest Service reorganization",
+        "Signs of fraying loyalty emerge in Netanyahu stronghold before Israeli election",
+        "Treasury proposes rule to curb high-tech investments in China and other adversaries"
+      ]
+    }
+  ]
+}
