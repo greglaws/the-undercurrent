@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-26",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America’s Right",
+        "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
+        "Brazil’s Election Defies a Right-Wing Trend, and Trump’s Midterm Attacks Enter a New Phase"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "South Korea Holds a Key to America’s Shipbuilding Revival",
+        "Why So Many Shoppers Think Retailers Are Using AI to Jack Up Prices",
+        "U.S. Manufacturing Is Adding Jobs Again, but the Hiring Rules Have Changed"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "9th Circuit panel questions basis for feds' request to block 20,000 California ballots",
+        "Man is found dead near entrance to Disneyland, police say",
+        "SoCal coast braces for high tides. Here’s where the biggest impacts will be"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+        "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+        "How AI is transforming hurricane forecasts"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump escalates rhetoric against El-Sayed as he tries to undermine Democrat in Michigan Senate race",
+        "Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+        "Home sellers are lowering their prices and helping buyers to make a deal in a stagnant market"
+      ]
+    }
+  ]
+}
