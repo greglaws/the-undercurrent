@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-28",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "For Israel’s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
+        "Israel’s Election: When Will We Know the Next Prime Minister?",
+        "For Israel’s Arab Minority, a Historic Show of Strength"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "What a Law Firm’s Chair Learned About Leadership in the Desert",
+        "Elizabeth Warren Demands Answers From Anthropic on ‘Existential’ Risks",
+        "China’s Car Industry Is Wowing the World—but Crashing at Home"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "El Niño flooding grips Newport Beach in a vise. 'Mother Nature comes to collect some tax'",
+        "Judge finds L.A.’s top federal prosecutor is unlawfully serving, bars him from two cases",
+        "Judge in L.A. weighs feds' request to block 20,000 California votes with skepticism"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "At least 10 dead in crash between 2 trains in Spain",
+        "How a lifelong Republican came to lead the data center battle in Ohio",
+        "Why many student voters have a right to choose where to register to vote"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Projections show no clear winner in Israel's election",
+        "Democrats put economy and affordability at center of final campaign push",
+        "Poll gauges voter enthusiasm for both parties a week before election"
+      ]
+    }
+  ]
+}
