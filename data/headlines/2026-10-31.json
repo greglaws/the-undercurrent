@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-31",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Trump Is Dismantling America’s Scientific Research Machine",
+        "Trump and GOP Close Midterms With Ugly Personal Attacks",
+        "Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "News Quiz for October 31, 2026",
+        "‘We Need to Win.’ Inside the Five-Year Quest to Reinvent the Goldfish.",
+        "What Does the Weil Gotshal Implosion Mean for the Law-Firm Industry?"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Video shows ICE agent pointing handgun in face of North Hollywood bystander",
+        "High tides damage 114 structures in Huntington Beach. City warns of more flooding to come",
+        "A new rainstorm moves in Friday. What does it means for L.A. Halloween?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Do you have seasonal affective disorder? How to tell — and what to do about it",
+        "After last year's storm, this remote Alaska town is still picking up the pieces",
+        "Can I trust the polls? And other questions from listeners about the 2026 midterms"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
+        "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV, social media",
+        "Candidates make final midterm stops as early voting surges"
+      ]
+    }
+  ]
+}
