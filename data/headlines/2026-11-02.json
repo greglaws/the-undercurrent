@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-02",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+        "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+        "The Final Polls Show a Blue Surge. Can We Trust Them?"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 502"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Netflix Needs You to Watch, Not Just Pay",
+        "Could Orbital Data Centers Ruin the Night Sky?",
+        "Companies Have a Solution for the Skilled Trade Shortage: More Women"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "From an LGBTQ+ rally to Trunk or Treat, Becerra and Hilton barnstorm California hoping to be next governor",
+        "Mayoral candidates Bass and Raman crisscross L.A. on final weekend before the election",
+        "Rams overcome nightmarish start to beat 0-7 Chargers for their second straight win"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "What Vance's midterm push reveals about his potential 2028 bid",
+        "6 things to watch for on election night",
+        "When it comes to election pressure, this year's Georgia or Michigan could be anywhere"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
+        "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+        "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says"
+      ]
+    }
+  ]
+}
