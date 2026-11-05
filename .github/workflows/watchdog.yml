@@ -1,0 +1,25 @@
+name: Generation Watchdog
+
+on:
+  schedule:
+    # Two hours after Daily Generation, to catch runs that never started or never finished
+    - cron: '0 13 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check for today's artwork
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/report-health.js --watchdog

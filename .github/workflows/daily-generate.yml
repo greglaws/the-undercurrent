@@ -5,9 +5,15 @@ on:
     # Run at 6:00 AM EST (11:00 UTC) every day
     - cron: '0 11 * * *'
   workflow_dispatch: # Allow manual trigger
+    inputs:
+      test_alert:
+        description: 'Send a test alert to confirm notifications work'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   generate:
@@ -27,6 +33,7 @@ jobs:
         run: npm ci
 
       - name: Run daily generation
+        timeout-minutes: 15
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/daily-update.js
@@ -43,3 +50,10 @@ jobs:
             git commit -m "No. $(jq '.[0].number' data/gallery.json) — ${DATE}"
             git push
           fi
+
+      - name: Report health
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TEST_ALERT: ${{ inputs.test_alert }}
+        run: node scripts/report-health.js "${{ job.status }}"

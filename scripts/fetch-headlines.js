@@ -7,7 +7,14 @@ const parser = new RSSParser();
 // RSS feeds for the six papers (all independently owned)
 const FEEDS = [
   { name: 'The New York Times',      url: 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml' },
-  { name: 'The Washington Post',     url: 'https://feeds.washingtonpost.com/rss/homepage' },
+  // WaPo's own feeds return errors, so read its stories through Google News. Unlike a
+  // homepage feed this includes opinion pieces and appends the outlet to each title.
+  {
+    name: 'The Washington Post',
+    url: 'https://news.google.com/rss/search?q=site:washingtonpost.com+when:1d&hl=en-US&gl=US&ceid=US:en',
+    exclude: /^(Opinion|Analysis|Column|Perspective|Review)\b/i,
+    titleSuffix: ' - The Washington Post',
+  },
   { name: 'The Wall Street Journal', url: 'https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness' },
   { name: 'Los Angeles Times',       url: 'https://www.latimes.com/index.rss' },
   { name: 'NPR News',                url: 'https://feeds.npr.org/1001/rss.xml' },
@@ -31,9 +38,11 @@ async function fetchHeadlines() {
         // Keep items with missing or unparseable dates (benefit of the doubt)
         return !pub || isNaN(pub.getTime()) || pub >= cutoff;
       });
-      const headlines = recent.slice(0, 3)
+      const headlines = recent
         .map(item => (item.title || '').trim())
-        .filter(t => t.length > 0);
+        .map(t => source.titleSuffix && t.endsWith(source.titleSuffix) ? t.slice(0, -source.titleSuffix.length) : t)
+        .filter(t => t.length > 0 && !(source.exclude && source.exclude.test(t)))
+        .slice(0, 3);
       results.push({
         source: source.name,
         headlines,
@@ -66,7 +75,10 @@ async function fetchHeadlines() {
 // Allow running standalone or as module
 if (require.main === module) {
   console.log('Fetching headlines...\n');
-  fetchHeadlines().catch(console.error);
+  fetchHeadlines().then(() => process.exit(0)).catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
 }
 
 module.exports = { fetchHeadlines };

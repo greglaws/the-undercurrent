@@ -6,10 +6,10 @@ A daily AI-generated artwork that interprets the collective mood beneath America
 
 ## How it works
 
-1. **Headlines are collected** from The New York Times, The Washington Post, The Wall Street Journal, Los Angeles Times, NPR News, and PBS NewsHour via their RSS feeds.
+1. **Headlines are collected** from The New York Times, The Washington Post, The Wall Street Journal, Los Angeles Times, NPR News, and PBS NewsHour via their RSS feeds (The Washington Post through Google News).
 2. **A generative prompt** combines those headlines with compositional direction — asking for symbolic interpretation, not illustration.
 3. **An AI image model** (Google Gemini / Imagen) generates the artwork.
-4. **A GitHub Actions workflow** runs this process daily and commits the result to the archive.
+4. **A GitHub Actions workflow** runs this process daily and commits the result to the archive. Failed runs and failing headline sources open a GitHub issue assigned to the repo owner, which closes itself on recovery.
 
 The site is a static gallery served via GitHub Pages. Previous works are preserved and viewable by scrolling.
 

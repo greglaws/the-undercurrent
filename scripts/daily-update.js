@@ -124,7 +124,9 @@ function updateGallery(today, ext) {
   console.log(`Gallery updated: ${gallery.length} entries (newest: ${today})`);
 }
 
-run().catch(err => {
+// Exit explicitly: rss-parser leaves the socket open when a feed returns an error
+// status, which would otherwise keep the process alive until the job times out
+run().then(() => process.exit(0)).catch(err => {
   console.error('\nFATAL:', err.message);
   process.exit(1);
 });
