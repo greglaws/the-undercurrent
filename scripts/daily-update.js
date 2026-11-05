@@ -128,5 +128,9 @@ function updateGallery(today, ext) {
 // status, which would otherwise keep the process alive until the job times out
 run().then(() => process.exit(0)).catch(err => {
   console.error('\nFATAL:', err.message);
+  // Picked up by report-health.js so the alert can state the cause
+  if (process.env.RUNNER_TEMP) {
+    fs.writeFileSync(path.join(process.env.RUNNER_TEMP, 'generation-error.txt'), err.message);
+  }
   process.exit(1);
 });

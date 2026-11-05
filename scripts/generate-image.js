@@ -11,13 +11,8 @@ The following headlines from the past week represent the themes to interpret:
 // Models to try in order of preference
 const GEMINI_MODELS = [
   'gemini-2.5-flash-image',
-  'gemini-3.1-flash-image-preview',
-  'gemini-3-pro-image-preview',
-];
-
-const IMAGEN_MODELS = [
-  'imagen-4.0-fast-generate-001',
-  'imagen-4.0-generate-001',
+  'gemini-3.1-flash-image',
+  'gemini-3-pro-image',
 ];
 
 async function generateWithGemini(apiKey, modelName, fullPrompt) {
@@ -42,36 +37,6 @@ async function generateWithGemini(apiKey, modelName, fullPrompt) {
   throw new Error('No image in response');
 }
 
-async function generateWithImagen(apiKey, modelName, fullPrompt) {
-  console.log(`  Trying ${modelName}...`);
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:predict?key=${apiKey}`;
-  const body = {
-    instances: [{ prompt: fullPrompt }],
-    parameters: { sampleCount: 1, aspectRatio: '16:9' },
-  };
-
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(body),
-  });
-
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`${res.status}: ${text.slice(0, 200)}`);
-  }
-
-  const data = await res.json();
-  if (data.predictions && data.predictions[0]) {
-    console.log(`  ✓ Success with ${modelName}`);
-    return {
-      data: data.predictions[0].bytesBase64Encoded,
-      mimeType: data.predictions[0].mimeType || 'image/png',
-    };
-  }
-  throw new Error('No predictions in response');
-}
-
 async function generateImage(headlinesText, outputPath) {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
@@ -82,7 +47,7 @@ async function generateImage(headlinesText, outputPath) {
   console.log(`Prompt length: ${fullPrompt.length} chars\n`);
 
   let imageData = null;
-  let lastError = null;
+  const errors = [];
 
   // Try Gemini image models
   for (const modelName of GEMINI_MODELS) {
@@ -90,28 +55,14 @@ async function generateImage(headlinesText, outputPath) {
       imageData = await generateWithGemini(apiKey, modelName, fullPrompt);
       break;
     } catch (err) {
-      const msg = err.message.slice(0, 150);
+      const msg = err.message.slice(0, 400);
       console.warn(`    ✗ ${msg}\n`);
-      lastError = err;
-    }
-  }
-
-  // Try Imagen models as fallback
-  if (!imageData) {
-    for (const modelName of IMAGEN_MODELS) {
-      try {
-        imageData = await generateWithImagen(apiKey, modelName, fullPrompt);
-        break;
-      } catch (err) {
-        const msg = err.message.slice(0, 150);
-        console.warn(`    ✗ ${msg}\n`);
-        lastError = err;
-      }
+      errors.push(`${modelName}: ${msg}`);
     }
   }
 
   if (!imageData) {
-    throw new Error('All models failed. Last error: ' + lastError.message);
+    throw new Error('All models failed.\n' + errors.join('\n'));
   }
 
   // Write image file

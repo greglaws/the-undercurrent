@@ -40,8 +40,16 @@ function readSources(date) {
   }
 }
 
+function readGenerationError() {
+  try {
+    return fs.readFileSync(path.join(process.env.RUNNER_TEMP, 'generation-error.txt'), 'utf-8');
+  } catch {
+    return null;
+  }
+}
+
 function raise(open, title, detail) {
-  const body = `${detail}\n\n[Workflow run](${RUN_URL})`;
+  const body = `${detail}\n\n[Workflow run](${RUN_URL}) · cc @${process.env.GITHUB_REPOSITORY_OWNER}`;
   const existing = open.find(issue => issue.title === title);
   if (existing) {
     gh('issue', 'comment', String(existing.number), '--body', body);
@@ -73,7 +81,8 @@ function run() {
 
   const problems = new Map();
   if (jobStatus !== 'success' || !hasArtwork(today)) {
-    problems.set(GENERATION_TITLE, `${today}: the daily run ended with status \`${jobStatus}\` and artwork for today ${hasArtwork(today) ? 'exists' : 'was not produced'}.`);
+    const cause = readGenerationError();
+    problems.set(GENERATION_TITLE, `${today}: the daily run ended with status \`${jobStatus}\` and artwork for today ${hasArtwork(today) ? 'exists' : 'was not produced'}.${cause ? `\n\n\`\`\`\n${cause}\n\`\`\`` : ''}`);
   }
 
   const sources = readSources(today);
