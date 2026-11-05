@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-05",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+        "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+        "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Bob Dylan meets Pope Leo XIV in a hoodie",
+        "Pennsylvania reports 6th measles-associated death",
+        "Her home was flooding. Teens saw her social media post and came to the rescue."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Insurer Sues Autism-Therapy Provider Over $160 Million in Allegedly Misleading Claims",
+        "General Mills Considering Separation of Haagen-Dazs Business Outside North America",
+        "Bomb Threats Cause Diverted Flights, Emergency Landings Across Europe"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "How Mayor-elect Raman will remake L.A. City Hall",
+        "She's got political savvy, good timing, or both. And she's about to become Mayor Raman",
+        "Newsom moves to commute all California death sentences to life in prison without parole"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Paraguay's president is impeached minutes after resigning following a bank collapse",
+        "Head of Justice Department office on Civil Rights resigns",
+        "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Paraguay prosecutor will seek charges against embattled president after bank collapse",
+        "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
+        "Elon Musk gambled $445 million to boost Republicans in the midterms. It came up short"
+      ]
+    }
+  ]
+}
