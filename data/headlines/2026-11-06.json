@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-06",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Fed Up With Politics and Struggle, Young Voters Rose Up",
+        "Texas Led the Conservative Overhaul of Education. What Now?",
+        "Trump Tried to Undermine the Nation’s Elections. It Didn’t Work."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Hegseth defends Iran war, assails critics as calls mount for his removal",
+        "U.S. taxpayers can shield an extra $500 from taxation next year",
+        "Republicans in North Carolina lose 4 more House seats as GOP wipeout spreads"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "‘What Everybody Is Concerned About Is Cyber’",
+        "Moscow Seizes Japan Tobacco’s Russia Factories",
+        "Dolly Parton’s Manager Drops Lawsuit Against Singer’s Nephew"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "How Mayor-elect Raman will remake L.A. City Hall",
+        "She's got political savvy, good timing, or both. And she's about to become Mayor Raman",
+        "Newsom moves to commute all California death sentences to life in prison without parole"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+        "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
+        "Morning news brief"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Alabama executes man for 1991 killings in last of 3 U.S. executions carried out the same day",
+        "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech",
+        "Tankers carrying Russian diesel change course, raising doubts about shipments to U.S."
+      ]
+    }
+  ]
+}
