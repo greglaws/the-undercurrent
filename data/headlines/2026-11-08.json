@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-08",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "For Trump and America, a Clear Election Verdict but a Murky Future",
+        "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
+        "Hakeem Jeffries, in Line to Become House Speaker, Promises Bold Agenda"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Macklemore says 9 U.S. venues turned down his Free Palestine tour",
+        "Susie Wiles’s exit adds to list of women leaving top roles in Trump administration",
+        "A reckoning pushes out six congressmen accused of sexual misconduct, domestic abuse"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
+        "How a Talent War Spelled Doom for the Traditional Law Firm",
+        "Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Raman, L.A. leaders join in condemnation after ICE officers reportedly detain two near Boyle Heights hospital",
+        "Undefeated UCLA proves why it should be ranked No. 1",
+        "L.A. mayors have long promised to end homelessness. Can Raman break the cycle of failure?"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "In Maine, a new approach to practicing medicine in the sky",
+        "Climate change is altering the colors we see in the world: an illustrated journey",
+        "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What is Diwali, the Festival of Lights, and how is it celebrated?",
+        "Sen. Chris Murphy's stroke at 53 highlights a trend: Strokes among younger adults have risen",
+        "Trump says he's asked UFC's Dana White to be his press secretary"
+      ]
+    }
+  ]
+}
