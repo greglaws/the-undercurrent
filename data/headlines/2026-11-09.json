@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-09",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Is Jensen Huang too Powerful to Be Punished by Nvidia?",
+        "Nvidia’s Stock Price Set to Drop After Investigation Into CEO Jensen Huang",
+        "What to Know About Nvidia’s Investigation of Its C.E.O."
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Dad arrested after leaving sleeping 6-year-old in line for Pokémon cards",
+        "Is AI taking white-collar jobs? Latest hiring report suggests not yet.",
+        "A short guide to Diwali and those who celebrate it"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Four Things to Watch as Power Changes Hands in Congress",
+        "What to Know About Nvidia’s Investigation After CEO’s Affair",
+        "Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are On Staff."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Nvidia CEO Jensen Huang's image tarnished by board investigation and affair, analysts say",
+        "Three dead after CHP chases suspected drunk driver near Baldwin Park",
+        "More than a dozen runners fall ill at Santa Barbara half-marathon"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+        "Democrats won big on issues like immigration. But ICE still has the money",
+        "Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Pope Leo arrives in Argentina and tells Milei that people, not the economy, should come first",
+        "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
+        "Native American women made history in tribal, state and federal elections"
+      ]
+    }
+  ]
+}
