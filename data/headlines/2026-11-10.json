@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-10",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "California Voters Reject Prop. 40 Billionaire Tax Measure",
+        "In a Democratic Wave, Even the Long Shots Defied the Odds",
+        "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Vanderbilt University shuts down devices after cyber attack",
+        "Recount begins in Florida congressional race amid conflict-of-interest claim",
+        "Mississippi Senate ballot deadline looms, as Democrat’s lead remains steady"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Mystery Behind a 50-Year-Old Factory Part Flying Off the Shelves",
+        "A Reined In Jensen Huang Is Nvidia’s Best Option",
+        "Why High Beef Prices Are Here to Stay"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Billionaire tax rejected on concern squeezing California's ultra-rich would harm the economy",
+        "Rep. Calvert declared winner in contested Southern California congressional race",
+        "L.A. County Supervisor Horvath first to file papers to run for elected county executive job"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+        "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+        "How word of mouth is helping an Amish community's fight against measles"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Nvidia's Jensen Huang faces scrutiny over alleged affair with Chinese spy",
+        "What China stands to gain from Nvidia's CEO's alleged affair with spy",
+        "Citing government pressure, Russia's top independent newspaper closes its office after three decades"
+      ]
+    }
+  ]
+}
