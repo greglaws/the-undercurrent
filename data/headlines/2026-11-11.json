@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-11",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Honor and Anguish: A Veterans Day When the Losses Are New",
+        "This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago",
+        "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Appeals court says VOA director was fired illegally by former head Kari Lake",
+        "House Democrats’ majority approaches a modern record",
+        "RFK Jr. says Senate GOP blocked his agenda, has lost ‘leverage’ post-midterms"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "One More Rate Hike Is Looking Like the Beginning, Not the End",
+        "About Your Next Board Meeting",
+        "CoreWeave Finds a Workaround to Capital Constraints—for Now"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Three dead, others injured in crash near North Hollywood Metro station",
+        "Raman's colleagues all opposed her run for mayor. Now some promise 'full support'",
+        "Gov.-elect Xavier Becerra names transition team"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+        "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
+        "Your guide to hosting a flavorful, cozy and stress-free Thanksgiving"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
+        "A breakdown of the impeachment articles filed against Pete Hegseth",
+        "News Wrap: U.S. charges 3 with plotting attacks"
+      ]
+    }
+  ]
+}
