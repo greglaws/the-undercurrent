@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-12",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Nvidia’s Board Is Weighing Jensen Huang’s Future",
+        "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+        "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "‘Grand Theft Auto VI’ reportedly passes $1B in sales a week before release",
+        "She gave a valedictorian speech in the spring. Now, she could be deported.",
+        "A distress call, a flight tracker and the rush to explain a Learjet crash"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Party Fractures and Voter Anger Topple Republicans in a Conservative Bastion",
+        "Seven Lessons From WSJ Readers About Switching to an EV",
+        "A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "After historic losses, California GOP faces a fight over its future",
+        "Democrat Scott Colom elected as Mississippi's first Black senator since Reconstruction",
+        "Targeted by Trump, L.A. County took action to speed up counting votes. Officials say it worked"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "At least 23 states considered laws governing ICE and schools this year",
+        "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+        "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Indictment sheds light on alleged Iran-backed plots across U.S. and Europe",
+        "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
+        "White House threatens Democrats over plans to investigate Trump officials"
+      ]
+    }
+  ]
+}
