@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-13",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+        "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+        "How the Deadly Brooklyn Building Collapse Unfolded"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "U.S. did little to help Singapore investigate alleged Chinese spy, officials say",
+        "Their backs against the wall, Commanders rally for prime-time win over Giants",
+        "Hegseth awards medal to soldier who admonished him, his team at Tomb of the Unknowns"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Leadership Message in the Nvidia Saga",
+        "A New York Construction Worker Fell for a Tiny Car—and Started a Rebellion",
+        "They Were the Indispensable CEOs—Until They Weren’t"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Notorious Graffiti Towers wiped clean in downtown Los Angeles",
+        "Troubled LAX people mover drops further into junk bond status as key deadline nears",
+        "Popular California beach closed amid E. coli outbreak"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Hegseth awards medal to soldier who chastised him",
+        "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+        "SpaceX's giant rocket may leave NASA in the dust"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Senators probe RFK Jr.'s reason for Samoa trip after letter refuting his testimony published",
+        "What to know about dengue fever as Florida reports more than 500 cases this year",
+        "What Huang's resignation means for chipmakers, AI and U.S. national security"
+      ]
+    }
+  ]
+}
