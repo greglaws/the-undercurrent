@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-14",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "What to Know About Friday’s Nationwide Ground Stop",
+        "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+        "What’s Behind the Trump-Huang Relationship?"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Tanker strike sinks cruise ship in New Orleans, plunging passengers into river",
+        "Spanberger reverses Virginia plan to participate in Trump’s school vouchers",
+        "How disgraced Nvidia CEO Jensen Huang became a close Trump ally"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson",
+        "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
+        "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "What caused the national ground stop? Here is what we know",
+        "Nationwide ground stop lifted, but passengers remain stranded at airports",
+        "How college football, NBA and NHL teams have been affected by national ground stop"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+        "An organ transplant controversy tests 'the dead donor rule'",
+        "As Democrats win big, thirst traps of male candidates take social media by storm"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt",
+        "FAA issues rare nationwide ground stop due to 'extraordinary circumstances'",
+        "News Wrap: Tanker crashes into river cruise boat in New Orleans"
+      ]
+    }
+  ]
+}
