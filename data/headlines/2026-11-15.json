@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-15",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+        "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
+        "What to Know About Continued Flight Disruptions"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep",
+        "All the unusual ways Jensen Huang crafted Nvidia in his own image",
+        "Guest Column | Stephen Miller dresses like a reasonable man. But listen to what he says."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Groundstop Ripples Into Third Day of Scrapped Flights",
+        "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
+        "Hear How the FAA’s Ground Stop Unfolded"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Airport nightmares continue as FAA struggles to pinpoint blame for historic meltdown",
+        "Airports, passengers recover from FAA meltdown as chaotic holiday travel season looms",
+        "‘The beach is not your friend this weekend’: Massive waves pummel California coast"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Midterm voters ended the long-running GOP dominance in state legislatures",
+        "A new generation of disability rights activists carry on Judy Heumann's legacy",
+        "New Mexico wanted free childcare for all. This is what's worked — and what hasn't"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Why a problem on the ground can affect flights thousands of miles away among other issues",
+        "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+        "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead"
+      ]
+    }
+  ]
+}
