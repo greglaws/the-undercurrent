@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-16",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Relentless Attacks on Ukraine’s Power Grid Threaten to Make Cities Unlivable",
+        "Nvidia Fallout Looms Over Trump-Xi Meeting",
+        "Megaspeed Says Alice Huang Left Company in August 2025"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "The link between microplastics and one of the deadliest cancers, and what to do",
+        "It’s not just an affair. Nvidia’s bigger issue could be chip smuggling.",
+        "IShowSpeed causes one-man Beatlemania. His advice to creators is personal."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "How Mastercard’s CEO Stays in Front of Change",
+        "Inside the Frenetic Month That Shook Wall Street’s AI Trade",
+        "Activist Calls on Landlord Invitation Homes to Sell Houses ‘One at a Time’"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California loses international students at twice the U.S. rate",
+        "Human remains found near Altadena home, homicide detectives say",
+        "Elizabeth Holmes’ partner Billy Evans breaks silence after A24 documentary backlash"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
+        "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+        "These birds fly 17,000 miles every year. Climate change could make it harder"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+        "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP",
+        "2 planes collide on the ground in Miami, only minor injuries reported"
+      ]
+    }
+  ]
+}
