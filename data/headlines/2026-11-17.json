@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-17",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "As Trump and Xi Mingle, Their Governments Are Arming Up",
+        "Trump Administration Divide on China Policy Breaks Into Public View",
+        "Debt Problems of the Richest Countries Are Trickling Down to the Poorest"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Stock market drops amid continued Nvidia fallout",
+        "Trump administration proposes restrictions for employer-sponsored green cards",
+        "CDC declined to alert risk of measles in pregnancy. A journal released the data."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Alice Huang’s Husband and the Data-Center Network Backed by China",
+        "How Nvidia’s Board Made Billions While Overseeing the Company",
+        "Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Judge refuses to delay ruling that L.A.’s top federal prosecutor is serving unlawfully",
+        "SoCal’s first atmospheric river storm of the season arrives this week: Here’s what it will bring",
+        "‘We cannot close our eyes.’ Thousands of LAUSD students walk out to protest ICE"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Trump arrives in Philippines to kick off Asia trip",
+        "She went to college to become a social worker. Now she's joined the skilled trades",
+        "Do school cellphone bans work? New study says yes – but it's complicated"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Trump appeals to state and federal courts to erase hush money criminal conviction",
+        "Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children",
+        "Pope bids 'hasta luego' to Peru as he wraps up marathon South America trip"
+      ]
+    }
+  ]
+}
