@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-18",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+        "For Democrats, a Leadership Fight Is Marring an Electoral Triumph",
+        "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Major Arab newspaper calls for decriminalization of same-sex relationships",
+        "ICE is detaining green-card holders over decades-old, minor violations",
+        "Hung Cao, Navy secretary nominee, faces tough questions in Senate hearing"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Art and Science of Sports Sponsorships",
+        "Nvidia’s Strong Results Do Little to Settle Questions About Its Future",
+        "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Mayor-elect Raman calls for special election to fill her L.A. City Council seat",
+        "Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill",
+        "Metrolink CEO Darren Kettle to step down amid criticism over rail agency's operations"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Greetings from a Berlin square, where an artist's statue watches over children at play",
+        "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+        "Trump lands in China with key meetings with Xi and Putin on the agenda"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "What a string of tech problems reveals about America's digital vulnerabilities",
+        "A look at China's technology industry amid AI race with the U.S.",
+        "News Wrap: U.S. no longer considered a measles-free nation"
+      ]
+    }
+  ]
+}
