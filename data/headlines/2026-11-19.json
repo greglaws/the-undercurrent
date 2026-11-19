@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-19",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Anthropic I.P.O. Highlights How Washington Has Fallen Behind",
+        "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+        "Anthropic Sells $81.3 Billion in Shares for a Record IPO"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Lifting weights on a GLP-1 is critical — but not because it saves muscle",
+        "‘Grand Theft Auto VI’ is an astonishing American epic",
+        "Muslims to outnumber Christians worldwide by 2035, study finds"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "See How Data Centers Became the Growth Engine of America’s Power Grid",
+        "Where Commerce Actually Begins",
+        "Alibaba Earnings Rebound Sharply as AI Profitability Improves"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "L.A. County issues evacuation warnings as storm nears; snow, flooding expected",
+        "Police price tag for L.A.'s '28 Summer Olympics could hit $4 billion, LAPD chief says",
+        "LA County child protective services worker charged with molesting children while on the  job"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+        "Morning news brief",
+        "Win a trip to go behind the news with NPR"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+        "Rainfall supercharged by El Ni&ntilde;o causes road flooding, synagogue roof collapse in South Florida",
+        "Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain"
+      ]
+    }
+  ]
+}
