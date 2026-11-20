@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-20",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "How Jensen Huang Made Humiliation Routine at Nvidia",
+        "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+        "China’s A.I. Ambitions Are Running Into a Money Problem"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Virginia school district shuts after finding 500 staff weren’t properly screened",
+        "White House replaces top cybersecurity official after string of outages",
+        "Commanders’ defense faces a tough test vs. Bengals. Here are the X factors to watch."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "What Columbia Sportswear’s Ads Say About Its Culture",
+        "A Navy Fighter Pilot’s Worst Fear: Forgetting His Uncrustables",
+        "Parents Are ‘Flying Blind’ in an Exploding Autism-Therapy Industry"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California State Bar opens investigation into former White House Press Secretary Katie Zacharia",
+        "'Staggering' rail heists targeted dozens of L.A. trains, netted $22 million in shoes, other goods, feds say",
+        "California subpoenas Nvidia as questions about CEO affair, AI chips mount"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "How exactly did Trump get so rich on crypto? We explain",
+        "New York City unveils a bold plan to move its jails off Rikers Island",
+        "Critics are calling what brand-new release a masterpiece? The quiz knows"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Do you need a measles booster shot now that the U.S. has lost its elimination status?",
+        "FCC votes to allow state prisons to jam signals from contraband cellphones",
+        "Inside the historic summit between Trump, Xi and Putin"
+      ]
+    }
+  ]
+}
