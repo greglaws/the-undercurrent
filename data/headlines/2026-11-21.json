@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-21",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+        "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+        "What Is a Stock Market Correction?"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "Princeton student detained by ICE at D.C. airport is being held in Virginia",
+        "Semafor discloses paid ties to Trump and Harris advisers in updated articles",
+        "Trump closed a beloved D.C. golf course. D.C.’s playing it anyway."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+        "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
+        "Activist Nelson Peltz Walked Away From the Investment He Loved Most. Now He’s Back."
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "D.A. won't charge LAPD officer who shot mentally ill man in family's Koreatown apartment",
+        "Palisades arson retrial ends with conviction of man accused of sparking deadly wildfire",
+        "Nasdaq goes negative for the year, tech stocks slammed by AI swoon"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "5 ways to turn off your 'work brain' after the day ends",
+        "The AI boom had a really bad week — and it's raising loud alarms",
+        "An effort to circumvent the Electoral College may be within reach. But hurdles remain"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+        "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+        "What Trump addressed during his lengthy White House news conference"
+      ]
+    }
+  ]
+}
