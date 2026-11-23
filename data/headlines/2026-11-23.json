@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-23",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+        "Wall Street Set to Bounce Back After Tough Week",
+        "Behind China’s A.I. Anxieties, Fear of a Nuclear Checkmate"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [
+        "These dogs live the diplomatic life in 7 embassies around D.C.",
+        "Federal scientists flag new cancer concerns with common herbicide",
+        "Retiring with a 401(k)? Be sure you understand the tax rules for it."
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Why Ken Chenault Is Calling for an AI ‘Manifesto’",
+        "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
+        "A Former Pharmacist’s $875 Million Startup Deal Went Toxic Fast. Was It a ‘Buy-and-Kill?’"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "California coast faces extreme flood threat on holiday; water could inundate Bay Area airports",
+        "Tarik Skubal moves on from the Dodgers, agrees to record $450-million deal with Mets",
+        "Magnitude 3.3 earthquake rumbles near El Segundo"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+        "Seniors embrace Tesla automated driving technology despite questions about safety",
+        "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism",
+        "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
+        "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving"
+      ]
+    }
+  ]
+}
