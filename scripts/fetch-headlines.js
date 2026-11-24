@@ -4,17 +4,12 @@ const path = require('path');
 
 const parser = new RSSParser();
 
-// RSS feeds for the six papers (all independently owned)
+// RSS feeds for the six outlets (all independently owned)
 const FEEDS = [
   { name: 'The New York Times',      url: 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml' },
-  // WaPo's own feeds return errors, so read its stories through Google News. Unlike a
-  // homepage feed this includes opinion pieces and appends the outlet to each title.
-  {
-    name: 'The Washington Post',
-    url: 'https://news.google.com/rss/search?q=site:washingtonpost.com+when:1d&hl=en-US&gl=US&ceid=US:en',
-    exclude: /^(Opinion|Analysis|Column|Perspective|Review)\b/i,
-    titleSuffix: ' - The Washington Post',
-  },
+  // Semafor replaced The Washington Post, whose RSS feeds stopped working (400/502 from
+  // Sept 2026) and whose Google News fallback was rate-limited (429) from CI runners.
+  { name: 'Semafor',                 url: 'https://www.semafor.com/rss.xml' },
   { name: 'The Wall Street Journal', url: 'https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness' },
   { name: 'Los Angeles Times',       url: 'https://www.latimes.com/index.rss' },
   { name: 'NPR News',                url: 'https://feeds.npr.org/1001/rss.xml' },
