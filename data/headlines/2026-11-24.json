@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-24",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+        "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+        "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang"
+      ]
+    },
+    {
+      "source": "The Washington Post",
+      "headlines": [],
+      "error": "Status code 429"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "After Jensen Huang’s Return, Where Does Corporate Governance Go?",
+        "The White House Push to Reinstate Jensen Huang",
+        "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Huang's reinstatement, at Trump's urging, prompts national security concerns, outcry from lawmakers",
+        "Nvidia board reinstates Jensen Huang. 'It's wrong, and it's shocking,' California AG Bonta says",
+        "Stocks surge and recover half of last week’s plunge as tech stocks rebound"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Doctors struggle to save babies after parents refuse vitamin K",
+        "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+        "Bleeding, birth defects: Congo residents sue over alleged mining pollution"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Why Trump pushed for Jensen Huang's return to Nvidia",
+        "Experts weigh national security implications of Huang's return to Nvidia",
+        "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures"
+      ]
+    }
+  ]
+}
