@@ -2,11 +2,11 @@
 
 **[View the gallery](https://greglaws.github.io/the-undercurrent/)**
 
-A daily AI-generated artwork that interprets the collective mood beneath American news headlines. Each day, front-page headlines from six major newspapers are gathered over a rolling seven-day window, then fed to an AI image model that produces a single symbolic, surrealist composition — no text, no literal depictions, just a visual reading of what lies between the lines.
+A daily AI-generated artwork that interprets the collective mood beneath American news headlines. Each day, front-page headlines from six major news outlets are gathered over a rolling seven-day window, then fed to an AI image model that produces a single symbolic, surrealist composition — no text, no literal depictions, just a visual reading of what lies between the lines.
 
 ## How it works
 
-1. **Headlines are collected** from The New York Times, The Washington Post, The Wall Street Journal, Los Angeles Times, NPR News, and PBS NewsHour via their RSS feeds (The Washington Post through Google News).
+1. **Headlines are collected** from The New York Times, Semafor, The Wall Street Journal, Los Angeles Times, NPR News, and PBS NewsHour via their RSS feeds.
 2. **A generative prompt** combines those headlines with compositional direction — asking for symbolic interpretation, not illustration.
 3. **An AI image model** (Google Gemini / Imagen) generates the artwork.
 4. **A GitHub Actions workflow** runs this process daily and commits the result to the archive. Failed runs and failing headline sources open a GitHub issue assigned to the repo owner, which closes itself on recovery.
