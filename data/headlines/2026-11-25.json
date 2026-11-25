@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-25",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
+        "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
+        "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy"
+      ]
+    },
+    {
+      "source": "Semafor",
+      "headlines": [
+        "Democratic test looms on US-Israel policy",
+        "Thanksgiving dinner costs spotlight persistent US inflation",
+        "Miller’s AI task force involvement still taking shape"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "How Pegasystems’ Founder CEO Built a Culture for the ‘Long Haul’",
+        "These Charts Show How Fed Up Americans Are With the Cost of Streaming",
+        "The Deadly Problem the Car Industry Can’t Solve: Holdouts Who Won’t Buckle Up"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "High tide breaks 44-year-old record in S.F. as California communities brace for higher water",
+        "Predicted flooding from king tides has communities racing to protect their homes",
+        "Nvidia scandal widens rift between Trump and GOP as Congress unites in alarm"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "Buying new things feels wonderful. But it can also be a trap",
+        "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
+        "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "How Trump may have profited from Huang's return to Nvidia",
+        "What's next for Nvidia and Jensen Huang after Trump's intervention",
+        "News Wrap: California's king tides could be biggest in 4 decades"
+      ]
+    }
+  ]
+}
