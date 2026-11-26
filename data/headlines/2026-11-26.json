@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-26",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "The Thanksgiving Parade on Saturday. Can They Do That?",
+        "Macy’s Thanksgiving Day Parade Sours Holiday Plans for Tourists",
+        "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long."
+      ]
+    },
+    {
+      "source": "Semafor",
+      "headlines": [
+        "Netanyahu gets boost in long-running corruption trial",
+        "US economy expands at a rapid 4.3% in third quarter",
+        "Tech selloff extends on AI, neocloud jitters"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Judge Says FCC Must Stop ABC License Review",
+        "The Other Nvidia Romance With an Executive at a Company Linked to China",
+        "The Race to Make Dinner Delivery More Affordable"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Pier collapses, seawalls breached, homes flooded as big waves, historic high tides hit California",
+        "Sunset Beach's fortifications against El Niño lessen flood damage, officials say",
+        "Trump, FCC illegally sought to punish ABC in free speech case, judge rules"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+        "'Memories of a Good Meal': How food made a difference during WWII",
+        "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Small plane crash off Mississippi coast kills extended family of 6 on fishing trip",
+        "WATCH: Vance defends Iowa lead azide detonation as he visits Air Force troops in Ohio",
+        "How Trump's newest tariffs could impact Americans and the economy"
+      ]
+    }
+  ]
+}
