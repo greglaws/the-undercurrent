@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-27",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back",
+        "Holiday Deals Are Tempting. Here’s How to Avoid Buyer’s Remorse.",
+        "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments"
+      ]
+    },
+    {
+      "source": "Semafor",
+      "headlines": [
+        "‘Innovation is never democratic’: Benedetto Vigna on Ferrari’s electric shock",
+        "Saudi wealth fund shelves medical distributor’s IPO",
+        "AI reshapes Black Friday shopping"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Meituan Posts Earnings Beat as Price War Cools",
+        "They Pledged to Give Away 10% of Their Income. Now They’re AI Billionaires.",
+        "The Savvy Showmanship That Helps Jensen Huang Always Come Out on Top"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "One flood threat eases as another looms: Heavy rain takes aim at Southern California",
+        "The truth behind Thanksgiving 405 Freeway gridlock",
+        "Appeals court temporarily pauses order disqualifying L.A.’s top federal prosecutor"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+        "Can luxury save Macy's?",
+        "Screen free tweens try their hand at Dungeons & Dragons"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "Stormy Thanksgiving weather causes delays and damages for many Americans",
+        "News Wrap: EPA reports 'zero' airborne lead in Iowa",
+        "Despite political divide, Americans often 'speak in one voice'"
+      ]
+    }
+  ]
+}
