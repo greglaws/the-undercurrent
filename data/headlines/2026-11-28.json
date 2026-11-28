@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-28",
+  "sources": [
+    {
+      "source": "The New York Times",
+      "headlines": [
+        "Millions of Children Are Losing Food Stamps",
+        "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+        "Freed From a Notorious Syrian Prison, but Still Trapped by Its Terror"
+      ]
+    },
+    {
+      "source": "Semafor",
+      "headlines": [
+        "Kenya’s Chinese solar imports surge amid diesel volatility",
+        "Borrowing rise could offer economic boost, reportsays",
+        "Senegal speaker urges early elections over debt rift"
+      ]
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headlines": [
+        "Inside China’s $4 Billion Secondhand Luxury Boom",
+        "Allstate Joins Growing List of Companies Hit by Tech Outages",
+        "Auto & Transport Roundup: Market Talk"
+      ]
+    },
+    {
+      "source": "Los Angeles Times",
+      "headlines": [
+        "Ugarte declares victory in 9th Council District race, beating Mazariegos by 66 votes",
+        "Series of storms headed for Southern California; heaviest rain coming Tuesday, Wednesday",
+        "‘The trash is not OK’: An L.A. immigrant’s two-year quest for a cleaner city"
+      ]
+    },
+    {
+      "source": "NPR News",
+      "headlines": [
+        "New wave of Democratic attorneys general may reshape the justice system",
+        "Sudan's lost generation: War is stealing the childhood of millions",
+        "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels"
+      ]
+    },
+    {
+      "source": "PBS NewsHour",
+      "headlines": [
+        "News Wrap: Crews work to restore power for thousands after Thanksgiving storm",
+        "American consumers face pitfalls with rise of 'buy now, pay later'",
+        "How online gambling is changing the game and impacting athletes"
+      ]
+    }
+  ]
+}
